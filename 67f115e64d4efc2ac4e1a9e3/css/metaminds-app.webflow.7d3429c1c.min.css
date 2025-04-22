@@ -4599,7 +4599,7 @@ p {
 .navl-link {
   z-index: 200;
   pointer-events: auto;
-  color: #c9c9ffe6;
+  color: white;
   flex-flow: column;
   flex: none;
   justify-content: center;
@@ -4847,7 +4847,7 @@ p {
 .hero-bg_overlay {
   z-index: 1;
   opacity: .3;
-  background-image: linear-gradient(60deg, #6d6dff, #000 52%, #0000), linear-gradient(#00000080, #00000080);
+  background-image: linear-gradient(60deg, #27aae1, #000 52%, #0000), linear-gradient(#00000080, #00000080);
   position: absolute;
   inset: 0%
 }
@@ -5337,7 +5337,7 @@ p {
 .glowing_card {
   grid-column-gap: 20px;
   grid-row-gap: 20px;
-  background-image: linear-gradient(#000, #27275b);
+  background-image: linear-gradient(#000, #27aae1);
   border: 1px solid #3d3d3d;
   border-radius: 30px;
   flex-flow: column;
@@ -7405,7 +7405,7 @@ p {
 }
 
 .text-size-medium.is-manrope {
-  color: #989898;
+  color: #ebebeb;
   font-family: Manrope, sans-serif
 }
 
@@ -7489,7 +7489,7 @@ p {
 }
 
 .test-button {
-  color: #c9c9ffe6;
+  color: white;
   -webkit-text-fill-color: inherit;
   background-image: none;
   background-clip: border-box;
