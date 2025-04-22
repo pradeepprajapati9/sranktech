@@ -149,7 +149,7 @@
             </div>
         </div>
         <div class="main-wrapper">
-            <?php include("layout/nav.php");?>
+            <?php include("layout/nav.php"); ?>
 
 
             <div style="display:none" class="form-main-wrap">
@@ -437,13 +437,13 @@
                                                         class="image-71">
                                                 </div>
                                                 <div class="tag-text">
-                                                    Best Digital Marketing & Web Designing  
+                                                    Best Digital Marketing & Web Designing
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="hero_title-wrap">
                                             <h1 words-slide-from-right text-split class="heading-style-h1 vh">
-                                               SrankTech
+                                                SrankTech
                                             </h1>
                                             <div class="p-wrap is-hero">
                                                 <p
@@ -1135,7 +1135,7 @@
                                         </div>
                                     </div>
                                     <h2 words-slide-from-right text-split class="about-tile is-res">
-                                    About CompTech Agency And It's Innovative IT Solutions
+                                        About CompTech Agency And It's Innovative IT Solutions
                                         <br>
                                     </h2>
                                 </div>
@@ -1310,7 +1310,7 @@
                                     </div>
                                 </div>
                                 <h2 words-slide-from-right text-split class="heading-style-h2">
-                                Services Built Specifically For 
+                                    Services Built Specifically For
                                     <strong>YOUR BUSINESS</strong> from the crowd!
                                 </h2>
                             </div>
@@ -1345,7 +1345,7 @@
                                             </h3>
                                             <div class="p-wrap is-feature-1">
                                                 <p data-w-id="50fa7323-6378-564e-df64-f25833c231b0" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="text-size-medium is-manrope">
-                                                The Future is Mobile. Be There with a CompTech's Exceptional Mobile app Development services
+                                                    The Future is Mobile. Be There with a CompTech's Exceptional Mobile app Development services
                                                 </p>
                                             </div>
                                         </div>
@@ -1377,7 +1377,7 @@
                                             <h3 data-w-id="113ff13e-45d2-48df-4c50-9291f48b87f7" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="heading-style-h3">Website Development</h3>
                                             <div class="p-wrap is-feature-1">
                                                 <p data-w-id="60c6ee83-2e83-5aa6-2f04-17a0681ead26" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="text-size-medium is-manrope">
-                                                We don't build websites, we build online experiences that bring the feeling of Wow. Choose CompTech.
+                                                    We don't build websites, we build online experiences that bring the feeling of Wow. Choose CompTech.
                                                 </p>
                                             </div>
                                             <div class="div-block-350">
@@ -3575,4 +3575,4 @@
                 </div>
             </section>
         </div>
-<?php include('layout/footer.php');?>
+        <?php include('layout/footer.php'); ?>
