@@ -2,7 +2,8 @@
 <!-- Last Published: Mon Apr 21 2025 06:17:43 GMT+0000 (Coordinated Universal Time) -->
 <html
     data-wf-page="67f115e64d4efc2ac4e1a9e7"
-    data-wf-site="67f115e64d4efc2ac4e1a9e3"
+  
+    data-wf-site="asset"
     lang="en"
     data-wf-locale="en">
 
@@ -149,14 +150,14 @@
             </div>
         </div>
         <div class="main-wrapper">
-            <?php include("layout/nav.php");?>
+            <?php include("layout/nav.php"); ?>
 
 
             <div style="display:none" class="form-main-wrap">
                 <div data-w-id="0e617da5-ee5c-67fc-75be-7ad3c0438e34" style="opacity:0" class="form_bg-wrap">
                     <div
-                        data-poster-url="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3%2F67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-poster-00001.jpg"
-                        data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3%2F67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3%2F67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.webm"
+                        data-poster-url="https://cdn.prod.website-files.com/asset%2F67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-poster-00001.jpg"
+                        data-video-urls="https://cdn.prod.website-files.com/asset%2F67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.mp4,https://cdn.prod.website-files.com/asset%2F67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.webm"
                         data-autoplay="true"
                         data-loop="true"
                         data-wf-ignore="true"
@@ -165,13 +166,13 @@
                             id="96bad4b5-d797-55ef-a8d1-49357b058743-video"
                             autoplay
                             loop
-                            style="background-image:url(&quot;67f115e64d4efc2ac4e1a9e367ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-poster-00001.jpg&quot;)"
+                            style="background-image:url(&quot;asset67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-poster-00001.jpg&quot;)"
                             muted
                             playsinline
                             data-wf-ignore="true"
                             data-object-fit="cover">
-                            <source src="67f115e64d4efc2ac4e1a9e367ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.mp4" data-wf-ignore="true">
-                            <source src="67f115e64d4efc2ac4e1a9e367ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.webm" data-wf-ignore="true">
+                            <source src="asset67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.mp4" data-wf-ignore="true">
+                            <source src="asset67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.webm" data-wf-ignore="true">
                         </video>
                     </div>
                 </div>
@@ -437,13 +438,13 @@
                                                         class="image-71">
                                                 </div>
                                                 <div class="tag-text">
-                                                    Best Digital Marketing & Web Designing  
+                                                    Best Digital Marketing & Web Designing
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="hero_title-wrap">
                                             <h1 words-slide-from-right text-split class="heading-style-h1 vh">
-                                               SrankTech
+                                                SrankTech
                                             </h1>
                                             <div class="p-wrap is-hero">
                                                 <p
@@ -881,7 +882,7 @@
                                         </div>
                                     </div>
                                     <h2 words-slide-from-right text-split class="about-tile is-res">
-                                    About CompTech Agency And It's Innovative IT Solutions
+                                        About CompTech Agency And It's Innovative IT Solutions
                                         <br>
                                     </h2>
                                 </div>
@@ -965,6 +966,9 @@
                                         <div
                                             data-poster-url="img/edit.mp4"
                                             data-video-urls="img/edit.mp4"
+                                            data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67bd69553f7495f51103107d_phone%20app%20reel-poster-00001.jpg"
+                                            data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm"
+
                                             data-autoplay="true"
                                             data-loop="true"
                                             data-wf-ignore="true"
@@ -978,8 +982,13 @@
                                                 playsinline
                                                 data-wf-ignore="true"
                                                 data-object-fit="cover">
+<<<<<<< HEAD
                                                 <source src="img/edit.mp4" data-wf-ignore="true">
                                                 <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm" data-wf-ignore="true">
+=======
+                                                <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.mp4" data-wf-ignore="true">
+                                                <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm" data-wf-ignore="true">
+>>>>>>> b6bc567b26f87a9f0b64f291cbe6e6240f313af2
                                             </video>
                                         </div>
                                     </div>
@@ -1056,7 +1065,7 @@
                                     </div>
                                 </div>
                                 <h2 words-slide-from-right text-split class="heading-style-h2">
-                                Services Built Specifically For 
+                                    Services Built Specifically For
                                     <strong>YOUR BUSINESS</strong> from the crowd!
                                 </h2>
                             </div>
@@ -1091,7 +1100,7 @@
                                             </h3>
                                             <div class="p-wrap is-feature-1">
                                                 <p data-w-id="50fa7323-6378-564e-df64-f25833c231b0" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="text-size-medium is-manrope">
-                                                The Future is Mobile. Be There with a CompTech's Exceptional Mobile app Development services
+                                                    The Future is Mobile. Be There with a CompTech's Exceptional Mobile app Development services
                                                 </p>
                                             </div>
                                         </div>
@@ -1123,7 +1132,7 @@
                                             <h3 data-w-id="113ff13e-45d2-48df-4c50-9291f48b87f7" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="heading-style-h3">Website Development</h3>
                                             <div class="p-wrap is-feature-1">
                                                 <p data-w-id="60c6ee83-2e83-5aa6-2f04-17a0681ead26" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="text-size-medium is-manrope">
-                                                We don't build websites, we build online experiences that bring the feeling of Wow. Choose CompTech.
+                                                    We don't build websites, we build online experiences that bring the feeling of Wow. Choose CompTech.
                                                 </p>
                                             </div>
                                             <div class="div-block-350">
@@ -3321,4 +3330,4 @@
                 </div>
             </section>
         </div>
-<?php include('layout/footer.php');?>
+        <?php include('layout/footer.php'); ?>
