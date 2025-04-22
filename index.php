@@ -149,7 +149,7 @@
             </div>
         </div>
         <div class="main-wrapper">
-            <?php include("../layout/nav.php");?>
+            <?php include("layout/nav.php");?>
 
 
             <div style="display:none" class="form-main-wrap">
@@ -3575,4 +3575,4 @@
                 </div>
             </section>
         </div>
-<?php include('../layout/footer.php');?>
+<?php include('layout/footer.php');?>
