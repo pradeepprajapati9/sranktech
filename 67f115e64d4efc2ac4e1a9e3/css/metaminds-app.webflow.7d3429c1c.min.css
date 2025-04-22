@@ -5018,56 +5018,13 @@ p {
 }
 
 .c-logo_img._1 {
-  width: 181.5px
+  width: 320px
 }
 
 .c-logo_img._2 {
-  width: 50px
+  width: 320px
 }
 
-.c-logo_img._3 {
-  width: 117px
-}
-
-.c-logo_img._4 {
-  width: 115px
-}
-
-.c-logo_img._5 {
-  width: 125.5px
-}
-
-.c-logo_img._6 {
-  width: 112px
-}
-
-.c-logo_img._7 {
-  width: 103px
-}
-
-.c-logo_img._8 {
-  width: 110px
-}
-
-.c-logo_img._9 {
-  width: 154.5px
-}
-
-.c-logo_img._10 {
-  width: 191.5px
-}
-
-.c-logo_img._11 {
-  width: 86px
-}
-
-.c-logo_img._12 {
-  width: 52px
-}
-
-.c-logo_img._13 {
-  width: 130px
-}
 
 .car-select_content-wrap {
   grid-column-gap: 48px;
@@ -5099,8 +5056,8 @@ p {
 
 .image-main-2 {
   object-fit: cover;
-  width: 100%;
-  height: 100%;
+  width: 73%;
+  height: 90%;
   font-size: 10px
 }
 
