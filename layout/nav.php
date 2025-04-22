@@ -14,12 +14,12 @@
                                 <figure class="uui-logo_logomark">
                                     <img
                                         loading="lazy"
-                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa3d_Plus%20circle.svg"
+                                        src="img/logo.png"
                                         alt
                                         class="brand-logo-rounded-nav is-desk">
                                     <img
                                         loading="lazy"
-                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae5_Frame%20427320050.svg"
+                                        src="img/logo.png"
                                         alt
                                         class="brand-logo-rounded-nav is-mob">
                                 </figure>
