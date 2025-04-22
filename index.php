@@ -2,7 +2,7 @@
 <!-- Last Published: Mon Apr 21 2025 06:17:43 GMT+0000 (Coordinated Universal Time) -->
 <html
     data-wf-page="67f115e64d4efc2ac4e1a9e7"
-    data-wf-site="67f115e64d4efc2ac4e1a9e3"
+    data-wf-site="asset"
     lang="en"
     data-wf-locale="en">
 
@@ -13,14 +13,14 @@
     <meta content="." name="description">
     <meta content="" property="og:title">
     <meta content="" property="og:description">
-    <meta content="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f4f46fa4e8804f8df7efe9_256X256.png" property="og:image">
+    <meta content="https://cdn.prod.website-files.com/asset/67f4f46fa4e8804f8df7efe9_256X256.png" property="og:image">
     <meta content="" property="twitter:title">
     <meta content="" property="twitter:description">
-    <meta content="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f4f46fa4e8804f8df7efe9_256X256.png" property="twitter:image">
+    <meta content="https://cdn.prod.website-files.com/asset/67f4f46fa4e8804f8df7efe9_256X256.png" property="twitter:image">
     <meta property="" content="website">
     <meta content="" name="twitter:card">
     <meta content="" name="viewport">
-    <link href="67f115e64d4efc2ac4e1a9e3/css/metaminds-app.webflow.7d3429c1c.min.css" rel="stylesheet" type="text/css">
+    <link href="asset/css/metaminds-app.webflow.7d3429c1c.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com" rel="preconnect">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
     <script src="ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -38,8 +38,8 @@
             n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
         }(window, document);
     </script>
-    <link href="67f115e64d4efc2ac4e1a9e3/6802569955b27830a5df1268_mm-32x32.png" rel="shortcut icon" type="image/x-icon">
-    <link href="67f115e64d4efc2ac4e1a9e3/6802569dd3e80ba1ff09b323_mm-256x256.png" rel="apple-touch-icon">
+    <link href="asset/6802569955b27830a5df1268_mm-32x32.png" rel="shortcut icon" type="image/x-icon">
+    <link href="asset/6802569dd3e80ba1ff09b323_mm-256x256.png" rel="apple-touch-icon">
     <link href="https://metaminds.studio/" rel="canonical">
     <!-- Google tag (gtag.js) -->
     <script async src="gtag/js?id=AW-17009233278"></script>
@@ -128,7 +128,7 @@
                                 class="wts-btn w-inline-block">
                                 <div class="div-block-339">
                                     <img
-                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad3_whatapp.svg"
+                                        src="asset/67f115e64d4efc2ac4e1aad3_whatapp.svg"
                                         loading="lazy"
                                         alt="Whatsapp Icon"
                                         class="image-main i-w-icon">
@@ -155,8 +155,8 @@
             <div style="display:none" class="form-main-wrap">
                 <div data-w-id="0e617da5-ee5c-67fc-75be-7ad3c0438e34" style="opacity:0" class="form_bg-wrap">
                     <div
-                        data-poster-url="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3%2F67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-poster-00001.jpg"
-                        data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3%2F67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3%2F67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.webm"
+                        data-poster-url="https://cdn.prod.website-files.com/asset%2F67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-poster-00001.jpg"
+                        data-video-urls="https://cdn.prod.website-files.com/asset%2F67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.mp4,https://cdn.prod.website-files.com/asset%2F67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.webm"
                         data-autoplay="true"
                         data-loop="true"
                         data-wf-ignore="true"
@@ -165,13 +165,13 @@
                             id="96bad4b5-d797-55ef-a8d1-49357b058743-video"
                             autoplay
                             loop
-                            style="background-image:url(&quot;67f115e64d4efc2ac4e1a9e367ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-poster-00001.jpg&quot;)"
+                            style="background-image:url(&quot;asset67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-poster-00001.jpg&quot;)"
                             muted
                             playsinline
                             data-wf-ignore="true"
                             data-object-fit="cover">
-                            <source src="67f115e64d4efc2ac4e1a9e367ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.mp4" data-wf-ignore="true">
-                            <source src="67f115e64d4efc2ac4e1a9e367ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.webm" data-wf-ignore="true">
+                            <source src="asset67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.mp4" data-wf-ignore="true">
+                            <source src="asset67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-transcode.webm" data-wf-ignore="true">
                         </video>
                     </div>
                 </div>
@@ -400,7 +400,7 @@
                         <div class="div-block-14"></div>
                         <div
                             data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67bc45b46186cb87ad2bb889_cropped%20screen1130x940-poster-00001.jpg"
-                            data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.webm"
+                            data-video-urls="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.mp4,https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.webm"
                             data-autoplay="true"
                             data-loop="true"
                             data-wf-ignore="true"
@@ -414,8 +414,8 @@
                                 playsinline
                                 data-wf-ignore="true"
                                 data-object-fit="cover">
-                                <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.mp4" data-wf-ignore="true">
-                                <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.webm" data-wf-ignore="true">
+                                <source src="asset/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.mp4" data-wf-ignore="true">
+                                <source src="asset/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.webm" data-wf-ignore="true">
                             </video>
                         </div>
                     </div>
@@ -431,7 +431,7 @@
                                             <div data-w-id="06357e38-59eb-b9eb-a1d5-5c07659d90d6" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero_tag-bar">
                                                 <div class="tag_inner">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab27_clutch-logo-png_seeklogo-352148_1-removebg-preview%201.png"
+                                                        src="asset/67f115e64d4efc2ac4e1ab27_clutch-logo-png_seeklogo-352148_1-removebg-preview%201.png"
                                                         loading="lazy"
                                                         alt="Clutch Logo"
                                                         class="image-71">
@@ -464,269 +464,15 @@
                                                 <div class="c-logo_img _1">
                                                     <img
                                                         loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab32_samsung_logo.svg.png"
+                                                        src="img/srankBazaar.png"
                                                         alt="Client logo: Samsung"
                                                         class="image-main-2">
                                                 </div>
                                                 <div class="c-logo_img _2">
                                                     <img
                                                         loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2e_holiday_inn_logo.svg.png"
+                                                        src="img/srankyatra.png"
                                                         alt="Client logo: Holiday Inn"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _3">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab48_Frame%20427320116.png"
-                                                        alt="Client logo: Stealthy"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _5">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab30_Group%2036732.png"
-                                                        alt="Client logo: Param Renewable"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _6">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67ff8e4addb3e597a7223c1d_astro-vistar.png"
-                                                        alt="Client logo: Astro Vistar"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _7">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2a_ageasybyantaracom_logo.svg.png"
-                                                        alt="Client logo: AGEasy by antaracom Logo"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _8">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2d_Frame%20427320114.png"
-                                                        alt="Client logo: Matrix Gas"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _9">
-                                                    <img
-                                                        sizes="(max-width: 618px) 100vw, 618px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab33_image%2520217-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab33_image%20217.png 618w"
-                                                        alt="Client logo: Gensol"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab33_image%20217.png"
-                                                        loading="lazy"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _10">
-                                                    <img
-                                                        sizes="(max-width: 766px) 100vw, 766px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2c_Frame%2520427320098-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2c_Frame%20427320098.png 766w"
-                                                        alt="Client logo: Value per Sqft"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2c_Frame%20427320098.png"
-                                                        loading="lazy"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _11">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab31_Max_Group_logo.svg%203.png"
-                                                        alt="Client logo: Max Group Logo "
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _12">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab35_Screenshot_2024-11-15_135038-removebg-preview%204.png"
-                                                        alt="Client logo: Big Business Events"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _13">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab47_1703175126-frame%20%281%29%204.png"
-                                                        alt="Client logo: Tronic"
-                                                        class="image-main-2">
-                                                </div>
-                                            </div>
-                                            <div style="-webkit-transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="logos_row">
-                                                <div class="c-logo_img _1">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab32_samsung_logo.svg.png"
-                                                        alt="Client logo: Samsung"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _2">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2e_holiday_inn_logo.svg.png"
-                                                        alt="Client logo: Holiday Inn"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _3">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab48_Frame%20427320116.png"
-                                                        alt="Client logo: Stealthy"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _5">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab30_Group%2036732.png"
-                                                        alt="Client logo: Param Renewable"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _6">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67ff8e4addb3e597a7223c1d_astro-vistar.png"
-                                                        alt="Client logo: Astro Vistar"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _7">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2a_ageasybyantaracom_logo.svg.png"
-                                                        alt="Client logo: AGEasy by antaracom Logo"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _8">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2d_Frame%20427320114.png"
-                                                        alt="Client logo: Matrix Gas"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _9">
-                                                    <img
-                                                        sizes="(max-width: 618px) 100vw, 618px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab33_image%2520217-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab33_image%20217.png 618w"
-                                                        alt="Client logo: Gensol"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab33_image%20217.png"
-                                                        loading="lazy"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _10">
-                                                    <img
-                                                        sizes="(max-width: 766px) 100vw, 766px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2c_Frame%2520427320098-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2c_Frame%20427320098.png 766w"
-                                                        alt="Client logo: Value per Sqft"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2c_Frame%20427320098.png"
-                                                        loading="lazy"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _11">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab31_Max_Group_logo.svg%203.png"
-                                                        alt="Client logo: Max Group Logo "
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _12">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab35_Screenshot_2024-11-15_135038-removebg-preview%204.png"
-                                                        alt="Client logo: Big Business Events"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _13">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab47_1703175126-frame%20%281%29%204.png"
-                                                        alt="Client logo: Tronic"
-                                                        class="image-main-2">
-                                                </div>
-                                            </div>
-                                            <div style="-webkit-transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="logos_row">
-                                                <div class="c-logo_img _1">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab32_samsung_logo.svg.png"
-                                                        alt="Client logo: Samsung"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _2">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2e_holiday_inn_logo.svg.png"
-                                                        alt="Client logo: Holiday Inn"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _3">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab48_Frame%20427320116.png"
-                                                        alt="Client logo: Stealthy"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _5">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab30_Group%2036732.png"
-                                                        alt="Client logo: Param Renewable"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _6">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67ff8e4addb3e597a7223c1d_astro-vistar.png"
-                                                        alt="Client logo: Astro Vistar"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _7">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2a_ageasybyantaracom_logo.svg.png"
-                                                        alt="Client logo: AGEasy by antaracom Logo"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _8">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2d_Frame%20427320114.png"
-                                                        alt="Client logo: Matrix Gas"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _9">
-                                                    <img
-                                                        sizes="(max-width: 618px) 100vw, 618px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab33_image%2520217-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab33_image%20217.png 618w"
-                                                        alt="Client logo: Gensol"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab33_image%20217.png"
-                                                        loading="lazy"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _10">
-                                                    <img
-                                                        sizes="(max-width: 766px) 100vw, 766px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2c_Frame%2520427320098-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2c_Frame%20427320098.png 766w"
-                                                        alt="Client logo: Value per Sqft"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab2c_Frame%20427320098.png"
-                                                        loading="lazy"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _11">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab31_Max_Group_logo.svg%203.png"
-                                                        alt="Client logo: Max Group Logo "
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _12">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab35_Screenshot_2024-11-15_135038-removebg-preview%204.png"
-                                                        alt="Client logo: Big Business Events"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _13">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab47_1703175126-frame%20%281%29%204.png"
-                                                        alt="Client logo: Tronic"
                                                         class="image-main-2">
                                                 </div>
                                             </div>
@@ -739,7 +485,7 @@
                                                 </div>
                                                 <div class="arrow-ion">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad0_Group%20427319169.svg"
+                                                        src="asset/67f115e64d4efc2ac4e1aad0_Group%20427319169.svg"
                                                         loading="lazy"
                                                         alt
                                                         class="image-main is-app-icon">
@@ -758,10 +504,10 @@
                             id="masked-element"
                             class="interactive-bg">
                         <img
-                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif"
+                            src="asset/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif"
                             loading="eager"
                             sizes="(max-width: 2880px) 100vw, 2880px"
-                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
+                            srcset="asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, asset/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
                             alt
                             id="masked-element"
                             class="interactive-bg is-hide">
@@ -857,7 +603,7 @@
                                                     <a data-w-tab="Tab 2" data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc5034" class="tab-button-1 w-inline-block w-tab-link">
                                                         <img
                                                             loading="lazy"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad6_Ellipse%204.svg"
+                                                            src="asset/67f115e64d4efc2ac4e1aad6_Ellipse%204.svg"
                                                             alt="Avatar"
                                                             class="image-16">
                                                         <div
@@ -876,7 +622,7 @@
                                                     <a data-w-tab="Tab 3" data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc5037" class="tab-button-1 w-inline-block w-tab-link">
                                                         <img
                                                             loading="lazy"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad4_Ellipse%205.svg"
+                                                            src="asset/67f115e64d4efc2ac4e1aad4_Ellipse%205.svg"
                                                             alt="Avatar"
                                                             class="image-16">
                                                         <div
@@ -895,7 +641,7 @@
                                                     <a data-w-tab="Tab 4" data-w-id="00be8d41-280d-8e8e-90a5-7ef357c606f3" class="tab-button-1 w-inline-block w-tab-link">
                                                         <img
                                                             loading="lazy"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad4_Ellipse%205.svg"
+                                                            src="asset/67f115e64d4efc2ac4e1aad4_Ellipse%205.svg"
                                                             alt="Avatar"
                                                             class="image-16">
                                                         <div
@@ -923,7 +669,7 @@
                                                                         class="lottie-animation-3"
                                                                         data-w-id="73b16149-4122-fcbb-beb4-dfc8da9119f4"
                                                                         data-animation-type="lottie"
-                                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab37_counting%20number%20300%20(800px%2080%20comp).json"
+                                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1ab37_counting%20number%20300%20(800px%2080%20comp).json"
                                                                         data-loop="0"
                                                                         data-direction="1"
                                                                         data-autoplay="0"
@@ -950,7 +696,7 @@
                                                                         class="lottie-animation-3"
                                                                         data-w-id="082c5a17-bf62-5d59-3d33-a27cf60bdf35"
                                                                         data-animation-type="lottie"
-                                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab37_counting%20number%20300%20(800px%2080%20comp).json"
+                                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1ab37_counting%20number%20300%20(800px%2080%20comp).json"
                                                                         data-loop="0"
                                                                         data-direction="1"
                                                                         data-autoplay="0"
@@ -991,7 +737,7 @@
                                                                         class="lottie-animation-3"
                                                                         data-w-id="47d55543-05a3-86ed-d1b0-0ccc358445c4"
                                                                         data-animation-type="lottie"
-                                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab37_counting%20number%20300%20(800px%2080%20comp).json"
+                                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1ab37_counting%20number%20300%20(800px%2080%20comp).json"
                                                                         data-loop="0"
                                                                         data-direction="1"
                                                                         data-autoplay="0"
@@ -1032,7 +778,7 @@
                                                                         class="lottie-animation-3"
                                                                         data-w-id="9b8d8709-e932-180a-0af0-4cd752ad93b7"
                                                                         data-animation-type="lottie"
-                                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab37_counting%20number%20300%20(800px%2080%20comp).json"
+                                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1ab37_counting%20number%20300%20(800px%2080%20comp).json"
                                                                         data-loop="0"
                                                                         data-direction="1"
                                                                         data-autoplay="0"
@@ -1057,14 +803,14 @@
                                             <div data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc5058" style="opacity:0" class="slider_arrows-wrap">
                                                 <div id="prev-btn-1" class="slider_arrow">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa59_weui_arrow-filled.svg"
+                                                        src="asset/67f115e64d4efc2ac4e1aa59_weui_arrow-filled.svg"
                                                         loading="lazy"
                                                         alt
                                                         class="aroow_icon">
                                                 </div>
                                                 <div id="next-btn-1" class="slider_arrow">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa58_weui_arrow-filled-1.svg"
+                                                        src="asset/67f115e64d4efc2ac4e1aa58_weui_arrow-filled-1.svg"
                                                         loading="lazy"
                                                         alt
                                                         class="aroow_icon">
@@ -1073,7 +819,7 @@
                                                         class="tab-lottie _1"
                                                         data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc505d"
                                                         data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaf4_67c56094842933442c46ea5f_lottieflow%20scrolling%2001%201%20f1c376%20linear.json"
+                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aaf4_67c56094842933442c46ea5f_lottieflow%20scrolling%2001%201%20f1c376%20linear.json"
                                                         data-loop="0"
                                                         data-direction="1"
                                                         data-autoplay="0"
@@ -1086,7 +832,7 @@
                                                         class="tab-lottie _2"
                                                         data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc505e"
                                                         data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaf4_67c56094842933442c46ea5f_lottieflow%20scrolling%2001%201%20f1c376%20linear.json"
+                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aaf4_67c56094842933442c46ea5f_lottieflow%20scrolling%2001%201%20f1c376%20linear.json"
                                                         data-loop="0"
                                                         data-direction="1"
                                                         data-autoplay="0"
@@ -1099,7 +845,7 @@
                                                         class="tab-lottie _3"
                                                         data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc505f"
                                                         data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaf4_67c56094842933442c46ea5f_lottieflow%20scrolling%2001%201%20f1c376%20linear.json"
+                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aaf4_67c56094842933442c46ea5f_lottieflow%20scrolling%2001%201%20f1c376%20linear.json"
                                                         data-loop="0"
                                                         data-direction="1"
                                                         data-autoplay="0"
@@ -1112,7 +858,7 @@
                                                         class="tab-lottie _4"
                                                         data-w-id="157f30da-125c-344b-991f-210c2ec99ada"
                                                         data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaf4_67c56094842933442c46ea5f_lottieflow%20scrolling%2001%201%20f1c376%20linear.json"
+                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aaf4_67c56094842933442c46ea5f_lottieflow%20scrolling%2001%201%20f1c376%20linear.json"
                                                         data-loop="0"
                                                         data-direction="1"
                                                         data-autoplay="0"
@@ -1150,7 +896,7 @@
                                                             <div class="test-button">Contact Us</div>
                                                         </div>
                                                         <div class="icon-wrapper">
-                                                            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
+                                                            <img src="asset/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
                                                         </div>
                                                     </div>
                                                     <div class="inside-glow-dv"></div>
@@ -1190,7 +936,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="icon-wrapper">
-                                                                <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
+                                                                <img src="asset/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
                                                             </div>
                                                         </div>
                                                         <div class="inside-glow-dv"></div>
@@ -1218,7 +964,7 @@
                                     <div class="div-block-17">
                                         <div
                                             data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67bd69553f7495f51103107d_phone%20app%20reel-poster-00001.jpg"
-                                            data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm"
+                                            data-video-urls="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.mp4,https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm"
                                             data-autoplay="true"
                                             data-loop="true"
                                             data-wf-ignore="true"
@@ -1232,8 +978,8 @@
                                                 playsinline
                                                 data-wf-ignore="true"
                                                 data-object-fit="cover">
-                                                <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.mp4" data-wf-ignore="true">
-                                                <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm" data-wf-ignore="true">
+                                                <source src="asset/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.mp4" data-wf-ignore="true">
+                                                <source src="asset/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm" data-wf-ignore="true">
                                             </video>
                                         </div>
                                     </div>
@@ -1330,10 +1076,10 @@
                                                 id="masked-element"
                                                 class="interactive-bg">
                                             <img
-                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif"
+                                                src="asset/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif"
                                                 loading="eager"
                                                 sizes="(max-width: 2880px) 100vw, 2880px"
-                                                srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
+                                                srcset="asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, asset/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
                                                 alt
                                                 id="masked-element-2"
                                                 class="interactive-bg is-hide">
@@ -1354,7 +1100,7 @@
                                                 class="image-main is-feature_img"
                                                 data-w-id="af7a8c9c-19ec-f05c-de0a-e1596669e5e7"
                                                 data-animation-type="lottie"
-                                                data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae8_phone%2080%20compress.lottie"
+                                                data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aae8_phone%2080%20compress.lottie"
                                                 data-loop="1"
                                                 data-direction="1"
                                                 data-autoplay="1"
@@ -1394,14 +1140,14 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="icon-wrapper">
-                                                                        <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
+                                                                        <img src="asset/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
                                                                     </div>
                                                                 </div>
                                                                 <div class="inside-glow-dv"></div>
                                                                 <div class="div-block-415">
                                                                     <img
                                                                         loading="lazy"
-                                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg"
+                                                                        src="asset/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg"
                                                                         alt
                                                                         class="aroow_icon">
                                                                 </div>
@@ -1434,10 +1180,10 @@
                                                 id="masked-element"
                                                 class="interactive-bg">
                                             <img
-                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif"
+                                                src="asset/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif"
                                                 loading="eager"
                                                 sizes="(max-width: 2880px) 100vw, 2880px"
-                                                srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
+                                                srcset="asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, asset/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
                                                 alt
                                                 id="masked-element-3"
                                                 class="interactive-bg is-hide">
@@ -1468,7 +1214,7 @@
                                                 data-is-ix2-target="1"
                                                 class="image-main is-feature_img"
                                                 data-animation-type="lottie"
-                                                data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab45_animation%201000px%2080comp.lottie"
+                                                data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1ab45_animation%201000px%2080comp.lottie"
                                                 data-loop="0"
                                                 data-direction="1"
                                                 data-autoplay="0"
@@ -1480,7 +1226,7 @@
                                                 class="image-main is-feature_img _2"
                                                 data-w-id="04d1c5f5-d23c-243f-ae99-9527849b3a9f"
                                                 data-animation-type="lottie"
-                                                data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab46_glowing%201000px%2070%20comp.lottie"
+                                                data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1ab46_glowing%201000px%2070%20comp.lottie"
                                                 data-loop="1"
                                                 data-direction="1"
                                                 data-autoplay="1"
@@ -1496,10 +1242,10 @@
                                                 id="masked-element"
                                                 class="interactive-bg">
                                             <img
-                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif"
+                                                src="asset/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif"
                                                 loading="eager"
                                                 sizes="(max-width: 2880px) 100vw, 2880px"
-                                                srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
+                                                srcset="asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, asset/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
                                                 alt
                                                 id="masked-element-4"
                                                 class="interactive-bg is-hide">
@@ -1560,7 +1306,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="icon-wrapper">
-                                                                <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
+                                                                <img src="asset/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
                                                             </div>
                                                         </div>
                                                         <div class="inside-glow-dv"></div>
@@ -1613,7 +1359,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5c225e40980e245c51_work-2.avif"
+                                                        src="asset/67f8cc5c225e40980e245c51_work-2.avif"
                                                         loading="lazy"
                                                         alt="Home page of Versailles"
                                                         class="image-main is-work">
@@ -1623,7 +1369,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5d_image%20196.png"
+                                                        src="asset/67f115e64d4efc2ac4e1aa5d_image%20196.png"
                                                         loading="lazy"
                                                         alt="Home page of Styling Studio"
                                                         class="image-main">
@@ -1635,10 +1381,10 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae9_Desktop%20-%201.avif"
+                                                        src="asset/67f115e64d4efc2ac4e1aae9_Desktop%20-%201.avif"
                                                         loading="lazy"
                                                         sizes="(max-width: 1366px) 100vw, 1366px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae9_Desktop%20-%201.avif 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae9_Desktop%20-%201.avif 1366w"
+                                                        srcset="asset/67f115e64d4efc2ac4e1aae9_Desktop%20-%201.avif 500w, asset/67f115e64d4efc2ac4e1aae9_Desktop%20-%201.avif 1366w"
                                                         alt="Home page of WWY"
                                                         class="image-main">
                                                 </div>
@@ -1647,7 +1393,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5e_screencapture-rohanspatne-2025-02-04-15_11_46%201.png"
+                                                        src="asset/67f115e64d4efc2ac4e1aa5e_screencapture-rohanspatne-2025-02-04-15_11_46%201.png"
                                                         loading="lazy"
                                                         alt="Home page of Rohan Patne"
                                                         class="image-main">
@@ -1657,10 +1403,10 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cdd1ea4aef476e146045_work-11.avif"
+                                                        src="asset/67f8cdd1ea4aef476e146045_work-11.avif"
                                                         loading="lazy"
                                                         sizes="(max-width: 1752px) 100vw, 1752px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f8cdd1ea4aef476e146045_work-11-p-500.avif 500w, 67f115e64d4efc2ac4e1a9e3/67f8cdd1ea4aef476e146045_work-11-p-800.avif 800w, 67f115e64d4efc2ac4e1a9e3/67f8cdd1ea4aef476e146045_work-11-p-1080.avif 1080w, 67f115e64d4efc2ac4e1a9e3/67f8cdd1ea4aef476e146045_work-11.avif 1752w"
+                                                        srcset="asset/67f8cdd1ea4aef476e146045_work-11-p-500.avif 500w, asset/67f8cdd1ea4aef476e146045_work-11-p-800.avif 800w, asset/67f8cdd1ea4aef476e146045_work-11-p-1080.avif 1080w, asset/67f8cdd1ea4aef476e146045_work-11.avif 1752w"
                                                         alt="Home page of InGenius Global"
                                                         class="image-main">
                                                 </div>
@@ -1671,10 +1417,10 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa62_Desktop%20-%2032.png"
+                                                        src="asset/67f115e64d4efc2ac4e1aa62_Desktop%20-%2032.png"
                                                         loading="lazy"
                                                         sizes="(max-width: 634px) 100vw, 634px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa62_Desktop%2520-%252032-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa62_Desktop%20-%2032.png 634w"
+                                                        srcset="asset/67f115e64d4efc2ac4e1aa62_Desktop%2520-%252032-p-500.png 500w, asset/67f115e64d4efc2ac4e1aa62_Desktop%20-%2032.png 634w"
                                                         alt="Page of Holiday Inn"
                                                         class="image-main">
                                                 </div>
@@ -1683,10 +1429,10 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6a_image%20204.png"
+                                                        src="asset/67f115e64d4efc2ac4e1aa6a_image%20204.png"
                                                         loading="lazy"
                                                         sizes="(max-width: 632px) 100vw, 632px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6a_image%2520204-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6a_image%20204.png 632w"
+                                                        srcset="asset/67f115e64d4efc2ac4e1aa6a_image%2520204-p-500.png 500w, asset/67f115e64d4efc2ac4e1aa6a_image%20204.png 632w"
                                                         alt="Value Per Sqft Service section"
                                                         class="image-main">
                                                 </div>
@@ -1697,7 +1443,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa61_WhatsApp%20Image%202025-02-04%20at%2012.16.57_34789882%201.png"
+                                                        src="asset/67f115e64d4efc2ac4e1aa61_WhatsApp%20Image%202025-02-04%20at%2012.16.57_34789882%201.png"
                                                         loading="lazy"
                                                         alt="Home page of 9AI"
                                                         class="image-main">
@@ -1707,7 +1453,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6b_WhatsApp%20Image%202025-02-04%20at%2012.33.27_b191d7d0%201.png"
+                                                        src="asset/67f115e64d4efc2ac4e1aa6b_WhatsApp%20Image%202025-02-04%20at%2012.33.27_b191d7d0%201.png"
                                                         loading="lazy"
                                                         alt="Home page of Infiwin"
                                                         class="image-main">
@@ -1721,7 +1467,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5b43be6776e0cef1ba_work-1.avif"
+                                                        src="asset/67f8cc5b43be6776e0cef1ba_work-1.avif"
                                                         loading="lazy"
                                                         alt="Home page of Sentra World"
                                                         class="image-main is-work">
@@ -1731,7 +1477,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5c225e40980e245c51_work-2.avif"
+                                                        src="asset/67f8cc5c225e40980e245c51_work-2.avif"
                                                         loading="lazy"
                                                         alt="Home page of Versailles"
                                                         class="image-main">
@@ -1743,7 +1489,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5bbd95f5cb70c23619_work-3.avif"
+                                                        src="asset/67f8cc5bbd95f5cb70c23619_work-3.avif"
                                                         loading="lazy"
                                                         alt="Home page Camsol"
                                                         class="image-main">
@@ -1753,7 +1499,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5bc21dd81402bcf5f7_work-4.avif"
+                                                        src="asset/67f8cc5bc21dd81402bcf5f7_work-4.avif"
                                                         loading="lazy"
                                                         alt="Home page of Rohan Patne"
                                                         class="image-main">
@@ -1763,7 +1509,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5b630dd52ec4372fd5_work-5.avif"
+                                                        src="asset/67f8cc5b630dd52ec4372fd5_work-5.avif"
                                                         loading="lazy"
                                                         alt="Screenshot of Param Renewables"
                                                         class="image-main">
@@ -1775,7 +1521,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5b53dfea6e8efc79e2_work-7.avif"
+                                                        src="asset/67f8cc5b53dfea6e8efc79e2_work-7.avif"
                                                         loading="lazy"
                                                         alt="Infiwin Screenshot"
                                                         class="image-main">
@@ -1785,7 +1531,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5bea4aef476e133d99_work-8.avif"
+                                                        src="asset/67f8cc5bea4aef476e133d99_work-8.avif"
                                                         loading="lazy"
                                                         alt="Screenshot of Intrici"
                                                         class="image-main">
@@ -1797,7 +1543,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5b4237adb1afe22417_work-9.avif"
+                                                        src="asset/67f8cc5b4237adb1afe22417_work-9.avif"
                                                         loading="lazy"
                                                         alt="Screenshot of Sood Charity Foundation"
                                                         class="image-main">
@@ -1807,7 +1553,7 @@
                                                 <div class="work_b-overlay"></div>
                                                 <div class="work_img-wrap">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5b5b8bccbcaf86f7c5_work-10.avif"
+                                                        src="asset/67f8cc5b5b8bccbcaf86f7c5_work-10.avif"
                                                         loading="lazy"
                                                         alt="Home page of Maqina 360"
                                                         class="image-main">
@@ -1864,7 +1610,7 @@
                                             <div data-w-id="d59dff16-65c3-c66f-1c33-065c82efd068" class="timeline__left-2">
                                                 <div
                                                     data-poster-url="https://cdn.prod.website-files.com/6589245ce820a6b1591725fa/659051418823871013f5f50c_2-poster-00001.jpg"
-                                                    data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab9_2-poster-00001.jpg,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab9_2-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab9_2-transcode.webm"
+                                                    data-video-urls="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aab9_2-poster-00001.jpg,https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aab9_2-transcode.mp4,https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aab9_2-transcode.webm"
                                                     data-autoplay="true"
                                                     data-loop="true"
                                                     data-wf-ignore="true"
@@ -1878,9 +1624,9 @@
                                                         playsinline
                                                         data-wf-ignore="true"
                                                         data-object-fit="cover">
-                                                        <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab9_2-poster-00001.jpg" data-wf-ignore="true">
-                                                        <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab9_2-transcode.mp4" data-wf-ignore="true">
-                                                        <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab9_2-transcode.webm" data-wf-ignore="true">
+                                                        <source src="asset/67f115e64d4efc2ac4e1aab9_2-poster-00001.jpg" data-wf-ignore="true">
+                                                        <source src="asset/67f115e64d4efc2ac4e1aab9_2-transcode.mp4" data-wf-ignore="true">
+                                                        <source src="asset/67f115e64d4efc2ac4e1aab9_2-transcode.webm" data-wf-ignore="true">
                                                     </video>
                                                 </div>
                                             </div>
@@ -2019,49 +1765,49 @@
                                                     <div class="images-wrap-p small _1">
                                                         <img
                                                             sizes="(max-width: 505px) 100vw, 505px"
-                                                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp 505w"
+                                                            srcset="asset/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp 500w, asset/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp 505w"
                                                             alt="Holiday Inn Screenshot"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp"
                                                             loading="eager"
                                                             class="portfolio-image">
                                                         <img
                                                             loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabf_Frame%2036613%20%281%29.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aabf_Frame%2036613%20%281%29.webp"
                                                             alt="Holiday Inn Screenshot"
                                                             class="portfolio-image">
                                                     </div>
                                                     <div class="images-wrap-p _2">
                                                         <img
                                                             sizes="(max-width: 505px) 100vw, 505px"
-                                                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabe_Frame%2036616.webp 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabe_Frame%2036616.webp 505w"
+                                                            srcset="asset/67f115e64d4efc2ac4e1aabe_Frame%2036616.webp 500w, asset/67f115e64d4efc2ac4e1aabe_Frame%2036616.webp 505w"
                                                             alt="Holiday Inn Screenshot"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabe_Frame%2036616.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aabe_Frame%2036616.webp"
                                                             loading="eager"
                                                             class="portfolio-image">
                                                         <img
                                                             loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaba_Frame%2036612%20%281%29.svg"
+                                                            src="asset/67f115e64d4efc2ac4e1aaba_Frame%2036612%20%281%29.svg"
                                                             alt="Holiday Inn Screenshot"
                                                             class="portfolio-image">
                                                         <img
                                                             sizes="(max-width: 505px) 100vw, 505px"
-                                                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabc_Frame%2036617.webp 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabc_Frame%2036617.webp 505w"
+                                                            srcset="asset/67f115e64d4efc2ac4e1aabc_Frame%2036617.webp 500w, asset/67f115e64d4efc2ac4e1aabc_Frame%2036617.webp 505w"
                                                             alt="Holiday Inn Screenshot"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabc_Frame%2036617.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aabc_Frame%2036617.webp"
                                                             loading="eager"
                                                             class="portfolio-image">
                                                     </div>
                                                     <div class="images-wrap-p small _3">
                                                         <img
                                                             sizes="(max-width: 505px) 100vw, 505px"
-                                                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp 505w"
+                                                            srcset="asset/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp 500w, asset/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp 505w"
                                                             alt="Holiday Inn Screenshot"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp"
                                                             loading="eager"
                                                             class="portfolio-image">
                                                         <img
                                                             loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabf_Frame%2036613%20%281%29.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aabf_Frame%2036613%20%281%29.webp"
                                                             alt="Holiday Inn Screenshot"
                                                             class="portfolio-image">
                                                     </div>
@@ -2075,7 +1821,7 @@
                                                             <div class="div-block-187">
                                                                 <img
                                                                     loading="lazy"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacf_Keyboard%20arrow%20left.svg"
+                                                                    src="asset/67f115e64d4efc2ac4e1aacf_Keyboard%20arrow%20left.svg"
                                                                     alt
                                                                     class="image-35">
                                                             </div>
@@ -2099,7 +1845,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="icon-wrapper">
-                                                                                    <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
+                                                                                    <img src="asset/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
                                                                                 </div>
                                                                             </div>
                                                                             <div class="inside-glow-dv"></div>
@@ -2175,46 +1921,46 @@
                                                         <div class="images-wrap-steathyfit _1">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabd_Frame%2036612%20%282%29.svg"
+                                                                src="asset/67f115e64d4efc2ac4e1aabd_Frame%2036612%20%282%29.svg"
                                                                 alt="Stealthy Fit Screenshot"
                                                                 class="steathy-imag">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac1_Frame%2036611.svg"
+                                                                src="asset/67f115e64d4efc2ac4e1aac1_Frame%2036611.svg"
                                                                 alt="Stealthy Fit Screenshot"
                                                                 class="steathy-imag">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabd_Frame%2036612%20%282%29.svg"
+                                                                src="asset/67f115e64d4efc2ac4e1aabd_Frame%2036612%20%282%29.svg"
                                                                 alt="Stealthy Fit Screenshot"
                                                                 class="steathy-imag">
                                                         </div>
                                                         <div class="images-wrap-steathyfit _2 _2nd">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac0_Frame%2036613%20%282%29.webp"
+                                                                src="asset/67f115e64d4efc2ac4e1aac0_Frame%2036613%20%282%29.webp"
                                                                 alt="Stealthy Fit Screenshot"
                                                                 class="steathy-imag">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac3_Frame%2036605.webp"
+                                                                src="asset/67f115e64d4efc2ac4e1aac3_Frame%2036605.webp"
                                                                 alt="Stealthy Fit Screenshot"
                                                                 class="steathy-imag">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac2_Frame%2036608.webp"
+                                                                src="asset/67f115e64d4efc2ac4e1aac2_Frame%2036608.webp"
                                                                 alt="Stealthy Fit Screenshot"
                                                                 class="steathy-imag">
                                                         </div>
                                                         <div class="images-wrap-steathyfit _3 _3rs">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac4_Frame%2036612%20%281%29.webp"
+                                                                src="asset/67f115e64d4efc2ac4e1aac4_Frame%2036612%20%281%29.webp"
                                                                 alt="Stealthy Fit Screenshot"
                                                                 class="steathy-imag">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac3_Frame%2036605.webp"
+                                                                src="asset/67f115e64d4efc2ac4e1aac3_Frame%2036605.webp"
                                                                 alt="Stealthy Fit Screenshot"
                                                                 class="steathy-imag">
                                                         </div>
@@ -2236,7 +1982,7 @@
                                                                                         </div>
                                                                                     </div>
                                                                                     <div class="icon-wrapper">
-                                                                                        <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
+                                                                                        <img src="asset/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="inside-glow-dv"></div>
@@ -2312,51 +2058,51 @@
                                                             <div class="images-wrap-gensol _1">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac5_Group%20427318588.webp"
+                                                                    src="asset/67f115e64d4efc2ac4e1aac5_Group%20427318588.webp"
                                                                     alt="Gensol Screenshot"
                                                                     class="gensol-image">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacd_timeline.webp"
+                                                                    src="asset/67f115e64d4efc2ac4e1aacd_timeline.webp"
                                                                     alt="Sentra  World Screenshot"
                                                                     class="gensol-image">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac7_Group%20427318590.webp"
+                                                                    src="asset/67f115e64d4efc2ac4e1aac7_Group%20427318590.webp"
                                                                     alt="Gensol Screenshot"
                                                                     class="gensol-image">
                                                             </div>
                                                             <div class="images-wrap-gensol _2">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac5_Group%20427318588.webp"
+                                                                    src="asset/67f115e64d4efc2ac4e1aac5_Group%20427318588.webp"
                                                                     alt="Gensol Screenshot"
                                                                     class="gensol-image">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac6_Group%20427318589.webp"
+                                                                    src="asset/67f115e64d4efc2ac4e1aac6_Group%20427318589.webp"
                                                                     alt="Gensol Screenshot"
                                                                     class="gensol-image">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac7_Group%20427318590.webp"
+                                                                    src="asset/67f115e64d4efc2ac4e1aac7_Group%20427318590.webp"
                                                                     alt="Gensol Screenshot"
                                                                     class="gensol-image">
                                                             </div>
                                                             <div class="images-wrap-gensol _3">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac8_Group%20427318589%20%281%29.webp"
+                                                                    src="asset/67f115e64d4efc2ac4e1aac8_Group%20427318589%20%281%29.webp"
                                                                     alt="Scorpius Trakers Screenshot"
                                                                     class="gensol-image">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac8_Group%20427318589%20%281%29.webp"
+                                                                    src="asset/67f115e64d4efc2ac4e1aac8_Group%20427318589%20%281%29.webp"
                                                                     alt="Scorpius Trakers Screenshot"
                                                                     class="gensol-image">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac8_Group%20427318589%20%281%29.webp"
+                                                                    src="asset/67f115e64d4efc2ac4e1aac8_Group%20427318589%20%281%29.webp"
                                                                     alt="Scorpius Trakers Screenshot"
                                                                     class="gensol-image">
                                                             </div>
@@ -2379,7 +2125,7 @@
                                                                                         </div>
                                                                                     </div>
                                                                                     <div class="icon-wrapper">
-                                                                                        <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
+                                                                                        <img src="asset/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="inside-glow-dv"></div>
@@ -2454,46 +2200,46 @@
                                                     <div class="images-wrap-p-copy small _1">
                                                         <img
                                                             loading="lazy"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac9_Frame%2036603.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aac9_Frame%2036603.webp"
                                                             alt="Sentra World Screenshot"
                                                             class="portfolio-image-copy">
                                                         <img
                                                             loading="lazy"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacd_timeline.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aacd_timeline.webp"
                                                             alt="Sentra  World Screenshot"
                                                             class="portfolio-image-copy">
                                                         <img
                                                             loading="lazy"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacb_Frame%2036604.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aacb_Frame%2036604.webp"
                                                             alt="Screenshot of Sentra World"
                                                             class="portfolio-image-copy">
                                                     </div>
                                                     <div class="images-wrap-p-copy _2">
                                                         <img
                                                             loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaca_Frame%2036603%20%281%29.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aaca_Frame%2036603%20%281%29.webp"
                                                             alt="Sentra World Screenshot"
                                                             class="portfolio-image-copy">
                                                         <img
                                                             loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacc_Home.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aacc_Home.webp"
                                                             alt="Sentra world Screenshot"
                                                             class="portfolio-image-copy">
                                                         <img
                                                             loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aace_MacBook%20Air%20-%2036%20%281%29.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aace_MacBook%20Air%20-%2036%20%281%29.webp"
                                                             alt="Sentra  world Screenshot"
                                                             class="portfolio-image-copy">
                                                     </div>
                                                     <div class="images-wrap-p-copy small _3">
                                                         <img
                                                             loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac9_Frame%2036603.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aac9_Frame%2036603.webp"
                                                             alt="Sentra World Screenshot"
                                                             class="portfolio-image-copy">
                                                         <img
                                                             loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacb_Frame%2036604.webp"
+                                                            src="asset/67f115e64d4efc2ac4e1aacb_Frame%2036604.webp"
                                                             alt="Screenshot of Sentra World"
                                                             class="portfolio-image-copy">
                                                     </div>
@@ -2515,14 +2261,14 @@
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="icon-wrapper">
-                                                                                    <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
+                                                                                    <img src="asset/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
                                                                                 </div>
                                                                             </div>
                                                                             <div class="inside-glow-dv"></div>
                                                                             <div>
                                                                                 <img
                                                                                     loading="lazy"
-                                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg"
+                                                                                    src="asset/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg"
                                                                                     alt
                                                                                     class="aroow_icon">
                                                                             </div>
@@ -2611,15 +2357,15 @@
                             </div>
                             <div data-w-id="5603d03f-1407-1a95-d65b-45c36a492ff9" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="div-block-21">
                                 <img
-                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6c_Subtract.png"
+                                    src="asset/67f115e64d4efc2ac4e1aa6c_Subtract.png"
                                     loading="lazy"
                                     sizes="(max-width: 570px) 100vw, 570px"
-                                    srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6c_Subtract-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6c_Subtract.png 570w"
+                                    srcset="asset/67f115e64d4efc2ac4e1aa6c_Subtract-p-500.png 500w, asset/67f115e64d4efc2ac4e1aa6c_Subtract.png 570w"
                                     alt
                                     class="image">
                                 <div class="div-block-22">
                                     <div class="div-block-23 is-hide">
-                                        <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6d_noun-hourglass-2043700%201.png" loading="lazy" alt>
+                                        <img src="asset/67f115e64d4efc2ac4e1aa6d_noun-hourglass-2043700%201.png" loading="lazy" alt>
                                     </div>
                                 </div>
                                 <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(270deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(270deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(270deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(270deg) skew(0, 0)" class="div-block-25">
@@ -2627,7 +2373,7 @@
                                         <div class="circle_icon _1">
                                             <div
                                                 data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c58c9514795e1d6d536fa4_Delivering%20high-quality%20results-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae2_Delivering%20high-quality%20results-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae2_Delivering%20high-quality%20results-transcode.webm"
+                                                data-video-urls="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aae2_Delivering%20high-quality%20results-transcode.mp4,https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aae2_Delivering%20high-quality%20results-transcode.webm"
                                                 data-autoplay="true"
                                                 data-loop="true"
                                                 data-wf-ignore="true"
@@ -2641,8 +2387,8 @@
                                                     playsinline
                                                     data-wf-ignore="true"
                                                     data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae2_Delivering%20high-quality%20results-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae2_Delivering%20high-quality%20results-transcode.webm" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aae2_Delivering%20high-quality%20results-transcode.mp4" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aae2_Delivering%20high-quality%20results-transcode.webm" data-wf-ignore="true">
                                                 </video>
                                             </div>
                                         </div>
@@ -2651,7 +2397,7 @@
                                         <div class="circle_icon _2">
                                             <div
                                                 data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c58c7e05cac877ab1cd6e3_Focusing%20on%20scalability-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae1_Focusing%20on%20scalability-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae1_Focusing%20on%20scalability-transcode.webm"
+                                                data-video-urls="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aae1_Focusing%20on%20scalability-transcode.mp4,https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aae1_Focusing%20on%20scalability-transcode.webm"
                                                 data-autoplay="true"
                                                 data-loop="true"
                                                 data-wf-ignore="true"
@@ -2665,8 +2411,8 @@
                                                     playsinline
                                                     data-wf-ignore="true"
                                                     data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae1_Focusing%20on%20scalability-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae1_Focusing%20on%20scalability-transcode.webm" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aae1_Focusing%20on%20scalability-transcode.mp4" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aae1_Focusing%20on%20scalability-transcode.webm" data-wf-ignore="true">
                                                 </video>
                                             </div>
                                         </div>
@@ -2675,7 +2421,7 @@
                                         <div class="circle_icon _6">
                                             <div
                                                 data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c58c61a00a30553412f655_Providing%20clear%20communication-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae0_Providing%20clear%20communication-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae0_Providing%20clear%20communication-transcode.webm"
+                                                data-video-urls="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aae0_Providing%20clear%20communication-transcode.mp4,https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aae0_Providing%20clear%20communication-transcode.webm"
                                                 data-autoplay="true"
                                                 data-loop="true"
                                                 data-wf-ignore="true"
@@ -2689,8 +2435,8 @@
                                                     playsinline
                                                     data-wf-ignore="true"
                                                     data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae0_Providing%20clear%20communication-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae0_Providing%20clear%20communication-transcode.webm" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aae0_Providing%20clear%20communication-transcode.mp4" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aae0_Providing%20clear%20communication-transcode.webm" data-wf-ignore="true">
                                                 </video>
                                             </div>
                                         </div>
@@ -2699,7 +2445,7 @@
                                         <div class="circle_icon _4">
                                             <div
                                                 data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c58c48149a85500b31d070_Partnering%20in%20your%20success-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadf_Partnering%20in%20your%20success-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadf_Partnering%20in%20your%20success-transcode.webm"
+                                                data-video-urls="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aadf_Partnering%20in%20your%20success-transcode.mp4,https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aadf_Partnering%20in%20your%20success-transcode.webm"
                                                 data-autoplay="true"
                                                 data-loop="true"
                                                 data-wf-ignore="true"
@@ -2713,8 +2459,8 @@
                                                     playsinline
                                                     data-wf-ignore="true"
                                                     data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadf_Partnering%20in%20your%20success-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadf_Partnering%20in%20your%20success-transcode.webm" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aadf_Partnering%20in%20your%20success-transcode.mp4" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aadf_Partnering%20in%20your%20success-transcode.webm" data-wf-ignore="true">
                                                 </video>
                                             </div>
                                         </div>
@@ -2723,7 +2469,7 @@
                                         <div class="circle_icon _3">
                                             <div
                                                 data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c58c329a10b33bdd3c09de_Using%20the%20latest%20technology-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aade_Using%20the%20latest%20technology-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aade_Using%20the%20latest%20technology-transcode.webm"
+                                                data-video-urls="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aade_Using%20the%20latest%20technology-transcode.mp4,https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aade_Using%20the%20latest%20technology-transcode.webm"
                                                 data-autoplay="true"
                                                 data-loop="true"
                                                 data-wf-ignore="true"
@@ -2737,8 +2483,8 @@
                                                     playsinline
                                                     data-wf-ignore="true"
                                                     data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aade_Using%20the%20latest%20technology-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aade_Using%20the%20latest%20technology-transcode.webm" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aade_Using%20the%20latest%20technology-transcode.mp4" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aade_Using%20the%20latest%20technology-transcode.webm" data-wf-ignore="true">
                                                 </video>
                                             </div>
                                         </div>
@@ -2747,7 +2493,7 @@
                                         <div class="circle_icon _5">
                                             <div
                                                 data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c58be074c79690996369e2_Valuing%20your%20time-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadd_Valuing%20your%20time-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadd_Valuing%20your%20time-transcode.webm"
+                                                data-video-urls="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aadd_Valuing%20your%20time-transcode.mp4,https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aadd_Valuing%20your%20time-transcode.webm"
                                                 data-autoplay="true"
                                                 data-loop="true"
                                                 data-wf-ignore="true"
@@ -2761,8 +2507,8 @@
                                                     playsinline
                                                     data-wf-ignore="true"
                                                     data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadd_Valuing%20your%20time-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadd_Valuing%20your%20time-transcode.webm" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aadd_Valuing%20your%20time-transcode.mp4" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aadd_Valuing%20your%20time-transcode.webm" data-wf-ignore="true">
                                                 </video>
                                             </div>
                                         </div>
@@ -2948,14 +2694,14 @@
                                                         <div class="testi_card-wrap">
                                                             <div class="div-block-26">
                                                                 <img
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f139ddac971640cd131565_testi-1.avif"
+                                                                    src="asset/67f139ddac971640cd131565_testi-1.avif"
                                                                     loading="lazy"
                                                                     alt="Client Image: Frederique Lemoine"
                                                                     class="image-main">
                                                                 <div class="test_img-overlay">
                                                                     <div class="div-block-362">
                                                                         <div class="div-block-363">
-                                                                            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaeb_Polygon%201.svg" loading="lazy" alt>
+                                                                            <img src="asset/67f115e64d4efc2ac4e1aaeb_Polygon%201.svg" loading="lazy" alt>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2963,7 +2709,7 @@
                                                             <div class="div-block-28">
                                                                 <div class="div-block-27">
                                                                     <img
-                                                                        src="67f115e64d4efc2ac4e1a9e3/67f507047a3a80f320bf1265_oak.avif"
+                                                                        src="asset/67f507047a3a80f320bf1265_oak.avif"
                                                                         loading="lazy"
                                                                         alt="Client Logo : Oak Studio"
                                                                         class="image-36">
@@ -2986,14 +2732,14 @@
                                                         <div class="testi_card-wrap">
                                                             <div class="div-block-26">
                                                                 <img
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f139dd6b0f2746dc18c85f_test-2.avif"
+                                                                    src="asset/67f139dd6b0f2746dc18c85f_test-2.avif"
                                                                     loading="lazy"
                                                                     alt="Client Image: Michael Hobbs"
                                                                     class="image-main">
                                                                 <div class="test_img-overlay">
                                                                     <div class="div-block-362">
                                                                         <div class="div-block-363">
-                                                                            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaeb_Polygon%201.svg" loading="lazy" alt>
+                                                                            <img src="asset/67f115e64d4efc2ac4e1aaeb_Polygon%201.svg" loading="lazy" alt>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3001,7 +2747,7 @@
                                                             <div class="div-block-28">
                                                                 <div class="div-block-27">
                                                                     <img
-                                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6e_Frame%20427320030.png"
+                                                                        src="asset/67f115e64d4efc2ac4e1aa6e_Frame%20427320030.png"
                                                                         loading="lazy"
                                                                         alt="Client Logo : IsAI "
                                                                         class="image-36">
@@ -3020,14 +2766,14 @@
                                                         <div class="testi_card-wrap">
                                                             <div class="div-block-26">
                                                                 <img
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f137f4b5ffebcd5a7e62cf_testi-3.avif"
+                                                                    src="asset/67f137f4b5ffebcd5a7e62cf_testi-3.avif"
                                                                     loading="lazy"
                                                                     alt="Client image: Daphne"
                                                                     class="image-main">
                                                                 <div class="test_img-overlay">
                                                                     <div class="div-block-362">
                                                                         <div class="div-block-363">
-                                                                            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaeb_Polygon%201.svg" loading="lazy" alt>
+                                                                            <img src="asset/67f115e64d4efc2ac4e1aaeb_Polygon%201.svg" loading="lazy" alt>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3035,7 +2781,7 @@
                                                             <div class="div-block-28">
                                                                 <div class="div-block-27">
                                                                     <img
-                                                                        src="67f115e64d4efc2ac4e1a9e3/67f506cff6d7fe4bb935d4f3_ademan.avif"
+                                                                        src="asset/67f506cff6d7fe4bb935d4f3_ademan.avif"
                                                                         loading="lazy"
                                                                         alt="Client Logo : Ademan Logo"
                                                                         class="image-36">
@@ -3054,14 +2800,14 @@
                                                         <div class="testi_card-wrap">
                                                             <div class="div-block-26">
                                                                 <img
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f137cb3fcfae53e528e995_testi-mahola-4.avif"
+                                                                    src="asset/67f137cb3fcfae53e528e995_testi-mahola-4.avif"
                                                                     loading="lazy"
                                                                     alt="Client inage : Slyvain Maronneau"
                                                                     class="image-main">
                                                                 <div class="test_img-overlay">
                                                                     <div class="div-block-362">
                                                                         <div class="div-block-363">
-                                                                            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaeb_Polygon%201.svg" loading="lazy" alt>
+                                                                            <img src="asset/67f115e64d4efc2ac4e1aaeb_Polygon%201.svg" loading="lazy" alt>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -3069,7 +2815,7 @@
                                                             <div class="div-block-28">
                                                                 <div class="div-block-27">
                                                                     <img
-                                                                        src="67f115e64d4efc2ac4e1a9e3/67f506cff7a1c62dbe3e6e63_mahola.avif"
+                                                                        src="asset/67f506cff7a1c62dbe3e6e63_mahola.avif"
                                                                         loading="lazy"
                                                                         alt="Client Logo : Mahola"
                                                                         class="image-36">
@@ -3094,7 +2840,7 @@
                                             <div class="swiper-button-prev slider-two-prev">
                                                 <img
                                                     loading="lazy"
-                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab1_weui_arrow-filled.svg"
+                                                    src="asset/67f115e64d4efc2ac4e1aab1_weui_arrow-filled.svg"
                                                     alt
                                                     class="arrow-icon">
                                             </div>
@@ -3103,7 +2849,7 @@
                                             <div class="swiper-button-next slider-two-next">
                                                 <img
                                                     loading="lazy"
-                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab2_weui_arrow-filled-1.svg"
+                                                    src="asset/67f115e64d4efc2ac4e1aab2_weui_arrow-filled-1.svg"
                                                     alt
                                                     class="arrow-icon">
                                             </div>
@@ -3138,32 +2884,32 @@
                                             <div style="-webkit-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="btn-img three">
                                                 <img
                                                     sizes="(max-width: 626px) 100vw, 626px"
-                                                    srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa94_1-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa94_1.png 626w"
+                                                    srcset="asset/67f115e64d4efc2ac4e1aa94_1-p-500.png 500w, asset/67f115e64d4efc2ac4e1aa94_1.png 626w"
                                                     alt
-                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa94_1.png"
+                                                    src="asset/67f115e64d4efc2ac4e1aa94_1.png"
                                                     loading="lazy"
                                                     class="image-37 three">
                                             </div>
                                             <div style="-webkit-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-80deg) skew(0, 0);-moz-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-80deg) skew(0, 0);-ms-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-80deg) skew(0, 0);transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-80deg) skew(0, 0);opacity:0" class="btn-img two">
                                                 <img
                                                     sizes="(max-width: 616px) 100vw, 616px"
-                                                    srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa95_3-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa95_3.png 616w"
+                                                    srcset="asset/67f115e64d4efc2ac4e1aa95_3-p-500.png 500w, asset/67f115e64d4efc2ac4e1aa95_3.png 616w"
                                                     alt
-                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa95_3.png"
+                                                    src="asset/67f115e64d4efc2ac4e1aa95_3.png"
                                                     loading="lazy"
                                                     class="image-37 two">
                                             </div>
                                             <div style="opacity:0;-webkit-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-80deg) skew(0, 0);-moz-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-80deg) skew(0, 0);-ms-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-80deg) skew(0, 0);transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-80deg) skew(0, 0)" class="btn-img one">
                                                 <img
                                                     loading="lazy"
-                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa93_2.png"
+                                                    src="asset/67f115e64d4efc2ac4e1aa93_2.png"
                                                     alt
                                                     class="image-37 one">
                                             </div>
                                             <div style="-webkit-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(80deg) skew(0, 0);-moz-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(80deg) skew(0, 0);-ms-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(80deg) skew(0, 0);transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(80deg) skew(0, 0);opacity:0" class="btn-img four">
                                                 <img
                                                     loading="lazy"
-                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa92_4.png"
+                                                    src="asset/67f115e64d4efc2ac4e1aa92_4.png"
                                                     alt
                                                     class="image-37 four">
                                             </div>
@@ -3171,7 +2917,7 @@
                                         <div class="div-block-70">
                                             <div
                                                 data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c00915d1fc8762679011f4_IMG_1036-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa91_IMG_1036-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa91_IMG_1036-transcode.webm"
+                                                data-video-urls="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aa91_IMG_1036-transcode.mp4,https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aa91_IMG_1036-transcode.webm"
                                                 data-autoplay="true"
                                                 data-loop="true"
                                                 data-wf-ignore="true"
@@ -3185,8 +2931,8 @@
                                                     playsinline
                                                     data-wf-ignore="true"
                                                     data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa91_IMG_1036-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa91_IMG_1036-transcode.webm" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aa91_IMG_1036-transcode.mp4" data-wf-ignore="true">
+                                                    <source src="asset/67f115e64d4efc2ac4e1aa91_IMG_1036-transcode.webm" data-wf-ignore="true">
                                                 </video>
                                             </div>
                                         </div>
@@ -3202,10 +2948,10 @@
                             id="masked-element"
                             class="interactive-bg">
                         <img
-                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif"
+                            src="asset/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif"
                             loading="eager"
                             sizes="(max-width: 2880px) 100vw, 2880px"
-                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
+                            srcset="asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, asset/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, asset/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
                             alt
                             id="masked-element-5"
                             class="interactive-bg is-hide">
@@ -3250,7 +2996,7 @@
                                                         class="faq_icon"
                                                         data-w-id="182bb3b1-92c6-ceb1-0946-2053a0517e2d"
                                                         data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
+                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
                                                         data-loop="0"
                                                         data-direction="1"
                                                         data-autoplay="0"
@@ -3291,7 +3037,7 @@
                                                         class="faq_icon"
                                                         data-w-id="73ebb2c2-c3d5-558d-3201-9281ac6047cc"
                                                         data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
+                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
                                                         data-loop="0"
                                                         data-direction="1"
                                                         data-autoplay="0"
@@ -3333,7 +3079,7 @@
                                                         class="faq_icon"
                                                         data-w-id="f39e762f-18e7-e0f0-d8e7-1c3c429ffb88"
                                                         data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
+                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
                                                         data-loop="0"
                                                         data-direction="1"
                                                         data-autoplay="0"
@@ -3373,7 +3119,7 @@
                                                         class="faq_icon"
                                                         data-w-id="1353de65-377d-4d4a-69e7-e13ae2e99671"
                                                         data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
+                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
                                                         data-loop="0"
                                                         data-direction="1"
                                                         data-autoplay="0"
@@ -3426,7 +3172,7 @@
                                                         class="faq_icon"
                                                         data-w-id="1cadef77-c94c-23db-c4df-0a98e3408ffb"
                                                         data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
+                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
                                                         data-loop="0"
                                                         data-direction="1"
                                                         data-autoplay="0"
@@ -3466,7 +3212,7 @@
                                                         class="faq_icon"
                                                         data-w-id="7d5d5b43-9bdf-b6de-24a6-232e97914289"
                                                         data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
+                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
                                                         data-loop="0"
                                                         data-direction="1"
                                                         data-autoplay="0"
@@ -3505,7 +3251,7 @@
                                                         class="faq_icon"
                                                         data-w-id="ff34930e-b45a-738f-3835-0047deed898c"
                                                         data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
+                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
                                                         data-loop="0"
                                                         data-direction="1"
                                                         data-autoplay="0"
@@ -3545,7 +3291,7 @@
                                                         class="faq_icon"
                                                         data-w-id="81d04068-15d6-0409-aca7-7a7e47b2445a"
                                                         data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
+                                                        data-src="https://cdn.prod.website-files.com/asset/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
                                                         data-loop="0"
                                                         data-direction="1"
                                                         data-autoplay="0"
