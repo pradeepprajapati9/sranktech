@@ -8,6 +8,7 @@
 
 <head>
     <meta charset="utf-8">
+
     <title>SrankTech</title>
     <meta content="." name="description">
     <meta content="" property="og:title">
@@ -95,7 +96,7 @@
 
 
                     ::-webkit-scrollbar-thumb {
-                        background: #373782;
+                        background: #27aae1;
                         border-radius: 0px;
                     }
                 </style>
@@ -638,10 +639,7 @@
                                                     data-w-id="0f4a4f98-d3e5-161d-adec-1ad7b8d05d8f"
                                                     style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
                                                     class="text-size-medium vh">
-                                                    We specialize in guiding
-                                                    you from your original idea to a high-quality,
-                                                    custom mobile solution that fuels your
-                                                    growth.
+                                                    Innovating APP & Web Solutions.
                                                 </p>
                                             </div>
                                         </div>
@@ -1433,9 +1431,7 @@
                                         </div>
                                     </div>
                                     <h2 words-slide-from-right text-split class="about-tile is-res">
-                                        We blend the power of strategy,
-                                        design, and code to transform your vision into an app
-                                        which keeps its users HOOKED!
+                                    About CompTech Agency And It's Innovative IT Solutions
                                         <br>
                                     </h2>
                                 </div>
@@ -1610,9 +1606,8 @@
                                     </div>
                                 </div>
                                 <h2 words-slide-from-right text-split class="heading-style-h2">
-                                    With an in-house team of designers,
-                                    developers and animators, we build applications that
-                                    <strong>STAND OUT</strong> from the crowd!
+                                Services Built Specifically For 
+                                    <strong>YOUR BUSINESS</strong> from the crowd!
                                 </h2>
                             </div>
                             <div glow-border="wrapper" class="glowing_component">

@@ -2173,7 +2173,7 @@ textarea.w-select {
 
 body {
   color: #ffffffe6;
-  background-color: #b17979;
+  background-color: #000000;
   font-family: Matter, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.2
@@ -4882,7 +4882,7 @@ p {
 }
 
 .tag_inner {
-  background-color: #373782;
+  background-color: #1d57a7;
   border-radius: 80px;
   justify-content: center;
   align-items: center;
@@ -5315,7 +5315,7 @@ p {
 }
 
 .section_h-features {
-  background-image: linear-gradient(#36367fcc, #0003 19%);
+  background-image: linear-gradient(#27aae1, #0003 14%);
   justify-content: flex-start;
   align-items: flex-start;
   display: flex;
@@ -5394,7 +5394,7 @@ p {
 
 .div-block-20 {
   z-index: 2;
-  background-image: linear-gradient(#0000, #2e2e6c);
+  background-image: linear-gradient(#0000, #27aae1);
   height: 230px;
   position: absolute;
   inset: auto 0% 0%
@@ -6175,7 +6175,7 @@ p {
 
 .footer {
   z-index: 1;
-  background-image: radial-gradient(circle at 10% 0, #4c4c91, #0a0a15 75%);
+  background-image: radial-gradient(circle at 10% 0, #27aae1, #0a0a15 75%);
   justify-content: center;
   align-items: center;
   display: flex;
@@ -6273,7 +6273,7 @@ p {
 }
 
 .social-bg {
-  background-image: linear-gradient(135deg, #4747a533 39%, #37378280 66%, #191936 89%);
+  background-image: linear-gradient(135deg, #4747a533 39%, #1d57a780 66%, #191936 89%);
   width: 125%;
   height: 125%;
   transition: transform .3s;
@@ -7548,7 +7548,7 @@ p {
 
 .bg-glow {
   filter: blur();
-  background-image: radial-gradient(circle farthest-side at 100% 100%, #373782, #6363ca 50%, #373782);
+  background-image: radial-gradient(circle farthest-side at 100% 100%, #1d57a7, #6363ca 50%, #1d57a7);
   border-radius: 1000000000px;
   width: 13.2rem;
   height: 72px
@@ -8140,7 +8140,7 @@ p {
   -webkit-backdrop-filter: blur(2px);
   backdrop-filter: blur(2px);
   background-color: #00000003;
-  background-image: linear-gradient(#0000, #35357ccc);
+  background-image: linear-gradient(#0000, #27aae1);
   justify-content: center;
   align-items: center;
   height: 180px;
