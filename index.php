@@ -963,8 +963,8 @@
                                     </div>
                                     <div class="div-block-17">
                                         <div
-                                            data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67bd69553f7495f51103107d_phone%20app%20reel-poster-00001.jpg"
-                                            data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm"
+                                            data-poster-url="img/edit.mp4"
+                                            data-video-urls="img/edit.mp4"
                                             data-autoplay="true"
                                             data-loop="true"
                                             data-wf-ignore="true"
@@ -978,7 +978,7 @@
                                                 playsinline
                                                 data-wf-ignore="true"
                                                 data-object-fit="cover">
-                                                <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.mp4" data-wf-ignore="true">
+                                                <source src="img/edit.mp4" data-wf-ignore="true">
                                                 <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm" data-wf-ignore="true">
                                             </video>
                                         </div>
