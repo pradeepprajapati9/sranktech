@@ -35,8 +35,7 @@
     </script>
     <link href="67f115e64d4efc2ac4e1a9e3/6802569955b27830a5df1268_mm-32x32.png" rel="shortcut icon" type="image/x-icon">
     <link href="67f115e64d4efc2ac4e1a9e3/6802569dd3e80ba1ff09b323_mm-256x256.png" rel="apple-touch-icon">
-    <link href="https://metaminds.studio/" rel="canonical">
-
+    <link href="https://metaminds.studio/" rel="canonical"> 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -74,13 +73,13 @@
             return false;
         }
     </script>
-
-
 </head>
 
-<body style="background-color:#a0cc82;";>
+
+<body style="margin:0; background: linear-gradient(to bottom, #0f0f0f, #1a1a1a); color: #fff;">
     <div class="page-wrapper">
         <div class="global-styles">
+            <!-- Global Styles: Scrollbar and Lenis Smooth Scrolling -->
             <div class="code-embed w-embed w-script">
                 <style>
                     ::-webkit-scrollbar {
@@ -114,6 +113,8 @@
                     defer
                     src="645e0e1ff7fdb6dc8c85f3a2/64a5544a813c7253b90f2f50_lenis-offbrand.txt"></script>
             </div>
+
+            <!-- WhatsApp Button -->
             <div class="whatsappp-wrap">
                 <div class="padding-global is-w">
                     <div class="container-large">
@@ -145,10 +146,14 @@
                 </div>
             </div>
         </div>
+
+        <!-- Main Wrapper: Contains Nav, Form, and Sections -->
         <div class="main-wrapper">
+
+            <!-- Navigation Bar: Included from external file -->
             <?php include "layout/nav.php"; ?>
 
-
+            <!-- Contact Form Section (Hidden by Default) -->
             <div style="display:none" class="form-main-wrap">
                 <div data-w-id="0e617da5-ee5c-67fc-75be-7ad3c0438e34" style="opacity:0" class="form_bg-wrap">
                     <div
@@ -162,7 +167,7 @@
                             id="96bad4b5-d797-55ef-a8d1-49357b058743-video"
                             autoplay
                             loop
-                            style="background-image:url("asset67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-poster-00001.jpg")"
+                            style="background-image:url(" asset67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-poster-00001.jpg")"
                             muted
                             playsinline
                             data-wf-ignore="true"
@@ -282,6 +287,8 @@
                     </div>
                 </div>
             </div>
+
+            <!-- Video Popup Section (Hidden by Default) -->
             <div style="opacity:0" class="video-popup _1">
                 <div class="video-container">
                     <div class="video-main w-embed w-iframe">
@@ -390,137 +397,147 @@
                     </div>
                 </div>
             </div>
+
+            <!-- Hero Section -->
             <section class="hero-section bg-black text-white position-relative overflow-hidden">
-  <!-- Video Background with Overlay -->
-  <div class="position-absolute w-100 h-100 top-0 start-0">
-    <!-- Increased opacity for better visibility of text -->
-    <div class="bg-dark opacity-85 position-absolute w-100 h-100 top-0 start-0"></div>
-    <div class="position-relative w-100 h-100">
-      <video class="w-100 h-100 object-fit-cover" autoplay loop muted playsinline>
-        <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.mp4" type="video/mp4">
-        <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.webm" type="video/webm">
-      </video>
-    </div>
-  </div>
+                <!-- Video Background with Overlay -->
+                <div class="position-absolute w-100 h-100 top-0 start-0">
+                    <!-- Increased opacity for better visibility of text -->
+                    <div class="bg-dark opacity-85 position-absolute w-100 h-100 top-0 start-0"></div>
+                    <div class="position-relative w-100 h-100">
+                        <video class="w-100 h-100 object-fit-cover" autoplay loop muted playsinline>
+                            <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.mp4" type="video/mp4">
+                            <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.webm" type="video/webm">
+                        </video>
+                    </div>
+                </div>
 
-  <!-- Interactive Hover Effect Layer -->
-  <div class="position-absolute w-100 h-100 top-0 start-0 z-1" id="interactive-layer">
-    <img src="67bc0c538464ad73685515b4/67ec32e8f540684468b50e2a_grid34.avif"
-         class="interactive-bg w-100 h-100 object-fit-cover" id="hover-effect-img" alt="">
-  </div>
+                <!-- Interactive Hover Effect Layer -->
+                <div class="position-absolute w-100 h-100 top-0 start-0 z-1" id="interactive-layer">
+                    <img src="67bc0c538464ad73685515b4/67ec32e8f540684468b50e2a_grid34.avif"
+                        class="interactive-bg w-100 h-100 object-fit-cover" id="hover-effect-img" alt="">
+                </div>
 
-  <!-- Content -->
-  <div class="container position-relative z-2 py-5">
-    <div class="row min-vh-100 align-items-center">
-      <div class="col-12">
-        <!-- Award Badge -->
-        <div class="d-inline-flex bg-dark bg-opacity-75 p-2 rounded-pill mb-4 align-items-center border border-secondary">
-          <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab27_clutch-logo-png_seeklogo-352148_1-removebg-preview%201.png"
-               alt="Clutch Logo" width="24" height="24" class="me-2">
-          <span class="text-white small">Best Digital Marketing & Web Designing</span>
-        </div>
+                <!-- Content -->
+                <div class="container position-relative z-2 py-5">
+                    <div class="row min-vh-100 align-items-center">
+                        <div class="col-12">
+                            <!-- Award Badge -->
+                            <div class="d-inline-flex bg-dark bg-opacity-75 p-2 rounded-pill mb-4 align-items-center border border-secondary">
+                                <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab27_clutch-logo-png_seeklogo-352148_1-removebg-preview%201.png"
+                                    alt="Clutch Logo" width="24" height="24" class="me-2">
+                                <span class="text-white small">Best Digital Marketing & Web Designing</span>
+                            </div>
 
-        <!-- Heading & Description -->
-        <div class="mb-5">
-          <h1 class="display-3 fw-bold mb-4 animate-slide-up text-shadow">SrankTech</h1>
-          <p class="lead mb-5 animate-slide-up w-75 text-shadow">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, unde modi nemo ratione repudiandae,
-            earum tempora, nostrum non ipsum laudantium beatae quae molestiae assumenda!
-          </p>
-        </div>
+                            <!-- Heading & Description -->
+                            <div class="mb-5">
+                                <h1 class="display-3 fw-bold mb-4 animate-slide-up text-shadow">SrankTech</h1>
+                                <p class="lead mb-5 animate-slide-up w-75 text-shadow">
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, unde modi nemo ratione repudiandae,
+                                    earum tempora, nostrum non ipsum laudantium beatae quae molestiae assumenda!
+                                </p>
+                            </div>
 
-        <!-- Client Logos -->
-        <div class="row gx-4 gy-4 mt-4 animate-fade-in">
-          <div class="col-6 col-md-3 d-flex align-items-center">
-            <img src="img/srankBazaar.png" alt="SrankBazaar" class="img-fluid opacity-75 hover-bright">
-          </div>
-          <div class="col-6 col-md-3 d-flex align-items-center">
-            <img src="img/srankyatra.png" alt="SrankYatra" class="img-fluid opacity-75 hover-bright">
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+                            <!-- Client Logos -->
+                            <div class="row gx-4 gy-4 mt-4 animate-fade-in">
+                                <div class="col-6 col-md-3 d-flex align-items-center">
+                                    <img src="img/srankBazaar.png" alt="SrankBazaar" class="img-fluid opacity-75 hover-bright">
+                                </div>
+                                <div class="col-6 col-md-3 d-flex align-items-center">
+                                    <img src="img/srankyatra.png" alt="SrankYatra" class="img-fluid opacity-75 hover-bright">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-  <!-- Custom CSS for the interactive effect -->
-  <style>
-    .hero-section {
-      background-color: #000;
-      min-height: 100vh;
-    }
+                <!-- Custom CSS for the interactive effect -->
+                <style>
+                    .hero-section {
+                        background-color: #000;
+                        min-height: 100vh;
+                    }
 
-    .interactive-bg {
-      opacity: 0;
-      -webkit-mask-image: radial-gradient(circle at var(--x, 50%) var(--y, 50%), #fff 0px, transparent 200px);
-      mask-image: radial-gradient(circle at var(--x, 50%) var(--y, 50%), #fff 0px, transparent 200px);
-      transition: opacity 0.5s ease;
-      pointer-events: none;
-    }
+                    .interactive-bg {
+                        opacity: 0;
+                        -webkit-mask-image: radial-gradient(circle at var(--x, 50%) var(--y, 50%), #fff 0px, transparent 200px);
+                        mask-image: radial-gradient(circle at var(--x, 50%) var(--y, 50%), #fff 0px, transparent 200px);
+                        transition: opacity 0.5s ease;
+                        pointer-events: none;
+                    }
 
-    .animate-slide-up {
-      animation: slideUp 0.8s ease-out forwards;
-      opacity: 0;
-    }
+                    .animate-slide-up {
+                        animation: slideUp 0.8s ease-out forwards;
+                        opacity: 0;
+                    }
 
-    .animate-fade-in {
-      animation: fadeIn 1.2s ease-out forwards;
-      opacity: 0;
-    }
+                    .animate-fade-in {
+                        animation: fadeIn 1.2s ease-out forwards;
+                        opacity: 0;
+                    }
 
-    .hover-bright:hover {
-      opacity: 1;
-      transition: opacity 0.3s ease;
-    }
+                    .hover-bright:hover {
+                        opacity: 1;
+                        transition: opacity 0.3s ease;
+                    }
 
-    /* Text shadow for better readability */
-    .text-shadow {
-      text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
-    }
+                    /* Text shadow for better readability */
+                    .text-shadow {
+                        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+                    }
 
-    /* Increased overlay opacity */
-    .opacity-85 {
-      opacity: 0.85 !important;
-    }
+                    /* Increased overlay opacity */
+                    .opacity-85 {
+                        opacity: 0.85 !important;
+                    }
 
-    @keyframes slideUp {
-      from {
-        transform: translateY(25px);
-        opacity: 0;
-      }
-      to {
-        transform: translateY(0);
-        opacity: 1;
-      }
-    }
+                    @keyframes slideUp {
+                        from {
+                            transform: translateY(25px);
+                            opacity: 0;
+                        }
 
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-  </style>
+                        to {
+                            transform: translateY(0);
+                            opacity: 1;
+                        }
+                    }
 
-  <!-- JavaScript for the interactive hover effect -->
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      const section = document.querySelector('.hero-section');
-      const bgElement = document.getElementById('hover-effect-img');
+                    @keyframes fadeIn {
+                        from {
+                            opacity: 0;
+                        }
 
-      section.addEventListener('mousemove', function(e) {
-        const rect = section.getBoundingClientRect();
-        const relX = ((e.clientX - rect.left) / rect.width) * 100;
-        const relY = ((e.clientY - rect.top) / rect.height) * 100;
+                        to {
+                            opacity: 1;
+                        }
+                    }
+                </style>
 
-        bgElement.style.setProperty('--x', `${relX}%`);
-        bgElement.style.setProperty('--y', `${relY}%`);
-        bgElement.style.opacity = 1;
-      });
+                <!-- JavaScript for the interactive hover effect -->
+                <script>
+                    document.addEventListener('DOMContentLoaded', function() {
+                        const section = document.querySelector('.hero-section');
+                        const bgElement = document.getElementById('hover-effect-img');
 
-      section.addEventListener('mouseleave', function() {
-        bgElement.style.opacity = 0.1;
-      });
-    });
-  </script>
-</section>
+                        section.addEventListener('mousemove', function(e) {
+                            const rect = section.getBoundingClientRect();
+                            const relX = ((e.clientX - rect.left) / rect.width) * 100;
+                            const relY = ((e.clientY - rect.top) / rect.height) * 100;
+
+                            bgElement.style.setProperty('--x', `${relX}%`);
+                            bgElement.style.setProperty('--y', `${relY}%`);
+                            bgElement.style.opacity = 1;
+                        });
+
+                        section.addEventListener('mouseleave', function() {
+                            bgElement.style.opacity = 0.1;
+                        });
+                    });
+                </script>
+            </section>
+
+            <!-- About Section -->
             <div id="sec-about" data-w-id="849dc106-0729-c97a-ed9e-816420402b8e" class="about_sction-wrap">
                 <section class="section_about">
                     <div class="padding-global padding-section-medium is-h-about">
@@ -528,10 +545,7 @@
                             <div class="h-about_content-wrap">
                                 <div class="about_c-left">
                                     <div data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc502b" class="abut_c-left-inner">
-                                        <div text-split words-slide-from-right class="_24-med">
-                                            Why you need us
-                                            !
-                                        </div>
+                                        <div text-split words-slide-from-right class="_24-med">Why you need us!</div>
                                         <div style="width:0%" class="div-block-11 _2"></div>
                                         <div data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc502f" style="opacity:0" class="quotes-inner-wrap">
                                             <div
@@ -558,9 +572,9 @@
                                                     <a data-w-tab="Tab 2" data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc5034" class="tab-button-1 w-inline-block w-tab-link">
                                                         <img
                                                             loading="lazy"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad6_Ellipse%204.svg"
+                                                            src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad6_Ellipse%204.svg"
                                                             alt="Avatar"
-                                                            class="image-16">
+                                                            class="image-16" />
                                                         <div
                                                             class="tab-lottie"
                                                             data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc5036"
@@ -577,9 +591,9 @@
                                                     <a data-w-tab="Tab 3" data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc5037" class="tab-button-1 w-inline-block w-tab-link">
                                                         <img
                                                             loading="lazy"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad4_Ellipse%205.svg"
+                                                            src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad4_Ellipse%205.svg"
                                                             alt="Avatar"
-                                                            class="image-16">
+                                                            class="image-16" />
                                                         <div
                                                             class="tab-lottie"
                                                             data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc5039"
@@ -596,9 +610,9 @@
                                                     <a data-w-tab="Tab 4" data-w-id="00be8d41-280d-8e8e-90a5-7ef357c606f3" class="tab-button-1 w-inline-block w-tab-link">
                                                         <img
                                                             loading="lazy"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad4_Ellipse%205.svg"
+                                                            src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad4_Ellipse%205.svg"
                                                             alt="Avatar"
-                                                            class="image-16">
+                                                            class="image-16" />
                                                         <div
                                                             class="tab-lottie"
                                                             data-w-id="00be8d41-280d-8e8e-90a5-7ef357c606f5"
@@ -633,11 +647,7 @@
                                                                         data-duration="7"
                                                                         data-ix2-initial-state="0"></div>
                                                                 </div>
-                                                                <p class="paragraph _1">
-                                                                    Of first impressions
-                                                                    about a business come from its
-                                                                    design.
-                                                                </p>
+                                                                <p class="paragraph _1">Of first impressions about a business come from its design.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -650,7 +660,6 @@
                                                                         data-is-ix2-target="1"
                                                                         class="lottie-animation-3"
                                                                         data-w-id="082c5a17-bf62-5d59-3d33-a27cf60bdf35"
-                                                                        data-animation-type="lottie"
                                                                         data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab37_counting%20number%20300%20(800px%2080%20comp).json"
                                                                         data-loop="0"
                                                                         data-direction="1"
@@ -660,29 +669,11 @@
                                                                         data-duration="7"
                                                                         data-ix2-initial-state="0"></div>
                                                                 </div>
-                                                                <p class="paragraph _2">
-                                                                    Increase in revenue is
-                                                                    seen by businesses that switch from a
-                                                                    website to an app.
-                                                                </p>
+                                                                <p class="paragraph _2">Increase in revenue is seen by businesses that switch from a website to an app.</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div data-w-tab="Tab 3" class="w-tab-pane">
-                                                        <div class="div-block-15 is-hide">
-                                                            <div class="div-block-15">
-                                                                <div class="about_num">
-                                                                    <span class="counter-3">99</span>%
-                                                                </div>
-                                                                <p class="paragraph _3">
-                                                                    Lorem ipsum dolor sit
-                                                                    amet, consectetur adipiscing elit, sed do
-                                                                    eiusmod tempor Lorem ipsum dolor sit amet,
-                                                                    consectetur adipiscing elit, sed do eiusmod
-                                                                    tempor
-                                                                </p>
-                                                            </div>
-                                                        </div>
                                                         <div class="div-block-15">
                                                             <div class="div-block-15">
                                                                 <div class="div-block-357">
@@ -701,29 +692,11 @@
                                                                         data-duration="7"
                                                                         data-ix2-initial-state="0"></div>
                                                                 </div>
-                                                                <p class="paragraph _3">
-                                                                    Of users won’t reopen
-                                                                    an app after a bad first
-                                                                    experience.
-                                                                </p>
+                                                                <p class="paragraph _3">Of users won’t reopen an app after a bad first experience.</p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div data-w-tab="Tab 4" class="w-tab-pane">
-                                                        <div class="div-block-15 is-hide">
-                                                            <div class="div-block-15">
-                                                                <div class="about_num">
-                                                                    <span class="counter-3">99</span>%
-                                                                </div>
-                                                                <p class="paragraph _3">
-                                                                    Lorem ipsum dolor sit
-                                                                    amet, consectetur adipiscing elit, sed do
-                                                                    eiusmod tempor Lorem ipsum dolor sit amet,
-                                                                    consectetur adipiscing elit, sed do eiusmod
-                                                                    tempor
-                                                                </p>
-                                                            </div>
-                                                        </div>
                                                         <div class="div-block-15">
                                                             <div class="div-block-15">
                                                                 <div class="div-block-357">
@@ -742,12 +715,7 @@
                                                                         data-duration="7"
                                                                         data-ix2-initial-state="0"></div>
                                                                 </div>
-                                                                <p class="paragraph _4">
-                                                                    Of mobile users will
-                                                                    abandon an app of it takes more than 5
-                                                                    seconds to
-                                                                    load.
-                                                                </p>
+                                                                <p class="paragraph _4">Of mobile users will abandon an app if it takes more than 5 seconds to load.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -758,17 +726,17 @@
                                             <div data-w-id="3e1fb3fd-f92f-31db-6325-971ef1cc5058" style="opacity:0" class="slider_arrows-wrap">
                                                 <div id="prev-btn-1" class="slider_arrow">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa59_weui_arrow-filled.svg"
+                                                        src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa59_weui_arrow-filled.svg"
                                                         loading="lazy"
-                                                        alt
-                                                        class="aroow_icon">
+                                                        alt="Previous"
+                                                        class="aroow_icon" />
                                                 </div>
                                                 <div id="next-btn-1" class="slider_arrow">
                                                     <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa58_weui_arrow-filled-1.svg"
+                                                        src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa58_weui_arrow-filled-1.svg"
                                                         loading="lazy"
-                                                        alt
-                                                        class="aroow_icon">
+                                                        alt="Next"
+                                                        class="aroow_icon" />
                                                     <div
                                                         data-is-ix2-target="1"
                                                         class="tab-lottie _1"
@@ -828,7 +796,10 @@
                                 </div>
                                 <div class="about_c-right">
                                     <div class="hero-tag-wrap">
-                                        <div data-w-id="e813a903-7526-2110-8ef3-885717abf545" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero_tag-bar">
+                                        <div
+                                            data-w-id="e813a903-7526-2110-8ef3-885717abf545"
+                                            style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
+                                            class="hero_tag-bar">
                                             <div class="tag_inner is-2">
                                                 <div class="tag-text is-num">1</div>
                                             </div>
@@ -836,8 +807,8 @@
                                         </div>
                                     </div>
                                     <h2 words-slide-from-right text-split class="about-tile is-res">
-                                        About Sranktech And It's Innovative IT Solutions
-                                        <br>
+                                        About Style And It's Innovative IT Solutions
+                                        <br />
                                     </h2>
                                 </div>
                                 <div class="div-block-332 is-mob">
@@ -851,12 +822,17 @@
                                                             <div class="test-button">Contact Us</div>
                                                         </div>
                                                         <div class="icon-wrapper">
-                                                            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
+                                                            <img
+                                                                src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg"
+                                                                loading="lazy"
+                                                                alt="Contact Us Arrow" />
                                                         </div>
                                                     </div>
                                                     <div class="inside-glow-dv"></div>
                                                 </div>
-                                                <div style="-webkit-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="line-move"></div>
+                                                <div
+                                                    style="-webkit-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
+                                                    class="line-move"></div>
                                             </a>
                                             <div class="particles-wrapper">
                                                 <div
@@ -885,18 +861,20 @@
                                                         <div class="text-and-icon">
                                                             <div class="text-flip-wrap">
                                                                 <div class="test-button">Know More</div>
-                                                                <div class="test-button">
-                                                                    Know
-                                                                    More
-                                                                </div>
+                                                                <div class="test-button">Know More</div>
                                                             </div>
                                                             <div class="icon-wrapper">
-                                                                <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
+                                                                <img
+                                                                    src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg"
+                                                                    loading="lazy"
+                                                                    alt="Know More Arrow" />
                                                             </div>
                                                         </div>
                                                         <div class="inside-glow-dv"></div>
                                                     </div>
-                                                    <div style="-webkit-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="line-move"></div>
+                                                    <div
+                                                        style="-webkit-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
+                                                        class="line-move"></div>
                                                 </a>
                                                 <div class="particles-wrapper">
                                                     <div
@@ -918,11 +896,8 @@
                                     </div>
                                     <div class="div-block-17">
                                         <div
-                                            data-poster-url="img/edit.mp4"
-                                            data-video-urls="img/edit.mp4"
                                             data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67bd69553f7495f51103107d_phone%20app%20reel-poster-00001.jpg"
                                             data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm"
-
                                             data-autoplay="true"
                                             data-loop="true"
                                             data-wf-ignore="true"
@@ -931,18 +906,17 @@
                                                 id="aa6607e2-b294-c22d-ef37-95b9a23e974d-video"
                                                 autoplay
                                                 loop
-                                                style="background-image:url("67bc0c538464ad73685515b467bd69553f7495f51103107d_phone app reel-poster-00001.jpg")"
+                                                style="background-image:url('https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67bd69553f7495f51103107d_phone%20app%20reel-poster-00001.jpg')"
                                                 muted
                                                 playsinline
                                                 data-wf-ignore="true"
                                                 data-object-fit="cover">
-<<<<<<< HEAD
-                                                <source src="img/edit.mp4" data-wf-ignore="true">
-                                                <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm" data-wf-ignore="true">
-=======
-                                                <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.mp4" data-wf-ignore="true">
-                                                <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm" data-wf-ignore="true">
->>>>>>> b6bc567b26f87a9f0b64f291cbe6e6240f313af2
+                                                <source
+                                                    src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.mp4"
+                                                    data-wf-ignore="true" />
+                                                <source
+                                                    src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm"
+                                                    data-wf-ignore="true" />
                                             </video>
                                         </div>
                                     </div>
@@ -952,6 +926,8 @@
                     </div>
                 </section>
             </div>
+
+            <!-- Services Section -->
             <section id="sec-services" class="section_h-features">
                 <div class="padding-global padding-section-medium">
                     <div class="container-large">
@@ -972,7 +948,6 @@
                                         padding: 1px;
                                         border-radius: inherit;
                                         background: radial-gradient(ellipse 80% 80% at 50% 20%, rgba(248, 248, 248, .3), rgba(248, 248, 248, 0));
-
                                     }
                                 </style>
                             </div>
@@ -1001,7 +976,6 @@
                                         background-size: auto;
                                         background-origin: padding-box;
                                         z-index: 0;
-
                                     }
 
                                     [glow-border="wrapper"]:hover [glow-border="card"]::before {
@@ -1020,7 +994,7 @@
                                 </div>
                                 <h2 words-slide-from-right text-split class="heading-style-h2">
                                     Services Built Specifically For
-                                    <strong style="color: white;">YOUR BUSINESS</strong> from the crowd!
+                                    <strong>YOUR BUSINESS</strong> from the crowd!
                                 </h2>
                             </div>
                             <div glow-border="wrapper" class="glowing_component">
@@ -1241,6 +1215,8 @@
                     </div>
                 </div>
             </section>
+
+            <!-- What We Do Section -->
             <div id="sec-what-we-do" data-w-id="73eb1d0a-c076-0b2c-6bb6-42ac2f446ac6b" class="work-section_wrap">
                 <section class="section_h-work">
                     <div class="work_blur-wrap">
@@ -1249,10 +1225,7 @@
                                 <div class="div-block-358">
                                     <div class="div-block-359">
                                         <div class="text-block-45">
-                                            We ensure
-                                            that your app is not just functional, but a true
-                                            reflection of your brand's identity and
-                                            values.
+                                            We ensure that your app is not just functional, but a true reflection of your brand's identity and values.
                                         </div>
                                     </div>
                                     <div class="div-block-350">
@@ -1347,7 +1320,7 @@
                                                         src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae9_Desktop%20-%201.avif"
                                                         loading="lazy"
                                                         sizes="(max-width: 1366px) 100vw, 1366px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae9_Desktop%20-%201.avif 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae9_Desktop%20-%201.avif 1366w"
+                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae9_Desktop%2520-%25201.avif 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae9_Desktop%20-%201.avif 1366w"
                                                         alt="Home page of WWY"
                                                         class="image-main">
                                                 </div>
@@ -1528,13 +1501,11 @@
                             </div>
                         </div>
                     </div>
-                    <div class="div-block-360">
-                        <div class="text-block-46">
-                            Made at Metaminds
-                        </div>
-                    </div>
+
                 </section>
             </div>
+
+            <!-- Timeline Section -->
             <div id="sec-timeline" class="section-timeline-3">
                 <div class="sticky-sec h-timeline">
                     <div class="section-3">
@@ -1549,7 +1520,7 @@
                                                         -webkit-background-clip: text;
                                                         -webkit-text-stroke: 2px transparent;
                                                     }
-                                                </stylSranktech>
+                                                </style>
                                             </div>
                                             <div class="timeline-up">
                                                 <div data-w-id="f3fc9015-f9fa-7a58-edf2-c2d4e69e30bc" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero-tag-wrap">
@@ -1582,7 +1553,7 @@
                                                         id="d59dff16-65c3-c66f-1c33-065c82efd069-video"
                                                         autoplay
                                                         loop
-                                                        style="background-image:url("6589245ce820a6b1591725fa/659051418823871013f5f50c_2-poster-00001.jpg")"
+                                                        style="background-image:url(" 6589245ce820a6b1591725fa/659051418823871013f5f50c_2-poster-00001.jpg")"
                                                         muted
                                                         playsinline
                                                         data-wf-ignore="true"
@@ -1691,6 +1662,8 @@
                     </div>
                 </div>
             </div>
+
+            <!-- Our Work Section -->
             <section id="our-work" class="section_our-work">
                 <div class="padding-global padding-section-medium">
                     <div class="container-large">
@@ -1717,10 +1690,10 @@
                                         <h2 words-slide-from-right text-split class="heading-style-h2">
                                             Crafted with purpose, driven by
                                             results — this is our work.
-                                            </h2>
+                                        </h2>
                                     </div>
                                 </div>
-                                <div class="div-block-123">
+                                <div class="div-block-123 mt-5">
                                     <div class="our-work-wrap">
                                         <div class="div-block-113">
                                             <div data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51b50" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="portfolio-main-wrap">
@@ -2082,7 +2055,7 @@
                                                                                             Learn
                                                                                             More
                                                                                         </div>
-                                                                                        <div class="test-button">                                                                                            Learn
+                                                                                        <div class="test-button"> Learn
                                                                                             More
                                                                                         </div>
                                                                                     </div>
@@ -2154,103 +2127,103 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="sentra-world-wrap">
-                                        <div data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51bd8" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="div-block-121">
-                                            <div class="portfolio-main-wrap-copy">
-                                                <div data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51bda" class="portfolio-imge-wrap-copy">
-                                                    <div class="images-wrap-p-copy small _1">
-                                                        <img
-                                                            loading="lazy"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac9_Frame%2036603.webp"
-                                                            alt="Sentra World Screenshot"
-                                                            class="portfolio-image-copy">
-                                                        <img
-                                                            loading="lazy"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacd_timeline.webp"
-                                                            alt="Sentra  World Screenshot"
-                                                            class="portfolio-image-copy">
-                                                        <img
-                                                            loading="lazy"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacb_Frame%2036604.webp"
-                                                            alt="Screenshot of Sentra World"
-                                                            class="portfolio-image-copy">
-                                                    </div>
-                                                    <div class="images-wrap-p-copy _2">
-                                                        <img
-                                                            loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaca_Frame%2036603%20%281%29.webp"
-                                                            alt="Sentra World Screenshot"
-                                                            class="portfolio-image-copy">
-                                                        <img
-                                                            loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacc_Home.webp"
-                                                            alt="Sentra world Screenshot"
-                                                            class="portfolio-image-copy">
-                                                        <img
-                                                            loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aace_MacBook%20Air%20-%2036%20%281%29.webp"
-                                                            alt="Sentra  world Screenshot"
-                                                            class="portfolio-image-copy">
-                                                    </div>
-                                                    <div class="images-wrap-p-copy small _3">
-                                                        <img
-                                                            loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac9_Frame%2036603.webp"
-                                                            alt="Sentra World Screenshot"
-                                                            class="portfolio-image-copy">
-                                                        <img
-                                                            loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacb_Frame%2036604.webp"
-                                                            alt="Screenshot of Sentra World"
-                                                            class="portfolio-image-copy">
-                                                    </div>
-                                                    <div class="visit-website-ddesk">
-                                                        <div class="div-block-350">
-                                                            <div adiuo="playBtn" class="copy-me-button">
-                                                                <div data-w-id="ce8ca9d8-d275-00c0-8462-5a9c4512f880" class="button-9">
-                                                                    <div class="button-stroke">
-                                                                        <div class="button-inside">
-                                                                            <div class="text-and-icon">
-                                                                                <div class="text-flip-wrap">
-                                                                                    <div class="test-button">
-                                                                                        Learn
-                                                                                        More
+                                        <div class="sentra-world-wrap">
+                                            <div data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51bd8" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="div-block-121">
+                                                <div class="portfolio-main-wrap-copy">
+                                                    <div data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51bda" class="portfolio-imge-wrap-copy">
+                                                        <div class="images-wrap-p-copy small _1">
+                                                            <img
+                                                                loading="lazy"
+                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac9_Frame%2036603.webp"
+                                                                alt="Sentra World Screenshot"
+                                                                class="portfolio-image-copy">
+                                                            <img
+                                                                loading="lazy"
+                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacd_timeline.webp"
+                                                                alt="Sentra  World Screenshot"
+                                                                class="portfolio-image-copy">
+                                                            <img
+                                                                loading="lazy"
+                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacb_Frame%2036604.webp"
+                                                                alt="Screenshot of Sentra World"
+                                                                class="portfolio-image-copy">
+                                                        </div>
+                                                        <div class="images-wrap-p-copy _2">
+                                                            <img
+                                                                loading="eager"
+                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaca_Frame%2036603%20%281%29.webp"
+                                                                alt="Sentra World Screenshot"
+                                                                class="portfolio-image-copy">
+                                                            <img
+                                                                loading="eager"
+                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacc_Home.webp"
+                                                                alt="Sentra world Screenshot"
+                                                                class="portfolio-image-copy">
+                                                            <img
+                                                                loading="eager"
+                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aace_MacBook%20Air%20-%2036%20%281%29.webp"
+                                                                alt="Sentra  world Screenshot"
+                                                                class="portfolio-image-copy">
+                                                        </div>
+                                                        <div class="images-wrap-p-copy small _3">
+                                                            <img
+                                                                loading="eager"
+                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac9_Frame%2036603.webp"
+                                                                alt="Sentra World Screenshot"
+                                                                class="portfolio-image-copy">
+                                                            <img
+                                                                loading="eager"
+                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacb_Frame%2036604.webp"
+                                                                alt="Screenshot of Sentra World"
+                                                                class="portfolio-image-copy">
+                                                        </div>
+                                                        <div class="visit-website-ddesk">
+                                                            <div class="div-block-350">
+                                                                <div adiuo="playBtn" class="copy-me-button">
+                                                                    <div data-w-id="ce8ca9d8-d275-00c0-8462-5a9c4512f880" class="button-9">
+                                                                        <div class="button-stroke">
+                                                                            <div class="button-inside">
+                                                                                <div class="text-and-icon">
+                                                                                    <div class="text-flip-wrap">
+                                                                                        <div class="test-button">
+                                                                                            Learn
+                                                                                            More
+                                                                                        </div>
+                                                                                        <div class="test-button">
+                                                                                            Learn
+                                                                                            More
+                                                                                        </div>
                                                                                     </div>
-                                                                                    <div class="test-button">
-                                                                                        Learn
-                                                                                        More
+                                                                                    <div class="icon-wrapper">
+                                                                                        <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
                                                                                     </div>
                                                                                 </div>
-                                                                                <div class="icon-wrapper">
-                                                                                    <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
+                                                                                <div class="inside-glow-dv"></div>
+                                                                                <div>
+                                                                                    <img
+                                                                                        loading="lazy"
+                                                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg"
+                                                                                        alt
+                                                                                        class="aroow_icon">
                                                                                 </div>
                                                                             </div>
-                                                                            <div class="inside-glow-dv"></div>
-                                                                            <div>
-                                                                                <img
-                                                                                    loading="lazy"
-                                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg"
-                                                                                    alt
-                                                                                    class="aroow_icon">
-                                                                            </div>
+                                                                            <div style="-webkit-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="line-move"></div>
                                                                         </div>
-                                                                        <div style="-webkit-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="line-move"></div>
-                                                                    </div>
-                                                                    <div class="particles-wrapper">
-                                                                        <div
-                                                                            class="particles"
-                                                                            data-w-id="ce8ca9d8-d275-00c0-8462-5a9c4512f88d"
-                                                                            data-animation-type="lottie"
-                                                                            data-src="https://cdn.prod.website-files.com/642285a18b18e9995a3974c1/64228c6a7b96bd08f5c80d62_Particles.json"
-                                                                            data-loop="1"
-                                                                            data-direction="1"
-                                                                            data-autoplay="1"
-                                                                            data-is-ix2-target="0"
-                                                                            data-renderer="svg"
-                                                                            data-default-duration="20"
-                                                                            data-duration="4"></div>
-                                                                        <div class="bg-glow"></div>
+                                                                        <div class="particles-wrapper">
+                                                                            <div
+                                                                                class="particles"
+                                                                                data-w-id="ce8ca9d8-d275-00c0-8462-5a9c4512f88d"
+                                                                                data-animation-type="lottie"
+                                                                                data-src="https://cdn.prod.website-files.com/642285a18b18e9995a3974c1/64228c6a7b96bd08f5c80d62_Particles.json"
+                                                                                data-loop="1"
+                                                                                data-direction="1"
+                                                                                data-autoplay="1"
+                                                                                data-is-ix2-target="0"
+                                                                                data-renderer="svg"
+                                                                                data-default-duration="20"
+                                                                                data-duration="4"></div>
+                                                                            <div class="bg-glow"></div>
+                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -2258,37 +2231,37 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div class="ui-ux-design-wrap">
-                                            <div class="left-ui-ux-wrap">
-                                                <div class="div-block-117">
-                                                    <div words-slide-from-right text-split class="text-block-32">Sentra.world</div>
-                                                </div>
-                                                <div data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51bf2" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="apple-grid">
-                                                    <div class="apple1">
-                                                        <div class="text-block-33 texttt _1">
-                                                            <span class="text-span-9">Animation</span>
-                                                            <br>
+                                            <div class="ui-ux-design-wrap">
+                                                <div class="left-ui-ux-wrap">
+                                                    <div class="div-block-117">
+                                                        <div words-slide-from-right text-split class="text-block-32">Sentra.world</div>
+                                                    </div>
+                                                    <div data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51bf2" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="apple-grid">
+                                                        <div class="apple1">
+                                                            <div class="text-block-33 texttt _1">
+                                                                <span class="text-span-9">Animation</span>
+                                                                <br>
+                                                            </div>
+                                                        </div>
+                                                        <div class="apple1">
+                                                            <div class="text-block-33 texttt _1">
+                                                                UI/UX
+                                                                Design
+                                                                <br>
+                                                            </div>
                                                         </div>
                                                     </div>
-                                                    <div class="apple1">
-                                                        <div class="text-block-33 texttt _1">
-                                                            UI/UX
-                                                            Design
-                                                            <br>
-                                                        </div>
+                                                </div>
+                                                <div class="right-ui-ux-wrap">
+                                                    <div class="div-block-116 _3">
+                                                        <p data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51c05" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="par-main-2">
+                                                            We crafted engaging animations,
+                                                            designed an intuitive UI/UX, and developed a
+                                                            dynamic website and an intuitive app to enhance
+                                                            their digital
+                                                            presence.
+                                                        </p>
                                                     </div>
-                                                </div>
-                                                </div>
-                                            <div class="right-ui-ux-wrap">
-                                                <div class="div-block-116 _3">
-                                                    <p data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51c05" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="par-main-2">
-                                                        We crafted engaging animations,
-                                                        designed an intuitive UI/UX, and developed a
-                                                        dynamic website and an intuitive app to enhance
-                                                        their digital
-                                                        presence.
-                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -2297,8 +2270,9 @@
                             </div>
                         </div>
                     </div>
-                </div>
             </section>
+
+            <!-- Testimonial Section -->
             <section id="sec-testimonal" class="section_testimonial">
                 <div class="padding-global padding-section-medium">
                     <div class="container-large">
@@ -2340,10 +2314,10 @@
                                                                         class="image-36">
                                                                 </div>
                                                                 <div class="testi_name">
-                                                                Dr. Suman Sharma
+                                                                    Dr. Suman Sharma
                                                                 </div>
                                                                 <div class="testi-text">
-                                                                Chennai Dentist
+                                                                    Chennai Dentist
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2361,10 +2335,10 @@
                                                                         class="image-36">
                                                                 </div>
                                                                 <div class="testi_name">
-                                                                Mahesh
+                                                                    Mahesh
                                                                 </div>
                                                                 <div class="testi-text">
-                                                                Mumbai Entrepreneur
+                                                                    Mumbai Entrepreneur
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2382,10 +2356,10 @@
                                                                         class="image-36">
                                                                 </div>
                                                                 <div class="testi_name">
-                                                                Priya
+                                                                    Priya
                                                                 </div>
                                                                 <div class="testi-text">
-                                                                Yoga Instructor
+                                                                    Yoga Instructor
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2403,10 +2377,10 @@
                                                                         class="image-36">
                                                                 </div>
                                                                 <div class="testi_name">
-                                                                Ramesh Verma
+                                                                    Ramesh Verma
                                                                 </div>
                                                                 <div class="testi-text">
-                                                                Rama Jewellers
+                                                                    Rama Jewellers
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -2441,11 +2415,13 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="div-block-69"></div>
+
                         </div>
                     </div>
                 </div>
             </section>
+
+            <!-- Call to Action Section -->
             <section id="sec-cta" class="section_cta">
                 <div class="interactive-section is-cta">
                     <div class="padding-global padding-section-medium">
@@ -2507,7 +2483,7 @@
                                                     id="068797ab-0b0e-4850-7535-1b4205e06b9e-video"
                                                     autoplay
                                                     loop
-                                                    style="background-image:url("67bc0c538464ad73685515b467c00915d1fc8762679011f4_IMG_1036-poster-00001.jpg")"
+                                                    style="background-image:url(" 67bc0c538464ad73685515b467c00915d1fc8762679011f4_IMG_1036-poster-00001.jpg")"
                                                     muted
                                                     playsinline
                                                     data-wf-ignore="true"
@@ -2539,6 +2515,8 @@
                     </div>
                 </div>
             </section>
+
+            <!-- FAQ Section -->
             <section id="sec-faqs" class="section_faqs">
                 <div class="padding-global padding-section-medium">
                     <div class="container-large">
@@ -2601,299 +2579,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div data-click="faq" class="c-faq-item">
-                                            <div class="c-faq-q">
-                                                <div class="c-faq-q-text">
-                                                    <div class="heading-style-h4-2 is-light">
-                                                        Do you work
-                                                        with international clients?
-                                                    </div>
-                                                    <p class="faq_num _01">
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                                <div class="div-block-361">
-                                                    <div
-                                                        data-is-ix2-target="1"
-                                                        class="faq_icon"
-                                                        data-w-id="73ebb2c2-c3d5-558d-3201-9281ac6047cc"
-                                                        data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
-                                                        data-loop="0"
-                                                        data-direction="1"
-                                                        data-autoplay="0"
-                                                        data-renderer="svg"
-                                                        data-default-duration="0"
-                                                        data-duration="2.5"
-                                                        data-ix2-initial-state="0"></div>
-                                                </div>
-                                            </div>
-                                            <div class="c-faq-a">
-                                                <div class="c-faq-a-text">
-                                                    <p class="faq-a-text">
-                                                        Yes, we specialize in working
-                                                        with remote clients worldwide in countries like
-                                                        USA, United Kingdom, Middle East, Australia, New
-                                                        Zealand, Netherlands, Germany, Italy, Spain,
-                                                        Switzerland, Canada, Brazil, etc. , ensuring
-                                                        seamless communication and project
-                                                        execution.
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div data-click="faq" class="c-faq-item">
-                                            <div class="c-faq-q">
-                                                <div class="c-faq-q-text">
-                                                    <div class="heading-style-h4-2 is-light">
-                                                        What
-                                                        industries do you develop apps for?
-                                                    </div>
-                                                    <p class="faq_num _01">
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                                <div class="div-block-361">
-                                                    <div
-                                                        data-is-ix2-target="1"
-                                                        class="faq_icon"
-                                                        data-w-id="f39e762f-18e7-e0f0-d8e7-1c3c429ffb88"
-                                                        data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
-                                                        data-loop="0"
-                                                        data-direction="1"
-                                                        data-autoplay="0"
-                                                        data-renderer="svg"
-                                                        data-default-duration="0"
-                                                        data-duration="2.5"
-                                                        data-ix2-initial-state="0"></div>
-                                                </div>
-                                            </div>
-                                            <div class="c-faq-a">
-                                                <div class="c-faq-a-text">
-                                                    <p class="faq-a-text">
-                                                        We develop apps across various
-                                                        industries, including fintech, healthcare,
-                                                        e-commerce, education, entertainment, and
-                                                        enterprise
-                                                        solutions.
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div data-click="faq" class="c-faq-item">
-                                            <div class="c-faq-q">
-                                                <div class="c-faq-q-text">
-                                                    <div class="heading-style-h4-2 is-light">
-                                                        What is your
-                                                        development process?
-                                                    </div>
-                                                    <p class="faq_num _01">
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                                <div class="div-block-361">
-                                                    <div
-                                                        data-is-ix2-target="1"
-                                                        class="faq_icon"
-                                                        data-w-id="1353de65-377d-4d4a-69e7-e13ae2e99671"
-                                                        data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
-                                                        data-loop="0"
-                                                        data-direction="1"
-                                                        data-autoplay="0"
-                                                        data-renderer="svg"
-                                                        data-default-duration="0"
-                                                        data-duration="2.5"
-                                                        data-ix2-initial-state="0"></div>
-                                                </div>
-                                            </div>
-                                            <div class="c-faq-a">
-                                                <div class="c-faq-a-text">
-                                                    <p class="faq-a-text">
-                                                        We follow an agile development
-                                                        methodology, ensuring continuous collaboration,
-                                                        flexibility, and timely delivery. Our process
-                                                        includes:
-                                                        <br>Requirement Analysis
-                                                        <br>
-                                                        Wireframing
-                                                        and Moodboard
-                                                        <br>
-                                                        UI/UX Designing & Building a
-                                                        Prototype
-                                                        <br>Development & Coding
-                                                        <br>
-                                                        Testing
-                                                        & Quality Assurance
-                                                        <br>
-                                                        Deployment &
-                                                        Support
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div data-click="faq" class="c-faq-item">
-                                            <div class="c-faq-q">
-                                                <div class="c-faq-q-text">
-                                                    <div class="heading-style-h4-2 is-light">
-                                                        How do you
-                                                        ensure app scalability?
-                                                    </div>
-                                                    <p class="faq_num _01">
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                                <div class="div-block-361">
-                                                    <div
-                                                        data-is-ix2-target="1"
-                                                        class="faq_icon"
-                                                        data-w-id="1cadef77-c94c-23db-c4df-0a98e3408ffb"
-                                                        data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
-                                                        data-loop="0"
-                                                        data-direction="1"
-                                                        data-autoplay="0"
-                                                        data-renderer="svg"
-                                                        data-default-duration="0"
-                                                        data-duration="2.5"
-                                                        data-ix2-initial-state="0"></div>
-                                                </div>
-                                            </div>
-                                            <div class="c-faq-a">
-                                                <div class="c-faq-a-text">
-                                                    <p class="faq-a-text">
-                                                        Our apps are designed to be
-                                                        enterprise-grade and scalable, ensuring they grow
-                                                        with your business needs. We deploy on AWS, Google
-                                                        Cloud, or private servers for optimal
-                                                        performance.
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div data-click="faq" class="c-faq-item">
-                                            <div class="c-faq-q">
-                                                <div class="c-faq-q-text">
-                                                    <div class="heading-style-h4-2 is-light">
-                                                        Do you add
-                                                        animations and interactions in the apps?
-                                                    </div>
-                                                    <p class="faq_num _01">
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                                <div class="div-block-361">
-                                                    <div
-                                                        data-is-ix2-target="1"
-                                                        class="faq_icon"
-                                                        data-w-id="7d5d5b43-9bdf-b6de-24a6-232e97914289"
-                                                        data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
-                                                        data-loop="0"
-                                                        data-direction="1"
-                                                        data-autoplay="0"
-                                                        data-renderer="svg"
-                                                        data-default-duration="0"
-                                                        data-duration="2.5"
-                                                        data-ix2-initial-state="0"></div>
-                                                </div>
-                                            </div>
-                                            <div class="c-faq-a">
-                                                <div class="c-faq-a-text">
-                                                    <p class="faq-a-text">
-                                                        Yes, we specialize in adding
-                                                        high-quality animations and interactions to make
-                                                        apps more engaging and
-                                                        intuitive.
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div data-click="faq" class="c-faq-item">
-                                            <div class="c-faq-q">
-                                                <div class="c-faq-q-text">
-                                                    <div class="heading-style-h4-2 is-light">
-                                                        How do you
-                                                        handle project updates and communication?
-                                                    </div>
-                                                    <p class="faq_num _01">
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                                <div class="div-block-361">
-                                                    <div
-                                                        data-is-ix2-target="1"
-                                                        class="faq_icon"
-                                                        data-w-id="ff34930e-b45a-738f-3835-0047deed898c"
-                                                        data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
-                                                        data-loop="0"
-                                                        data-direction="1"
-                                                        data-autoplay="0"
-                                                        data-renderer="svg"
-                                                        data-default-duration="0"
-                                                        data-duration="2.5"
-                                                        data-ix2-initial-state="0"></div>
-                                                </div>
-                                            </div>
-                                            <div class="c-faq-a">
-                                                <div class="c-faq-a-text">
-                                                    <p class="faq-a-text">
-                                                        We provide regular project
-                                                        updates and maintain clear communication with
-                                                        clients through either WhatsApp, Slack, Telegram,
-                                                        email or client's preferred medium of
-                                                        communication.
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div data-click="faq" class="c-faq-item">
-                                            <div class="c-faq-q">
-                                                <div class="c-faq-q-text">
-                                                    <div class="heading-style-h4-2 is-light">
-                                                        How do you
-                                                        ensure app quality before deployment?
-                                                    </div>
-                                                    <p class="faq_num _01">
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                                <div class="div-block-361">
-                                                    <div
-                                                        data-is-ix2-target="1"
-                                                        class="faq_icon"
-                                                        data-w-id="81d04068-15d6-0409-aca7-7a7e47b2445a"
-                                                        data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
-                                                        data-loop="0"
-                                                        data-direction="1"
-                                                        data-autoplay="0"
-                                                        data-renderer="svg"
-                                                        data-default-duration="0"
-                                                        data-duration="2.5"
-                                                        data-ix2-initial-state="0"></div>
-                                                </div>
-                                            </div>
-                                            <div class="c-faq-a">
-                                                <div class="c-faq-a-text">
-                                                    <p class="faq-a-text">
-                                                        Every app undergoes thorough
-                                                        internal testing, including functional,
-                                                        performance, and security tests, before
-                                                        deployment.
-                                                        <br>
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
+                                      
                                     </div>
                                 </div>
                             </div>
@@ -2902,80 +2588,77 @@
                 </div>
             </section>
         </div>
-        <?php include 'layout/footer.php'; ?>
-
     </div>
-    <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 
-    <!--Webflow -->
-    <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=67f115e64d4efc2ac4e1a9e3" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-    <script src="67f115e64d4efc2ac4e1a9e3/js/webflow.js" type="text/javascript"></script>
-    <!-- Swiper JS -->
-    <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
-    <script>
-        var sliderTwo = new Swiper(".slider-two", {
-            slidesPerView: 1,
-            spaceBetween: 30,
-            centeredSlides: false,
-            freeMode: false,
-            grabCursor: true,
-            loop: true,
-            speed: 700,
-            pagination: {
-                el: ".slider-two-pagination",
-                clickable: true
-            },
-            navigation: {
-                nextEl: ".slider-two-next",
-                prevEl: ".slider-two-prev"
-            },
-            autoplay: {
-                delay: 2500,
-                disableOnInteraction: false
-            },
-            breakpoints: {
-                768: {
-                    slidesPerView: 1,
-                    spaceBetween: 30
-                },
-                1024: {
-                    slidesPerView: 1,
-                    spaceBetween: 30
-                }
-            }
-        });
-    </script>
-    <script>
-        const items = document.querySelectorAll("[data-click='faq']");
-        items.forEach(item => {
-            item.addEventListener("click", function() {
-                this.classList.toggle("active");
-            });
-        });
-    </script>
-    <script>
-        var audio = new Audio('https://assets.mixkit.co/sfx/preview/mixkit-modern-click-box-check-1120.mp3');
-
-        function playAudio() {
-            audio.play();
-        }
-
-        const buttons = document.querySelectorAll('.button-stroke');
-
-        buttons.forEach(button => {
-            button.addEventListener('click', () => {
-                playAudio();
-            });
-        });
-    </script>
-    <style>
-        .form_bg-wrap {
-            display: none !important;
-        }
-
-    </style>
-
+    <?php include 'layout/footer.php'; ?>
 </body>
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<!--Webflow -->
+<script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=67f115e64d4efc2ac4e1a9e3" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script src="67f115e64d4efc2ac4e1a9e3/js/webflow.js" type="text/javascript"></script>
+<!-- Swiper JS -->
+<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+<script>
+    var sliderTwo = new Swiper(".slider-two", {
+        slidesPerView: 1,
+        spaceBetween: 30,
+        centeredSlides: false,
+        freeMode: false,
+        grabCursor: true,
+        loop: true,
+        speed: 700,
+        pagination: {
+            el: ".slider-two-pagination",
+            clickable: true
+        },
+        navigation: {
+            nextEl: ".slider-two-next",
+            prevEl: ".slider-two-prev"
+        },
+        autoplay: {
+            delay: 2500,
+            disableOnInteraction: false
+        },
+        breakpoints: {
+            768: {
+                slidesPerView: 1,
+                spaceBetween: 30
+            },
+            1024: {
+                slidesPerView: 1,
+                spaceBetween: 30
+            }
+        }
+    });
+</script>
+<script>
+    const items = document.querySelectorAll("[data-click='faq']");
+    items.forEach(item => {
+        item.addEventListener("click", function() {
+            this.classList.toggle("active");
+        });
+    });
+</script>
+<script>
+    var audio = new Audio('https://assets.mixkit.co/sfx/preview/mixkit-modern-click-box-check-1120.mp3');
+
+    function playAudio() {
+        audio.play();
+    }
+
+    const buttons = document.querySelectorAll('.button-stroke');
+
+    buttons.forEach(button => {
+        button.addEventListener('click', () => {
+            playAudio();
+        });
+    });
+</script>
+<style>
+    .form_bg-wrap {
+        display: none !important;
+    }
+</style>
 
 </html>

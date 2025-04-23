@@ -1,87 +1,77 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" >
-<footer class="bg-dark text-white py-5">
+<footer class="text-white pt-5 pb-4" style="background: linear-gradient(135deg, #0d0d0d, #1a1a1a);">
   <div class="container">
-    <!-- Main Footer Content -->
-    <div class="row gy-4">
-      <!-- Logo and Address Column -->
-      <div class="col-lg-4 col-md-6">
-        <div class="d-flex align-items-center mb-3">
-          <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaed_9dfb87727446716dc1934bc41849862c.gif" 
-               alt="MetaMinds Animation" class="me-2" height="50">
-          <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab49_MetaMinds.svg" 
-               alt="MetaMinds Logo" height="30">
+    <div class="row">
+
+      <!-- Brand & Contact -->
+      <div class="col-lg-4 col-md-6 mb-4">
+        <div class="mb-3 d-flex align-items-center">
+          <img src="img/logo.png" alt="SrAnkTech Logo" height="40" class="me-2">
+          <h5 class="mb-0">SrAnkTech</h5>
         </div>
-        <div class="mb-3">
-          <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaef_image%20117.png" 
-               alt="India Flag" class="mb-2" height="24">
-          <p class="text-light fs-6">
-            Office 22-23, 1st Floor, Samrin Heritage, Metaminds Studio, 
-            opp. Sarovar Darshan, Thane, Maharashtra 400601
-          </p>
-          <a href="tel:+919137765578" class="d-flex align-items-center text-decoration-none text-white">
-            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaad_phone-fill.svg" 
-                 alt="Phone Icon" class="me-2" width="16" height="16">
-            <span>+91 9137765578</span>
-          </a>
+        <p class="small">
+          Office 22-23, 1st Floor, Samrin Heritage, <br>
+          SrAnkTech Studio, opp. Sarovar Darshan, <br>
+          Thane, Maharashtra 400601
+        </p>
+        <p class="mb-1">
+          📞 <a href="tel:+919137765578" class="text-white text-decoration-none">+91 9137765578</a>
+        </p>
+        <p>📧 <a href="mailto:info@sranktech.com" class="text-white text-decoration-none">info@sranktech.com</a></p>
+      </div>
+
+      <!-- Navigation Links -->
+      <div class="col-lg-4 col-md-6 mb-4">
+        <h5 class="mb-3 border-bottom pb-2">Quick Links</h5>
+        <div class="d-flex justify-content-between">
+          <ul class="list-unstyled">
+            <li><a href="index.html" class="text-white text-decoration-none">Home</a></li>
+            <li><a href="about-us.html" class="text-white text-decoration-none">About Us</a></li>
+            <li><a href="careers.html" class="text-white text-decoration-none">Careers</a></li>
+          </ul>
+          <ul class="list-unstyled">
+            <li><a href="https://website.sranktech.com" target="_blank" class="text-white text-decoration-none">Website</a></li>
+            <li><a href="#" class="text-white text-decoration-none">Privacy Policy</a></li>
+            <li><a href="#" class="text-white text-decoration-none">Refund Policy</a></li>
+          </ul>
         </div>
       </div>
-      
-      <!-- Quick Links Column -->
-      <div class="col-lg-2 col-md-6">
-        <h5 class="mb-3 border-bottom border-primary pb-2">Quick Links</h5>
-        <ul class="list-unstyled">
-          <li class="mb-2"><a href="index.htm" class="text-light text-decoration-none">Home</a></li>
-          <li class="mb-2"><a href="about-us.html" class="text-light text-decoration-none">About us</a></li>
-          <li class="mb-2"><a href="careers.html" class="text-light text-decoration-none">Careers</a></li>
-          <li class="mb-2"><a href="https://shor.by/ac7s" target="_blank" class="text-light text-decoration-none">Portfolio</a></li>
-          <li class="mb-2"><a href="https://website.metaminds.studio/" target="_blank" class="text-light text-decoration-none">Website</a></li>
-        </ul>
-      </div>
-      
-      <!-- Legal Column -->
-      <div class="col-lg-2 col-md-6">
-        <h5 class="mb-3 border-bottom border-primary pb-2">Legal</h5>
-        <ul class="list-unstyled">
-          <li class="mb-2"><a href="#" class="text-light text-decoration-none">Terms &amp; Conditions</a></li>
-          <li class="mb-2"><a href="#" class="text-light text-decoration-none">Privacy Policy</a></li>
-          <li class="mb-2"><a href="#" class="text-light text-decoration-none">Refund Policy</a></li>
-        </ul>
-      </div>
-      
-      <!-- Social Links Column -->
-      <div class="col-lg-4 col-md-6">
-        <h5 class="mb-3 border-bottom border-primary pb-2">Social Links</h5>
+
+      <!-- Newsletter & Social Media -->
+      <div class="col-lg-4 col-md-12">
+        <h5 class="mb-3 border-bottom pb-2">Stay Updated</h5>
+        <form class="mb-3">
+          <div class="input-group">
+            <input type="email" class="form-control" placeholder="Your email" aria-label="Email">
+            <button class="btn btn-primary" type="submit">Subscribe</button>
+          </div>
+        </form>
         <div class="d-flex gap-2">
-          <a href="https://wa.me/919137765578" target="_blank" class="btn btn-outline-light rounded-circle p-2" aria-label="WhatsApp">
-            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaf1_image%20171%20%28traced%29.svg" 
-                 alt="WhatsApp" width="24" height="24">
+          <a href="https://wa.me/919137765578" target="_blank" class="btn btn-outline-light btn-sm rounded-circle">
+            <i class="bi bi-whatsapp"></i>
           </a>
-          <a href="https://www.instagram.com/metamindsstudio/" target="_blank" class="btn btn-outline-light rounded-circle p-2" aria-label="Instagram">
-            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaf2_image.svg" 
-                 alt="Instagram" width="24" height="24">
+          <a href="https://www.instagram.com/sranktechstudio/" target="_blank" class="btn btn-outline-light btn-sm rounded-circle">
+            <i class="bi bi-instagram"></i>
           </a>
-          <a href="https://x.com/MetamindsS" target="_blank" class="btn btn-outline-light rounded-circle p-2" aria-label="Twitter/X">
-            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaf3_image%20172%20%28traced%29.svg" 
-                 alt="Twitter/X" width="24" height="24">
+          <a href="https://x.com/SrankTech" target="_blank" class="btn btn-outline-light btn-sm rounded-circle">
+            <i class="bi bi-twitter-x"></i>
           </a>
-          <a href="https://www.linkedin.com/company/metaminds-studio/" target="_blank" class="btn btn-outline-light rounded-circle p-2" aria-label="LinkedIn">
-            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaf0_Group%2036678.svg" 
-                 alt="LinkedIn" width="24" height="24">
+          <a href="https://www.linkedin.com/company/sranktech/" target="_blank" class="btn btn-outline-light btn-sm rounded-circle">
+            <i class="bi bi-linkedin"></i>
           </a>
         </div>
       </div>
+
     </div>
-    
-    <!-- Copyright Row -->
-    <div class="row mt-5">
-      <div class="col-12">
-        <div class="border-top border-secondary pt-3 text-center text-muted">
-          <small>&copy; 2025 MetaMinds Studio. All rights reserved.</small>
-        </div>
-      </div>
+
+    <hr class="border-secondary mt-4">
+    <div class="text-center small">
+      © <script>document.write(new Date().getFullYear());</script> SrAnkTech. All Rights Reserved.
     </div>
   </div>
 </footer>
+
+
 
 <div class="body-end-code">
 <div class="code-embed w-embed w-script">
