@@ -257,7 +257,7 @@ html {
 }
 
 body {
-  color: #825e5e;
+  color: #ffffff;
   background-color: #fff;
   min-height: 100%;
   margin: 0;
@@ -3173,7 +3173,8 @@ p {
   font-family: Manrope, sans-serif;
   font-size: 2rem;
   font-weight: 600;
-  line-height: 1.2
+  line-height: 1.2;
+  color: white;
 }
 
 .fs-styleguide_heading-medium {

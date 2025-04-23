@@ -78,7 +78,7 @@
 
 </head>
 
-<body>
+<body style="background-color:#a0cc82;";>
     <div class="page-wrapper">
         <div class="global-styles">
             <div class="code-embed w-embed w-script">
@@ -836,7 +836,7 @@
                                         </div>
                                     </div>
                                     <h2 words-slide-from-right text-split class="about-tile is-res">
-                                        About CompTech Agency And It's Innovative IT Solutions
+                                        About Sranktech And It's Innovative IT Solutions
                                         <br>
                                     </h2>
                                 </div>
@@ -1020,7 +1020,7 @@
                                 </div>
                                 <h2 words-slide-from-right text-split class="heading-style-h2">
                                     Services Built Specifically For
-                                    <strong>YOUR BUSINESS</strong> from the crowd!
+                                    <strong style="color: white;">YOUR BUSINESS</strong> from the crowd!
                                 </h2>
                             </div>
                             <div glow-border="wrapper" class="glowing_component">
@@ -1549,7 +1549,7 @@
                                                         -webkit-background-clip: text;
                                                         -webkit-text-stroke: 2px transparent;
                                                     }
-                                                </style>
+                                                </stylSranktech>
                                             </div>
                                             <div class="timeline-up">
                                                 <div data-w-id="f3fc9015-f9fa-7a58-edf2-c2d4e69e30bc" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero-tag-wrap">
@@ -2292,331 +2292,6 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section id="sec-why-us" class="section_why-us">
-                <div class="padding-global padding-section-medium">
-                    <div class="container-large">
-                        <div class="why-us_content-wrap">
-                            <div class="h-features-up">
-                                <div data-w-id="31773269-6be9-c907-6b80-5a61e0d0cf6f" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero-tag-wrap">
-                                    <div class="hero_tag-bar">
-                                        <div class="tag_inner is-2">
-                                            <div class="tag-text is-num">6</div>
-                                        </div>
-                                        <div class="tag-text">Why Us</div>
-                                    </div>
-                                </div>
-                                <h2 text-split words-slide-from-right class="heading-style-h2">
-                                    There are
-                                    thousands of agencies, why choose us?
-                                </h2>
-                            </div>
-                            <div data-w-id="5603d03f-1407-1a95-d65b-45c36a492ff9" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="div-block-21">
-                                <img
-                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6c_Subtract.png"
-                                    loading="lazy"
-                                    sizes="(max-width: 570px) 100vw, 570px"
-                                    srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6c_Subtract-p-500.png 500w, 67f115e64d4efc2ac4e1aa6c_Subtract.png 570w"
-                                    alt
-                                    class="image">
-                                <div class="div-block-22">
-                                    <div class="div-block-23 is-hide">
-                                        <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6d_noun-hourglass-2043700%201.png" loading="lazy" alt>
-                                    </div>
-                                </div>
-                                <div style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(270deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(270deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(270deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(270deg) skew(0, 0)" class="div-block-25">
-                                    <div href="#" class="circle_icon-wrap _1">
-                                        <div class="circle_icon _1">
-                                            <div
-                                                data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c58c9514795e1d6d536fa4_Delivering%20high-quality%20results-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae2_Delivering%20high-quality%20results-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae2_Delivering%20high-quality%20results-transcode.webm"
-                                                data-autoplay="true"
-                                                data-loop="true"
-                                                data-wf-ignore="true"
-                                                class="background-video-4 _3 w-background-video w-background-video-atom">
-                                                <video
-                                                    id="955b9e24-12d7-d550-f6de-e6365f6c8c2c-video"
-                                                    autoplay
-                                                    loop
-                                                    style="background-image:url("67bc0c538464ad73685515b467c58c9514795e1d6d536fa4_Delivering high-quality results-poster-00001.jpg")"
-                                                    muted
-                                                    playsinline
-                                                    data-wf-ignore="true"
-                                                    data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae2_Delivering%20high-quality%20results-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae2_Delivering%20high-quality%20results-transcode.webm" data-wf-ignore="true">
-                                                </video>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div href="#" class="circle_icon-wrap _2">
-                                        <div class="circle_icon _2">
-                                            <div
-                                                data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c58c7e05cac877ab1cd6e3_Focusing%20on%20scalability-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae1_Focusing%20on%20scalability-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae1_Focusing%20on%20scalability-transcode.webm"
-                                                data-autoplay="true"
-                                                data-loop="true"
-                                                data-wf-ignore="true"
-                                                class="background-video-4 w-background-video w-background-video-atom">
-                                                <video
-                                                    id="8233ca4d-f089-a777-9eee-77c7f16ab45d-video"
-                                                    autoplay
-                                                    loop
-                                                    style="background-image: url('67bc0c538464ad73685515b467c58c7e05cac877ab1cd6e3_Focusing%20on%20scalability-poster-00001.jpg');"
-                                                    muted
-                                                    playsinline
-                                                    data-wf-ignore="true"
-                                                    data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae1_Focusing%20on%20scalability-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae1_Focusing%20on%20scalability-transcode.webm" data-wf-ignore="true">
-                                                </video>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div href="#" class="circle_icon-wrap _6">
-                                        <div class="circle_icon _6">
-                                            <div
-                                                data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c58c61a00a30553412f655_Providing%20clear%20communication-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae0_Providing%20clear%20communication-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae0_Providing%20clear%20communication-transcode.webm"
-                                                data-autoplay="true"
-                                                data-loop="true"
-                                                data-wf-ignore="true"
-                                                class="background-video-4 w-background-video w-background-video-atom">
-                                                <video
-                                                    id="8f81492b-4ce0-7726-1de1-4bd0f06749c0-video"
-                                                    autoplay
-                                                    loop
-                                                    style="background-image:url("67bc0c538464ad73685515b467c58c61a00a30553412f655_Providing clear communication-poster-00001.jpg")"
-                                                    muted
-                                                    playsinline
-                                                    data-wf-ignore="true"
-                                                    data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae0_Providing%20clear%20communication-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae0_Providing%20clear%20communication-transcode.webm" data-wf-ignore="true">
-                                                </video>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div href="#" class="circle_icon-wrap _4">
-                                        <div class="circle_icon _4">
-                                            <div
-                                                data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c58c48149a85500b31d070_Partnering%20in%20your%20success-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadf_Partnering%20in%20your%20success-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadf_Partnering%20in%20your%20success-transcode.webm"
-                                                data-autoplay="true"
-                                                data-loop="true"
-                                                data-wf-ignore="true"
-                                                class="background-video-4 w-background-video w-background-video-atom">
-                                                <video
-                                                    id="559f3d99-f016-9c34-22bb-10788196c797-video"
-                                                    autoplay
-                                                    loop
-                                                    style="background-image: url('67bc0c538464ad73685515b467c58c48149a85500b31d070_Partnering%20in%20your%20success-poster-00001.jpg');"
-                                                    muted
-                                                    playsinline
-                                                    data-wf-ignore="true"
-                                                    data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadf_Partnering%20in%20your%20success-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadf_Partnering%20in%20your%20success-transcode.webm" data-wf-ignore="true">
-                                                </video>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div href="#" class="circle_icon-wrap _3">
-                                        <div class="circle_icon _3">
-                                            <div
-                                                data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c58c329a10b33bdd3c09de_Using%20the%20latest%20technology-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aade_Using%20the%20latest%20technology-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aade_Using%20the%20latest%20technology-transcode.webm"
-                                                data-autoplay="true"
-                                                data-loop="true"
-                                                data-wf-ignore="true"
-                                                class="background-video-4 w-background-video w-background-video-atom">
-                                                <video
-                                                    id="8be21164-d741-4199-7b5f-f44e7b48f6f9-video"
-                                                    autoplay
-                                                    loop
-                                                    style="background-image:url("67bc0c538464ad73685515b467c58c329a10b33bdd3c09de_Using the latest technology-poster-00001.jpg")"
-                                                    muted
-                                                    playsinline
-                                                    data-wf-ignore="true"
-                                                    data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aade_Using%20the%20latest%20technology-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aade_Using%20the%20latest%20technology-transcode.webm" data-wf-ignore="true">
-                                                </video>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div href="#" class="circle_icon-wrap _5">
-                                        <div class="circle_icon _5">
-                                            <div
-                                                data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c58be074c79690996369e2_Valuing%20your%20time-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadd_Valuing%20your%20time-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadd_Valuing%20your%20time-transcode.webm"
-                                                data-autoplay="true"
-                                                data-loop="true"
-                                                data-wf-ignore="true"
-                                                class="background-video-4 w-background-video w-background-video-atom">
-                                                <video
-                                                    id="6e4e06a8-ebe8-fb15-7f46-9ede16c82980-video"
-                                                    autoplay
-                                                    loop
-                                                    style="background-image: url('67bc0c538464ad73685515b467c58be074c79690996369e2_Valuing%20your%20time-poster-00001.jpg');"
-                                                    muted
-                                                    playsinline
-                                                    data-wf-ignore="true"
-                                                    data-object-fit="cover">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadd_Valuing%20your%20time-transcode.mp4" data-wf-ignore="true">
-                                                    <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aadd_Valuing%20your%20time-transcode.webm" data-wf-ignore="true">
-                                                </video>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tabs-container-2">
-                                <div
-                                    data-current="Tab 1"
-                                    data-easing="ease"
-                                    data-duration-in="500"
-                                    data-duration-out="100"
-                                    class="tabs1 w-tabs">
-                                    <div data-w-id="36f08e29-4ac6-a559-663a-5ba1d319406b" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="tabs-content w-tab-content">
-                                        <div data-w-tab="Tab 1" class="w-tab-pane w--tab-active">
-                                            <p style="-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="tab_text is-t1">
-                                                We value your time and design
-                                                intuitive, efficient experiences that help you achieve
-                                                more effortlessly. Our goal is to reduce frustration
-                                                and boost productivity, making every interaction
-                                                seamless and meaningful.
-                                            </p>
-                                        </div>
-                                        <div data-w-tab="Tab 2" class="w-tab-pane">
-                                            <p class="tab_text is-t2">
-                                                We are committed to your
-                                                success, offering the support and expertise you need
-                                                to achieve your goals. Through collaboration, we’ll
-                                                help you overcome challenges and unlock new
-                                                opportunities for growth, ensuring lasting success
-                                                together.
-                                            </p>
-                                        </div>
-                                        <div data-w-tab="Tab 3" class="w-tab-pane">
-                                            <p class="tab_text is-t3">
-                                                We focus on
-                                                delivering top-quality results by ensuring attention
-                                                to detail and excellence in every project. Our
-                                                commitment is to meet and exceed your expectations,
-                                                providing outcomes that drive success.
-                                            </p>
-                                        </div>
-                                        <div data-w-tab="Tab 4" class="w-tab-pane">
-                                            <p class="tab_text is-t4">
-                                                Clear communication is at the
-                                                core of our approach, keeping you informed and aligned
-                                                throughout every step. We ensure transparency and
-                                                responsiveness to foster trust and successful
-                                                outcomes.
-                                            </p>
-                                        </div>
-                                        <div data-w-tab="Tab 5" class="w-tab-pane">
-                                            <p class="tab_text is-t5">
-                                                We use the
-                                                latest technology to drive efficiency and innovation,
-                                                ensuring top-quality solutions. By staying ahead of
-                                                trends, we deliver the best results to keep you
-                                                competitive and successful.
-                                            </p>
-                                        </div>
-                                        <div data-w-tab="Tab 6" class="w-tab-pane">
-                                            <p class="tab_text is-t6">
-                                                We focus on scalability to
-                                                ensure your solutions grow with your needs. Our
-                                                approach is designed for flexibility, allowing your
-                                                business to expand efficiently and sustainably over
-                                                time.
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div data-w-id="36f08e29-4ac6-a559-663a-5ba1d3194061" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="tabs-menu-2 w-tab-menu">
-                                        <a data-w-tab="Tab 1" data-w-id="36f08e29-4ac6-a559-663a-5ba1d3194062" class="tab-button-2 w-inline-block w-tab-link w--current">
-                                            <div class="hero_tag-bar is-tab">
-                                                <div class="tag_inner is-2">
-                                                    <div class="tag-text is-num">1</div>
-                                                </div>
-                                                <div class="tag-text">Valuing
-                                                    <span class="span-bold">
-                                                        your
-                                                        time
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </a>
-                                        <a data-w-tab="Tab 2" data-w-id="36f08e29-4ac6-a559-663a-5ba1d3194065" class="tab-button-2 w-inline-block w-tab-link">
-                                            <div class="hero_tag-bar is-tab">
-                                                <div class="tag_inner is-2">
-                                                    <div class="tag-text is-num">2</div>
-                                                </div>
-                                                <div class="tag-text">Partnering in
-                                                    <span class="span-bold">
-                                                        your
-                                                        success
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </a>
-                                        <a data-w-tab="Tab 3" data-w-id="36f08e29-4ac6-a559-663a-5ba1d3194068" class="tab-button-2 w-inline-block w-tab-link">
-                                            <div class="hero_tag-bar is-tab">
-                                                <div class="tag_inner is-2">
-                                                    <div class="tag-text is-num">3</div>
-                                                </div>
-                                                <div class="tag-text">Delivering
-                                                    <span class="span-bold">
-                                                        high-quality
-                                                        results
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </a>
-                                        <a data-w-tab="Tab 4" data-w-id="9c016c79-f47d-07b9-3df2-52fc30a3f381" class="tab-button-2 w-inline-block w-tab-link">
-                                            <div class="hero_tag-bar is-tab">
-                                                <div class="tag_inner is-2">
-                                                    <div class="tag-text is-num">4</div>
-                                                </div>
-                                                <div class="tag-text">Providing
-                                                    <span class="span-bold">
-                                                        clear
-                                                        communication
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </a>
-                                        <a data-w-tab="Tab 5" data-w-id="1a450b2b-6551-7520-cf33-0a83b3b61d71" class="tab-button-2 w-inline-block w-tab-link">
-                                            <div class="hero_tag-bar is-tab">
-                                                <div class="tag_inner is-2">
-                                                    <div class="tag-text is-num">5</div>
-                                                </div>
-                                                <div class="tag-text">Using the
-                                                    <span class="span-bold">
-                                                        latest
-                                                        technology
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </a>
-                                        <a data-w-tab="Tab 6" data-w-id="73009bb2-1168-4fd1-bd47-c69c5f406f5d" class="tab-button-2 w-inline-block w-tab-link">
-                                            <div class="hero_tag-bar is-tab">
-                                                <div class="tag_inner is-2">
-                                                    <div class="tag-text is-num">6</div>
-                                                </div>
-                                                <div class="tag-text">Focusing on
-                                                    <span class="span-bold">scalability</span>
-                                                </div>
-                                            </div>
-                                        </a>
                                     </div>
                                 </div>
                             </div>
