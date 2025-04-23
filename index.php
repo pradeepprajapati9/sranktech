@@ -2698,149 +2698,93 @@
                                     <div class="slider_slider-wrapper">
                                         <div class="swiper-container slider-two">
                                             <div class="swiper-wrapper">
+
+
                                                 <div vimeo-1="play" class="swiper-slide">
                                                     <div vimeo-1="unmute" data-w-id="4352b4e5-132e-2490-d468-8eb0dbc63239" class="slider-block is-abt-1">
                                                         <div class="testi_card-wrap">
-                                                            <div class="div-block-26">
-                                                                <img
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f139ddac971640cd131565_testi-1.avif"
-                                                                    loading="lazy"
-                                                                    alt="Client Image: Frederique Lemoine"
-                                                                    class="image-main">
-                                                                <div class="test_img-overlay">
-                                                                    <div class="div-block-362">
-                                                                        <div class="div-block-363">
-                                                                            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaeb_Polygon%201.svg" loading="lazy" alt>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
                                                             <div class="div-block-28">
                                                                 <div class="div-block-27">
                                                                     <img
-                                                                        src="67f115e64d4efc2ac4e1a9e3/67f507047a3a80f320bf1265_oak.avif"
+                                                                        src="img/female.png"
                                                                         loading="lazy"
                                                                         alt="Client Logo : Oak Studio"
                                                                         class="image-36">
                                                                 </div>
                                                                 <div class="testi_name">
-                                                                    Frédérique
-                                                                    Lemoine
+                                                                Dr. Suman Sharma
                                                                 </div>
                                                                 <div class="testi-text">
-                                                                    Founder
-                                                                    of OAK
-                                                                    Studio
+                                                                Chennai Dentist
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div vimeo-2="play" class="swiper-slide">
-                                                    <div vimeo-2="unmute" data-w-id="dbef3b9e-dc03-45e8-7a05-dea9403cc4b7" class="slider-block is-abt-1">
+                                                <div vimeo-1="play" class="swiper-slide">
+                                                    <div vimeo-1="unmute" data-w-id="4352b4e5-132e-2490-d468-8eb0dbc63239" class="slider-block is-abt-1">
                                                         <div class="testi_card-wrap">
-                                                            <div class="div-block-26">
-                                                                <img
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f139dd6b0f2746dc18c85f_test-2.avif"
-                                                                    loading="lazy"
-                                                                    alt="Client Image: Michael Hobbs"
-                                                                    class="image-main">
-                                                                <div class="test_img-overlay">
-                                                                    <div class="div-block-362">
-                                                                        <div class="div-block-363">
-                                                                            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaeb_Polygon%201.svg" loading="lazy" alt>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
                                                             <div class="div-block-28">
                                                                 <div class="div-block-27">
                                                                     <img
-                                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6e_Frame%20427320030.png"
+                                                                        src="img/male.png"
                                                                         loading="lazy"
-                                                                        alt="Client Logo : IsAI "
-                                                                        class="image-36">
-                                                                </div>
-                                                                <div class="testi_name">Michael Hobbs</div>
-                                                                <div class="testi-text">
-                                                                    Founder of
-                                                                    isAI
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div vimeo-3="play" class="swiper-slide">
-                                                    <div vimeo-3="unmute" data-w-id="8ee68162-7231-2216-b812-661d8d35317b" class="slider-block is-abt-1">
-                                                        <div class="testi_card-wrap">
-                                                            <div class="div-block-26">
-                                                                <img
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f137f4b5ffebcd5a7e62cf_testi-3.avif"
-                                                                    loading="lazy"
-                                                                    alt="Client image: Daphne"
-                                                                    class="image-main">
-                                                                <div class="test_img-overlay">
-                                                                    <div class="div-block-362">
-                                                                        <div class="div-block-363">
-                                                                            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaeb_Polygon%201.svg" loading="lazy" alt>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="div-block-28">
-                                                                <div class="div-block-27">
-                                                                    <img
-                                                                        src="67f115e64d4efc2ac4e1a9e3/67f506cff6d7fe4bb935d4f3_ademan.avif"
-                                                                        loading="lazy"
-                                                                        alt="Client Logo : Ademan Logo"
-                                                                        class="image-36">
-                                                                </div>
-                                                                <div class="testi_name">Daphne</div>
-                                                                <div class="testi-text">
-                                                                    Co-founder of Ademan
-                                                                    Studio
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div vimeo-4="play" class="swiper-slide">
-                                                    <div vimeo-4="unmute" data-w-id="79785ba6-680b-f8b8-ff88-a8dd1db420d7" class="slider-block is-abt-1">
-                                                        <div class="testi_card-wrap">
-                                                            <div class="div-block-26">
-                                                                <img
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f137cb3fcfae53e528e995_testi-mahola-4.avif"
-                                                                    loading="lazy"
-                                                                    alt="Client inage : Slyvain Maronneau"
-                                                                    class="image-main">
-                                                                <div class="test_img-overlay">
-                                                                    <div class="div-block-362">
-                                                                        <div class="div-block-363">
-                                                                            <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaeb_Polygon%201.svg" loading="lazy" alt>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="div-block-28">
-                                                                <div class="div-block-27">
-                                                                    <img
-                                                                        src="67f115e64d4efc2ac4e1a9e3/67f506cff7a1c62dbe3e6e63_mahola.avif"
-                                                                        loading="lazy"
-                                                                        alt="Client Logo : Mahola"
+                                                                        alt="Client Logo : Oak Studio"
                                                                         class="image-36">
                                                                 </div>
                                                                 <div class="testi_name">
-                                                                    Sylvain
-                                                                    Maronneau
+                                                                Mahesh
                                                                 </div>
                                                                 <div class="testi-text">
-                                                                    Founder of
-                                                                    Mahola
+                                                                Mumbai Entrepreneur
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
+                                                <div vimeo-1="play" class="swiper-slide">
+                                                    <div vimeo-1="unmute" data-w-id="4352b4e5-132e-2490-d468-8eb0dbc63239" class="slider-block is-abt-1">
+                                                        <div class="testi_card-wrap">
+                                                            <div class="div-block-28">
+                                                                <div class="div-block-27">
+                                                                    <img
+                                                                        src="img/female.png"
+                                                                        loading="lazy"
+                                                                        alt="Client Logo : Oak Studio"
+                                                                        class="image-36">
+                                                                </div>
+                                                                <div class="testi_name">
+                                                                Priya
+                                                                </div>
+                                                                <div class="testi-text">
+                                                                Yoga Instructor
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div vimeo-1="play" class="swiper-slide">
+                                                    <div vimeo-1="unmute" data-w-id="4352b4e5-132e-2490-d468-8eb0dbc63239" class="slider-block is-abt-1">
+                                                        <div class="testi_card-wrap">
+                                                            <div class="div-block-28">
+                                                                <div class="div-block-27">
+                                                                    <img
+                                                                        src="img/male.png"
+                                                                        loading="lazy"
+                                                                        alt="Client Logo : Oak Studio"
+                                                                        class="image-36">
+                                                                </div>
+                                                                <div class="testi_name">
+                                                                Ramesh Verma
+                                                                </div>
+                                                                <div class="testi-text">
+                                                                Rama Jewellers
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
