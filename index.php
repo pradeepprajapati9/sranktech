@@ -1,15 +1,9 @@
 ﻿<!DOCTYPE html>
 <!-- Last Published: Mon Apr 21 2025 06:17:43 GMT+0000 (Coordinated Universal Time) -->
-<html
-    data-wf-page="67f115e64d4efc2ac4e1a9e7"
-  
-    data-wf-site="asset"
-    lang="en"
-    data-wf-locale="en">
+<html data-wf-page="67f115e64d4efc2ac4e1a9e7" data-wf-site="asset" lang="en" data-wf-locale="en">
 
 <head>
     <meta charset="utf-8">
-
     <title>SrankTech</title>
     <meta content="." name="description">
     <meta content="" property="og:title">
@@ -20,7 +14,7 @@
     <meta content="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f4f46fa4e8804f8df7efe9_256X256.png" property="twitter:image">
     <meta property="" content="website">
     <meta content="" name="twitter:card">
-    <meta content="" name="viewport">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
     <link href="67f115e64d4efc2ac4e1a9e3/css/metaminds-app.webflow.7d3429c1c.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com" rel="preconnect">
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
@@ -42,6 +36,10 @@
     <link href="67f115e64d4efc2ac4e1a9e3/6802569955b27830a5df1268_mm-32x32.png" rel="shortcut icon" type="image/x-icon">
     <link href="67f115e64d4efc2ac4e1a9e3/6802569dd3e80ba1ff09b323_mm-256x256.png" rel="apple-touch-icon">
     <link href="https://metaminds.studio/" rel="canonical">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
     <!-- Google tag (gtag.js) -->
     <script async src="gtag/js?id=AW-17009233278"></script>
     <script>
@@ -76,10 +74,8 @@
             return false;
         }
     </script>
-    <style></style>
-    <style>
-        overflow: clip
-    </style>
+
+
 </head>
 
 <body>
@@ -150,7 +146,7 @@
             </div>
         </div>
         <div class="main-wrapper">
-            <?php include("layout/nav.php"); ?>
+            <?php include "layout/nav.php"; ?>
 
 
             <div style="display:none" class="form-main-wrap">
@@ -166,7 +162,7 @@
                             id="96bad4b5-d797-55ef-a8d1-49357b058743-video"
                             autoplay
                             loop
-                            style="background-image:url(&quot;asset67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-poster-00001.jpg&quot;)"
+                            style="background-image:url("asset67ffa0f63251ae6bb527e67a_10296173-hd_1920_1080_25fps-poster-00001.jpg")"
                             muted
                             playsinline
                             data-wf-ignore="true"
@@ -394,179 +390,137 @@
                     </div>
                 </div>
             </div>
-            <section id="sechero" class="section_hero">
-                <div class="hero_bg">
-                    <div class="hero-bg_overlay"></div>
-                    <div class="hero_bg-video-wrap">
-                        <div class="div-block-14"></div>
-                        <div
-                            data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67bc45b46186cb87ad2bb889_cropped%20screen1130x940-poster-00001.jpg"
-                            data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.webm"
-                            data-autoplay="true"
-                            data-loop="true"
-                            data-wf-ignore="true"
-                            class="hero_bg-video w-background-video w-background-video-atom">
-                            <video
-                                id="122f0449-01a6-fbca-59bc-e65f526f2abb-video"
-                                autoplay
-                                loop
-                                style="background-image:url(&quot;67bc0c538464ad73685515b467bc45b46186cb87ad2bb889_cropped screen1130x940-poster-00001.jpg&quot;)"
-                                muted
-                                playsinline
-                                data-wf-ignore="true"
-                                data-object-fit="cover">
-                                <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.mp4" data-wf-ignore="true">
-                                <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.webm" data-wf-ignore="true">
-                            </video>
-                        </div>
-                    </div>
-                    <div class="div-block-336"></div>
-                </div>
-                <div id="hero" class="interactive-section is-hero nav-scroll-into-view">
-                    <div class="padding-global padding-section-large is-hero">
-                        <div class="container-large is-h-hero">
-                            <div class="hero_content-wrap">
-                                <div class="hero_c-up">
-                                    <div class="div-block-423">
-                                        <div class="hero-tag-wrap">
-                                            <div data-w-id="06357e38-59eb-b9eb-a1d5-5c07659d90d6" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero_tag-bar">
-                                                <div class="tag_inner">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab27_clutch-logo-png_seeklogo-352148_1-removebg-preview%201.png"
-                                                        loading="lazy"
-                                                        alt="Clutch Logo"
-                                                        class="image-71">
-                                                </div>
-                                                <div class="tag-text">
-                                                    Best Digital Marketing & Web Designing
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="hero_title-wrap">
-                                            <h1 words-slide-from-right text-split class="heading-style-h1 vh">
-                                                SrankTech
-                                            </h1>
-                                            <div class="p-wrap is-hero">
-                                                <p
-                                                    id="section-to-clients"
-                                                    data-w-id="0f4a4f98-d3e5-161d-adec-1ad7b8d05d8f"
-                                                    style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
-                                                    class="text-size-medium vh">
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, unde modi nemo ratione repudiandae, earum tempora, nostrum non ipsum laudantium beatae quae molestiae assumenda!
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div data-w-id="81e252b9-a5e8-164a-069b-202db2d106a5" class="car-select_content-wrap">
-                                    <div data-w-id="81e252b9-a5e8-164a-069b-202db2d106a6" style="opacity:0" class="content-wrap-2 is-h-clients">
-                                        <div class="logos-row-wrap">
-                                            <div style="-webkit-transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0%, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="logos_row">
-                                                <div class="c-logo_img _1">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="img/srankBazaar.png"
-                                                        alt="Client logo: Samsung"
-                                                        class="image-main-2">
-                                                </div>
-                                                <div class="c-logo_img _2">
-                                                    <img
-                                                        loading="lazy"
-                                                        src="img/srankyatra.png"
-                                                        alt="Client logo: Holiday Inn"
-                                                        class="image-main-2">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="logos_blur-wrap is-hide">
-                                            <div class="div-block-334">
-                                                <div class="_20px-bold">
-                                                    Enterprises that trust
-                                                    us
-                                                </div>
-                                                <div class="arrow-ion">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad0_Group%20427319169.svg"
-                                                        loading="lazy"
-                                                        alt
-                                                        class="image-main is-app-icon">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="hero__bg">
-                        <img
-                            src="67bc0c538464ad73685515b4/67ec32e8f540684468b50e2a_grid34.avif"
-                            loading="eager"
-                            id="masked-element"
-                            class="interactive-bg">
-                        <img
-                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif"
-                            loading="eager"
-                            sizes="(max-width: 2880px) 100vw, 2880px"
-                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
-                            alt
-                            id="masked-element"
-                            class="interactive-bg is-hide">
-                    </div>
-                    <div class="code-embed-3 w-embed w-script">
-                        <style>
-                            .interactive-bg {
-                                position: absolute;
-                                top: 0;
-                                left: 0;
-                                width: 100%;
-                                height: 100%;
-                                z-index: 1;
-                                opacity: 0;
-                                -webkit-mask-image: radial-gradient(circle at var(--x, 50%) var(--y, 50%), #fff 0px, transparent 200px);
-                                mask-image: radial-gradient(circle at var(--x, 50%) var(--y, 50%), #fff 0px, transparent 200px);
-                                transition: -webkit-mask-image 0.5s var(--easing-cubic-bezier),
-                                    mask-image 0.5s var(--easing-cubic-bezier),
-                                    opacity 0.5s var(--easing-cubic-bezier);
-                                pointer-events: none;
-                            }
-                        </style>
-                        <script>
-                            document.addEventListener('DOMContentLoaded', function() {
-                                document.querySelectorAll('.interactive-section').forEach(section => {
-                                    const bgElement = section.querySelector('.interactive-bg');
+            <section class="hero-section bg-black text-white position-relative overflow-hidden">
+  <!-- Video Background with Overlay -->
+  <div class="position-absolute w-100 h-100 top-0 start-0">
+    <!-- Increased opacity for better visibility of text -->
+    <div class="bg-dark opacity-85 position-absolute w-100 h-100 top-0 start-0"></div>
+    <div class="position-relative w-100 h-100">
+      <video class="w-100 h-100 object-fit-cover" autoplay loop muted playsinline>
+        <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.mp4" type="video/mp4">
+        <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa57_cropped%20screen1130x940-transcode.webm" type="video/webm">
+      </video>
+    </div>
+  </div>
 
-                                    if (!bgElement) {
-                                        console.error("Background element not found in:", section);
-                                        return;
-                                    }
+  <!-- Interactive Hover Effect Layer -->
+  <div class="position-absolute w-100 h-100 top-0 start-0 z-1" id="interactive-layer">
+    <img src="67bc0c538464ad73685515b4/67ec32e8f540684468b50e2a_grid34.avif"
+         class="interactive-bg w-100 h-100 object-fit-cover" id="hover-effect-img" alt="">
+  </div>
 
-                                    section.addEventListener('mousemove', function(e) {
-                                        const rect = section.getBoundingClientRect();
-                                        const relX = ((e.clientX - rect.left) / rect.width) * 100;
-                                        const relY = ((e.clientY - rect.top) / rect.height) * 100;
+  <!-- Content -->
+  <div class="container position-relative z-2 py-5">
+    <div class="row min-vh-100 align-items-center">
+      <div class="col-12">
+        <!-- Award Badge -->
+        <div class="d-inline-flex bg-dark bg-opacity-75 p-2 rounded-pill mb-4 align-items-center border border-secondary">
+          <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab27_clutch-logo-png_seeklogo-352148_1-removebg-preview%201.png"
+               alt="Clutch Logo" width="24" height="24" class="me-2">
+          <span class="text-white small">Best Digital Marketing & Web Designing</span>
+        </div>
 
-                                        bgElement.style.setProperty('--x', `${relX}%`);
-                                        bgElement.style.setProperty('--y', `${relY}%`);
-                                        bgElement.style.opacity = 1;
-                                    });
+        <!-- Heading & Description -->
+        <div class="mb-5">
+          <h1 class="display-3 fw-bold mb-4 animate-slide-up text-shadow">SrankTech</h1>
+          <p class="lead mb-5 animate-slide-up w-75 text-shadow">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, unde modi nemo ratione repudiandae,
+            earum tempora, nostrum non ipsum laudantium beatae quae molestiae assumenda!
+          </p>
+        </div>
 
-                                    section.addEventListener('mouseleave', function() {
-                                        bgElement.style.opacity = 0;
-                                    });
+        <!-- Client Logos -->
+        <div class="row gx-4 gy-4 mt-4 animate-fade-in">
+          <div class="col-6 col-md-3 d-flex align-items-center">
+            <img src="img/srankBazaar.png" alt="SrankBazaar" class="img-fluid opacity-75 hover-bright">
+          </div>
+          <div class="col-6 col-md-3 d-flex align-items-center">
+            <img src="img/srankyatra.png" alt="SrankYatra" class="img-fluid opacity-75 hover-bright">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
-                                    // Ensure child elements don’t block the event
-                                    section.querySelectorAll('*').forEach(el => {
-                                        el.addEventListener('mousemove', function(e) {
-                                            section.dispatchEvent(new MouseEvent('mousemove', e));
-                                        });
-                                    });
-                                });
-                            });
-                        </script>
-                    </div>
-                </div>
-            </section>
+  <!-- Custom CSS for the interactive effect -->
+  <style>
+    .hero-section {
+      background-color: #000;
+      min-height: 100vh;
+    }
+
+    .interactive-bg {
+      opacity: 0;
+      -webkit-mask-image: radial-gradient(circle at var(--x, 50%) var(--y, 50%), #fff 0px, transparent 200px);
+      mask-image: radial-gradient(circle at var(--x, 50%) var(--y, 50%), #fff 0px, transparent 200px);
+      transition: opacity 0.5s ease;
+      pointer-events: none;
+    }
+
+    .animate-slide-up {
+      animation: slideUp 0.8s ease-out forwards;
+      opacity: 0;
+    }
+
+    .animate-fade-in {
+      animation: fadeIn 1.2s ease-out forwards;
+      opacity: 0;
+    }
+
+    .hover-bright:hover {
+      opacity: 1;
+      transition: opacity 0.3s ease;
+    }
+
+    /* Text shadow for better readability */
+    .text-shadow {
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
+    }
+
+    /* Increased overlay opacity */
+    .opacity-85 {
+      opacity: 0.85 !important;
+    }
+
+    @keyframes slideUp {
+      from {
+        transform: translateY(25px);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+  </style>
+
+  <!-- JavaScript for the interactive hover effect -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const section = document.querySelector('.hero-section');
+      const bgElement = document.getElementById('hover-effect-img');
+
+      section.addEventListener('mousemove', function(e) {
+        const rect = section.getBoundingClientRect();
+        const relX = ((e.clientX - rect.left) / rect.width) * 100;
+        const relY = ((e.clientY - rect.top) / rect.height) * 100;
+
+        bgElement.style.setProperty('--x', `${relX}%`);
+        bgElement.style.setProperty('--y', `${relY}%`);
+        bgElement.style.opacity = 1;
+      });
+
+      section.addEventListener('mouseleave', function() {
+        bgElement.style.opacity = 0.1;
+      });
+    });
+  </script>
+</section>
             <div id="sec-about" data-w-id="849dc106-0729-c97a-ed9e-816420402b8e" class="about_sction-wrap">
                 <section class="section_about">
                     <div class="padding-global padding-section-medium is-h-about">
@@ -977,7 +931,7 @@
                                                 id="aa6607e2-b294-c22d-ef37-95b9a23e974d-video"
                                                 autoplay
                                                 loop
-                                                style="background-image:url(&quot;67bc0c538464ad73685515b467bd69553f7495f51103107d_phone app reel-poster-00001.jpg&quot;)"
+                                                style="background-image:url("67bc0c538464ad73685515b467bd69553f7495f51103107d_phone app reel-poster-00001.jpg")"
                                                 muted
                                                 playsinline
                                                 data-wf-ignore="true"
@@ -1287,7 +1241,7 @@
                     </div>
                 </div>
             </section>
-            <div id="sec-what-we-do" data-w-id="73eb1d0a-c076-0b2c-6bb6-42ac2f46ac6b" class="work-section_wrap">
+            <div id="sec-what-we-do" data-w-id="73eb1d0a-c076-0b2c-6bb6-42ac2f446ac6b" class="work-section_wrap">
                 <section class="section_h-work">
                     <div class="work_blur-wrap">
                         <div class="global-padding">
@@ -1297,7 +1251,7 @@
                                         <div class="text-block-45">
                                             We ensure
                                             that your app is not just functional, but a true
-                                            reflection of your brand&#x27;s identity and
+                                            reflection of your brand's identity and
                                             values.
                                         </div>
                                     </div>
@@ -1441,7 +1395,7 @@
                                                         src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6a_image%20204.png"
                                                         loading="lazy"
                                                         sizes="(max-width: 632px) 100vw, 632px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6a_image%2520204-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6a_image%20204.png 632w"
+                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6a_image%2520204-p-500.png 500w, 67f115e64d4efc2ac4e1aa6a_image%20204.png 632w"
                                                         alt="Value Per Sqft Service section"
                                                         class="image-main">
                                                 </div>
@@ -1628,7 +1582,7 @@
                                                         id="d59dff16-65c3-c66f-1c33-065c82efd069-video"
                                                         autoplay
                                                         loop
-                                                        style="background-image:url(&quot;6589245ce820a6b1591725fa/659051418823871013f5f50c_2-poster-00001.jpg&quot;)"
+                                                        style="background-image:url("6589245ce820a6b1591725fa/659051418823871013f5f50c_2-poster-00001.jpg")"
                                                         muted
                                                         playsinline
                                                         data-wf-ignore="true"
@@ -1763,7 +1717,7 @@
                                         <h2 words-slide-from-right text-split class="heading-style-h2">
                                             Crafted with purpose, driven by
                                             results — this is our work.
-                                        </h2>
+                                            </h2>
                                     </div>
                                 </div>
                                 <div class="div-block-123">
@@ -1930,7 +1884,7 @@
                                                         <div class="images-wrap-steathyfit _1">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabd_Frame%2036612%20%282%29.svg"
+                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1abd_Frame%2036612%20%282%29.svg"
                                                                 alt="Stealthy Fit Screenshot"
                                                                 class="steathy-imag">
                                                             <img
@@ -1940,7 +1894,7 @@
                                                                 class="steathy-imag">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabd_Frame%2036612%20%282%29.svg"
+                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1abd_Frame%2036612%20%282%29.svg"
                                                                 alt="Stealthy Fit Screenshot"
                                                                 class="steathy-imag">
                                                         </div>
@@ -2128,8 +2082,7 @@
                                                                                             Learn
                                                                                             More
                                                                                         </div>
-                                                                                        <div class="test-button">
-                                                                                            Learn
+                                                                                        <div class="test-button">                                                                                            Learn
                                                                                             More
                                                                                         </div>
                                                                                     </div>
@@ -2326,7 +2279,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
+                                                </div>
                                             <div class="right-ui-ux-wrap">
                                                 <div class="div-block-116 _3">
                                                     <p data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51c05" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="par-main-2">
@@ -2369,7 +2322,7 @@
                                     src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6c_Subtract.png"
                                     loading="lazy"
                                     sizes="(max-width: 570px) 100vw, 570px"
-                                    srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6c_Subtract-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6c_Subtract.png 570w"
+                                    srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6c_Subtract-p-500.png 500w, 67f115e64d4efc2ac4e1aa6c_Subtract.png 570w"
                                     alt
                                     class="image">
                                 <div class="div-block-22">
@@ -2391,7 +2344,7 @@
                                                     id="955b9e24-12d7-d550-f6de-e6365f6c8c2c-video"
                                                     autoplay
                                                     loop
-                                                    style="background-image:url(&quot;67bc0c538464ad73685515b467c58c9514795e1d6d536fa4_Delivering high-quality results-poster-00001.jpg&quot;)"
+                                                    style="background-image:url("67bc0c538464ad73685515b467c58c9514795e1d6d536fa4_Delivering high-quality results-poster-00001.jpg")"
                                                     muted
                                                     playsinline
                                                     data-wf-ignore="true"
@@ -2415,7 +2368,7 @@
                                                     id="8233ca4d-f089-a777-9eee-77c7f16ab45d-video"
                                                     autoplay
                                                     loop
-                                                    style="background-image:url(&quot;67bc0c538464ad73685515b467c58c7e05cac877ab1cd6e3_Focusing on scalability-poster-00001.jpg&quot;)"
+                                                    style="background-image: url('67bc0c538464ad73685515b467c58c7e05cac877ab1cd6e3_Focusing%20on%20scalability-poster-00001.jpg');"
                                                     muted
                                                     playsinline
                                                     data-wf-ignore="true"
@@ -2439,7 +2392,7 @@
                                                     id="8f81492b-4ce0-7726-1de1-4bd0f06749c0-video"
                                                     autoplay
                                                     loop
-                                                    style="background-image:url(&quot;67bc0c538464ad73685515b467c58c61a00a30553412f655_Providing clear communication-poster-00001.jpg&quot;)"
+                                                    style="background-image:url("67bc0c538464ad73685515b467c58c61a00a30553412f655_Providing clear communication-poster-00001.jpg")"
                                                     muted
                                                     playsinline
                                                     data-wf-ignore="true"
@@ -2463,7 +2416,7 @@
                                                     id="559f3d99-f016-9c34-22bb-10788196c797-video"
                                                     autoplay
                                                     loop
-                                                    style="background-image:url(&quot;67bc0c538464ad73685515b467c58c48149a85500b31d070_Partnering in your success-poster-00001.jpg&quot;)"
+                                                    style="background-image: url('67bc0c538464ad73685515b467c58c48149a85500b31d070_Partnering%20in%20your%20success-poster-00001.jpg');"
                                                     muted
                                                     playsinline
                                                     data-wf-ignore="true"
@@ -2487,7 +2440,7 @@
                                                     id="8be21164-d741-4199-7b5f-f44e7b48f6f9-video"
                                                     autoplay
                                                     loop
-                                                    style="background-image:url(&quot;67bc0c538464ad73685515b467c58c329a10b33bdd3c09de_Using the latest technology-poster-00001.jpg&quot;)"
+                                                    style="background-image:url("67bc0c538464ad73685515b467c58c329a10b33bdd3c09de_Using the latest technology-poster-00001.jpg")"
                                                     muted
                                                     playsinline
                                                     data-wf-ignore="true"
@@ -2511,7 +2464,7 @@
                                                     id="6e4e06a8-ebe8-fb15-7f46-9ede16c82980-video"
                                                     autoplay
                                                     loop
-                                                    style="background-image:url(&quot;67bc0c538464ad73685515b467c58be074c79690996369e2_Valuing your time-poster-00001.jpg&quot;)"
+                                                    style="background-image: url('67bc0c538464ad73685515b467c58be074c79690996369e2_Valuing%20your%20time-poster-00001.jpg');"
                                                     muted
                                                     playsinline
                                                     data-wf-ignore="true"
@@ -2784,7 +2737,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
                                     </div>
@@ -2846,7 +2799,7 @@
                                             <div style="-webkit-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-80deg) skew(0, 0);-moz-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-80deg) skew(0, 0);-ms-transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-80deg) skew(0, 0);transform:translate3d(0%, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(-80deg) skew(0, 0);opacity:0" class="btn-img two">
                                                 <img
                                                     sizes="(max-width: 616px) 100vw, 616px"
-                                                    srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa95_3-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa95_3.png 616w"
+                                                    srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa95_3-p-500.png 500w, 67f115e64d4efc2ac4e1aa95_3.png 616w"
                                                     alt
                                                     src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa95_3.png"
                                                     loading="lazy"
@@ -2870,7 +2823,7 @@
                                         <div class="div-block-70">
                                             <div
                                                 data-poster-url="https://cdn.prod.website-files.com/67bc0c538464ad73685515b4%2F67c00915d1fc8762679011f4_IMG_1036-poster-00001.jpg"
-                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa91_IMG_1036-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa91_IMG_1036-transcode.webm"
+                                                data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa91_IMG_1036-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1aa91_IMG_1036-transcode.webm"
                                                 data-autoplay="true"
                                                 data-loop="true"
                                                 data-wf-ignore="true"
@@ -2879,7 +2832,7 @@
                                                     id="068797ab-0b0e-4850-7535-1b4205e06b9e-video"
                                                     autoplay
                                                     loop
-                                                    style="background-image:url(&quot;67bc0c538464ad73685515b467c00915d1fc8762679011f4_IMG_1036-poster-00001.jpg&quot;)"
+                                                    style="background-image:url("67bc0c538464ad73685515b467c00915d1fc8762679011f4_IMG_1036-poster-00001.jpg")"
                                                     muted
                                                     playsinline
                                                     data-wf-ignore="true"
@@ -2904,7 +2857,7 @@
                             src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif"
                             loading="eager"
                             sizes="(max-width: 2880px) 100vw, 2880px"
-                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
+                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-800.png 800w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab26_Frame%2520427320090-p-1080.png 1080w, 67f115e64d4efc2ac4e1ab26_Frame%20427320090.avif 2880w"
                             alt
                             id="masked-element-5"
                             class="interactive-bg is-hide">
@@ -3094,14 +3047,14 @@
                                                         Wireframing
                                                         and Moodboard
                                                         <br>
-                                                        UI/UX Designing &amp; Building a
+                                                        UI/UX Designing & Building a
                                                         Prototype
-                                                        <br>Development &amp; Coding
+                                                        <br>Development & Coding
                                                         <br>
                                                         Testing
-                                                        &amp; Quality Assurance
+                                                        & Quality Assurance
                                                         <br>
-                                                        Deployment &amp;
+                                                        Deployment &
                                                         Support
                                                         <br>
                                                     </p>
@@ -3220,7 +3173,7 @@
                                                         We provide regular project
                                                         updates and maintain clear communication with
                                                         clients through either WhatsApp, Slack, Telegram,
-                                                        email or client&#x27;s preferred medium of
+                                                        email or client's preferred medium of
                                                         communication.
                                                         <br>
                                                     </p>
@@ -3274,4 +3227,80 @@
                 </div>
             </section>
         </div>
-        <?php include('layout/footer.php'); ?>
+        <?php include 'layout/footer.php'; ?>
+
+    </div>
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!--Webflow -->
+    <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=67f115e64d4efc2ac4e1a9e3" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <script src="67f115e64d4efc2ac4e1a9e3/js/webflow.js" type="text/javascript"></script>
+    <!-- Swiper JS -->
+    <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+    <script>
+        var sliderTwo = new Swiper(".slider-two", {
+            slidesPerView: 1,
+            spaceBetween: 30,
+            centeredSlides: false,
+            freeMode: false,
+            grabCursor: true,
+            loop: true,
+            speed: 700,
+            pagination: {
+                el: ".slider-two-pagination",
+                clickable: true
+            },
+            navigation: {
+                nextEl: ".slider-two-next",
+                prevEl: ".slider-two-prev"
+            },
+            autoplay: {
+                delay: 2500,
+                disableOnInteraction: false
+            },
+            breakpoints: {
+                768: {
+                    slidesPerView: 1,
+                    spaceBetween: 30
+                },
+                1024: {
+                    slidesPerView: 1,
+                    spaceBetween: 30
+                }
+            }
+        });
+    </script>
+    <script>
+        const items = document.querySelectorAll("[data-click='faq']");
+        items.forEach(item => {
+            item.addEventListener("click", function() {
+                this.classList.toggle("active");
+            });
+        });
+    </script>
+    <script>
+        var audio = new Audio('https://assets.mixkit.co/sfx/preview/mixkit-modern-click-box-check-1120.mp3');
+
+        function playAudio() {
+            audio.play();
+        }
+
+        const buttons = document.querySelectorAll('.button-stroke');
+
+        buttons.forEach(button => {
+            button.addEventListener('click', () => {
+                playAudio();
+            });
+        });
+    </script>
+    <style>
+        .form_bg-wrap {
+            display: none !important;
+        }
+
+    </style>
+
+</body>
+
+</html>

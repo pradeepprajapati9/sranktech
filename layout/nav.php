@@ -27,11 +27,11 @@
                         </a>
                         <nav role="navigation" class="_w-nav-menu w-nav-menu">
                             <div class="uui-navbar07_menu-left">
-                                <a href="index.htm" aria-current="page" class="navl-link w-inline-block w--current">
+                                <a href="index.php" aria-current="page" class="navl-link w-inline-block w--current">
                                     <div class="nav_link-text">Home</div>
                                     <div class="div-block-356"></div>
                                 </a>
-                                <a href="about-us.html" class="navl-link w-inline-block">
+                                <a href="about-us.php" class="navl-link w-inline-block">
                                     <div class="nav_link-text">About</div>
                                     <div class="div-block-356"></div>
                                 </a>
@@ -83,11 +83,11 @@
                                         </a>
                                     </nav>
                                 </div>
-                                <a href="careers.html" class="navl-link w-inline-block">
+                                <a href="careers.php" class="navl-link w-inline-block">
                                     <div class="nav_link-text">Careers</div>
                                     <div class="div-block-356"></div>
                                 </a>
-                                <a href="https://shor.by/ac7s" target="_blank" class="navl-link w-inline-block">
+                                <a href="careers.php" target="_blank" class="navl-link w-inline-block">
                                     <div class="nav_link-text">Porfolio</div>
                                     <div class="div-block-356"></div>
                                 </a>
