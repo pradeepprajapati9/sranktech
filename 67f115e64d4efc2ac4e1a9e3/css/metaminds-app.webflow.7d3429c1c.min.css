@@ -2173,7 +2173,7 @@ textarea.w-select {
 
 body {
   color: #ffffffe6;
-  background-color: #000000;
+  background-color: #548137;
   font-family: Matter, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.2
@@ -3616,8 +3616,7 @@ p {
 }
 
 .padding-section-medium {
-  padding-top: 5rem;
-  padding-bottom: 5rem
+  
 }
 
 .margin-right {
@@ -4848,7 +4847,7 @@ p {
 .hero-bg_overlay {
   z-index: 1;
   opacity: .3;
-  background-image: linear-gradient(60deg, #27aae1, #000 52%, #0000), linear-gradient(#00000080, #00000080);
+  background-image: linear-gradient(60deg, #00ceb8f7, #000 52%, #0000), linear-gradient(#00000080, #00000080);
   position: absolute;
   inset: 0%
 }
@@ -5158,7 +5157,7 @@ p {
 }
 
 .paragraph {
-  color: #989898;
+  color: #ffffff;
   font-family: Manrope, sans-serif;
   line-height: 1.35
 }
@@ -5273,7 +5272,7 @@ p {
 }
 
 .section_h-features {
-  background-image: linear-gradient(#27aae1, #0003 14%);
+  background-image: linear-gradient(#00ceb8f7, #0003 14%);
   justify-content: flex-start;
   align-items: flex-start;
   display: flex;
@@ -5295,7 +5294,7 @@ p {
 .glowing_card {
   grid-column-gap: 20px;
   grid-row-gap: 20px;
-  background-image: linear-gradient(#000, #27aae1);
+  background-image: linear-gradient(#000, #00ceb8f7);
   border: 1px solid #3d3d3d;
   border-radius: 30px;
   flex-flow: column;
@@ -5352,7 +5351,7 @@ p {
 
 .div-block-20 {
   z-index: 2;
-  background-image: linear-gradient(#0000, #27aae1);
+  background-image: linear-gradient(#0000, #00ceb8f7);
   height: 230px;
   position: absolute;
   inset: auto 0% 0%
@@ -5895,10 +5894,11 @@ p {
 }
 
 .faq-a-text {
-  color: #adadad;
+  color: #ffffff;
   margin-bottom: 0;
   font-size: 20px;
-  line-height: 1.5
+  line-height: 1.5;
+  font-weight:400;
 }
 
 .text-span {
@@ -5912,7 +5912,7 @@ p {
 .c-faq-item {
   text-align: left;
   background-color: #0000;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid rgb(255, 255, 255);
   width: 100%;
   position: relative;
   overflow: hidden
@@ -6133,7 +6133,7 @@ p {
 
 .footer {
   z-index: 1;
-  background-image: radial-gradient(circle at 10% 0, #27aae1, #0a0a15 75%);
+  background-image: radial-gradient(circle at 10% 0, #00ceb8f7, #0a0a15 75%);
   justify-content: center;
   align-items: center;
   display: flex;
@@ -7210,7 +7210,8 @@ p {
   width: 100%;
   height: 300px;
   display: flex;
-  position: relative
+  position: relative;
+  background-color: #c9c4c4;
 }
 
 .div-block-119 {
@@ -8098,7 +8099,7 @@ p {
   -webkit-backdrop-filter: blur(2px);
   backdrop-filter: blur(2px);
   background-color: #00000003;
-  background-image: linear-gradient(#0000, #27aae1);
+  background-image: linear-gradient(#0000, #00ceb8f7);
   justify-content: center;
   align-items: center;
   height: 180px;

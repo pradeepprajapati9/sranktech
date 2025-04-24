@@ -35,7 +35,7 @@
     </script>
     <link href="67f115e64d4efc2ac4e1a9e3/6802569955b27830a5df1268_mm-32x32.png" rel="shortcut icon" type="image/x-icon">
     <link href="67f115e64d4efc2ac4e1a9e3/6802569dd3e80ba1ff09b323_mm-256x256.png" rel="apple-touch-icon">
-    <link href="https://metaminds.studio/" rel="canonical"> 
+    <link href="" rel="canonical">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
@@ -75,8 +75,8 @@
     </script>
 </head>
 
-
-<body style="margin:0; background: linear-gradient(to bottom, #0f0f0f, #1a1a1a); color: #fff;">
+<!-- #00ceb8f7 -->
+<body style="margin:0; background: linear-gradient(to bottom, #38258c, #E8985E); color: #fff;">
     <div class="page-wrapper">
         <div class="global-styles">
             <!-- Global Styles: Scrollbar and Lenis Smooth Scrolling -->
@@ -424,8 +424,6 @@
                         <div class="col-12">
                             <!-- Award Badge -->
                             <div class="d-inline-flex bg-dark bg-opacity-75 p-2 rounded-pill mb-4 align-items-center border border-secondary">
-                                <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1ab27_clutch-logo-png_seeklogo-352148_1-removebg-preview%201.png"
-                                    alt="Clutch Logo" width="24" height="24" class="me-2">
                                 <span class="text-white small">Best Digital Marketing & Web Designing</span>
                             </div>
 
@@ -810,6 +808,7 @@
                                         About Style And It's Innovative IT Solutions
                                         <br />
                                     </h2>
+                                    <p>Sranktech is one of the pioneers in Application (Android, Web) Design & Development and Digital Marketing Services in India. We have over 13+ years of experience team in the field of Digital with a long list of satisfied customer.We specialize in creating custom websites tailored to your unique business needs and objectives. Whether you need an e-commerce platform, a corporate website, or a portfolio showcase, we have the expertise to bring your vision to life.</p>
                                 </div>
                                 <div class="div-block-332 is-mob">
                                     <div adiuo="playBtn" class="copy-me-button">
@@ -912,7 +911,7 @@
                                                 data-wf-ignore="true"
                                                 data-object-fit="cover">
                                                 <source
-                                                    src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.mp4"
+                                                     src="img/edit.mp4"
                                                     data-wf-ignore="true" />
                                                 <source
                                                     src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5a_phone%20app%20reel-transcode.webm"
@@ -1028,7 +1027,7 @@
                                             </h3>
                                             <div class="p-wrap is-feature-1">
                                                 <p data-w-id="50fa7323-6378-564e-df64-f25833c231b0" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="text-size-medium is-manrope">
-                                                    The Future is Mobile. Be There with a CompTech's Exceptional Mobile app Development services
+                                                    The Future is Mobile. Be There with a Sranktech's Exceptional Mobile app Development services
                                                 </p>
                                             </div>
                                         </div>
@@ -1060,7 +1059,7 @@
                                             <h3 data-w-id="113ff13e-45d2-48df-4c50-9291f48b87f7" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="heading-style-h3">Website Development</h3>
                                             <div class="p-wrap is-feature-1">
                                                 <p data-w-id="60c6ee83-2e83-5aa6-2f04-17a0681ead26" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="text-size-medium is-manrope">
-                                                    We don't build websites, we build online experiences that bring the feeling of Wow. Choose CompTech.
+                                                    We don't build websites, we build online experiences that bring the feeling of Wow. Choose Sranktech.
                                                 </p>
                                             </div>
                                             <div class="div-block-350">
@@ -1216,452 +1215,9 @@
                 </div>
             </section>
 
-            <!-- What We Do Section -->
-            <div id="sec-what-we-do" data-w-id="73eb1d0a-c076-0b2c-6bb6-42ac2f446ac6b" class="work-section_wrap">
-                <section class="section_h-work">
-                    <div class="work_blur-wrap">
-                        <div class="global-padding">
-                            <div class="container-large">
-                                <div class="div-block-358">
-                                    <div class="div-block-359">
-                                        <div class="text-block-45">
-                                            We ensure that your app is not just functional, but a true reflection of your brand's identity and values.
-                                        </div>
-                                    </div>
-                                    <div class="div-block-350">
-                                        <div adiuo="playBtn" class="copy-me-button is-r _2">
-                                            <div data-w-id="e7b9933a-8e53-8114-68c7-21ba16389b31" class="button-9">
-                                                <div class="button-stroke is-s">
-                                                    <div class="button-inside">
-                                                        <div class="text-and-icon">
-                                                            <div class="text-flip-wrap">
-                                                                <div class="test-button">Contact Us</div>
-                                                                <div class="test-button">
-                                                                    Contact
-                                                                    Us
-                                                                </div>
-                                                            </div>
-                                                            <div class="icon-wrapper">
-                                                                <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
-                                                            </div>
-                                                        </div>
-                                                        <div class="inside-glow-dv"></div>
-                                                    </div>
-                                                    <div style="-webkit-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="line-move"></div>
-                                                </div>
-                                                <div class="particles-wrapper">
-                                                    <div
-                                                        class="particles"
-                                                        data-w-id="e7b9933a-8e53-8114-68c7-21ba16389b3e"
-                                                        data-animation-type="lottie"
-                                                        data-src="https://cdn.prod.website-files.com/642285a18b18e9995a3974c1/64228c6a7b96bd08f5c80d62_Particles.json"
-                                                        data-loop="1"
-                                                        data-direction="1"
-                                                        data-autoplay="1"
-                                                        data-is-ix2-target="0"
-                                                        data-renderer="svg"
-                                                        data-default-duration="20"
-                                                        data-duration="4"></div>
-                                                    <div class="bg-glow is-s"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="padding-global padding-section-medium is-zero">
-                        <div class="container-large is-zero">
-                            <div class="h-features_content-wrap">
-                                <div class="h-features-up is-1">
-                                    <div data-w-id="4c43ea8b-5da6-477c-5f17-7b63f4739cec" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero-tag-wrap">
-                                        <div class="hero_tag-bar">
-                                            <div class="tag_inner is-2">
-                                                <div class="tag-text is-num">3</div>
-                                            </div>
-                                            <div class="tag-text">What we do</div>
-                                        </div>
-                                    </div>
-                                    <h2 words-slide-from-right text-split class="heading-style-h2">
-                                        Helped businesses transform ideas
-                                        into intuitive designs.
-                                    </h2>
-                                </div>
-                                <div class="work_grid-main">
-                                    <div class="work_grid-wrap">
-                                        <div class="work-col-wrap is-s">
-                                            <div class="work_block is-col-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5c225e40980e245c51_work-2.avif"
-                                                        loading="lazy"
-                                                        alt="Home page of Versailles"
-                                                        class="image-main is-work">
-                                                </div>
-                                            </div>
-                                            <div class="work_block is-col-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5d_image%20196.png"
-                                                        loading="lazy"
-                                                        alt="Home page of Styling Studio"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="work-col-wrap is-big">
-                                            <div class="work_block is-c-2-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae9_Desktop%20-%201.avif"
-                                                        loading="lazy"
-                                                        sizes="(max-width: 1366px) 100vw, 1366px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae9_Desktop%2520-%25201.avif 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aae9_Desktop%20-%201.avif 1366w"
-                                                        alt="Home page of WWY"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                            <div class="work_block is-c-2-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa5e_screencapture-rohanspatne-2025-02-04-15_11_46%201.png"
-                                                        loading="lazy"
-                                                        alt="Home page of Rohan Patne"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                            <div class="work_block is-c-2-3">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cdd1ea4aef476e146045_work-11.avif"
-                                                        loading="lazy"
-                                                        sizes="(max-width: 1752px) 100vw, 1752px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f8cdd1ea4aef476e146045_work-11-p-500.avif 500w, 67f115e64d4efc2ac4e1a9e3/67f8cdd1ea4aef476e146045_work-11-p-800.avif 800w, 67f115e64d4efc2ac4e1a9e3/67f8cdd1ea4aef476e146045_work-11-p-1080.avif 1080w, 67f115e64d4efc2ac4e1a9e3/67f8cdd1ea4aef476e146045_work-11.avif 1752w"
-                                                        alt="Home page of InGenius Global"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="work-col-wrap is-big">
-                                            <div class="work_block is-c-3-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa62_Desktop%20-%2032.png"
-                                                        loading="lazy"
-                                                        sizes="(max-width: 634px) 100vw, 634px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa62_Desktop%2520-%252032-p-500.png 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa62_Desktop%20-%2032.png 634w"
-                                                        alt="Page of Holiday Inn"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                            <div class="work_block is-c-3-2">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6a_image%20204.png"
-                                                        loading="lazy"
-                                                        sizes="(max-width: 632px) 100vw, 632px"
-                                                        srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6a_image%2520204-p-500.png 500w, 67f115e64d4efc2ac4e1aa6a_image%20204.png 632w"
-                                                        alt="Value Per Sqft Service section"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="work-col-wrap is-s">
-                                            <div class="work_block is-col-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa61_WhatsApp%20Image%202025-02-04%20at%2012.16.57_34789882%201.png"
-                                                        loading="lazy"
-                                                        alt="Home page of 9AI"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                            <div class="work_block is-col-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aa6b_WhatsApp%20Image%202025-02-04%20at%2012.33.27_b191d7d0%201.png"
-                                                        loading="lazy"
-                                                        alt="Home page of Infiwin"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="work_grid-wrap is-mob">
-                                        <div class="work-col-wrap is-s">
-                                            <div class="work_block is-col-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5b43be6776e0cef1ba_work-1.avif"
-                                                        loading="lazy"
-                                                        alt="Home page of Sentra World"
-                                                        class="image-main is-work">
-                                                </div>
-                                            </div>
-                                            <div class="work_block is-col-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5c225e40980e245c51_work-2.avif"
-                                                        loading="lazy"
-                                                        alt="Home page of Versailles"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="work-col-wrap is-big">
-                                            <div class="work_block is-c-2-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5bbd95f5cb70c23619_work-3.avif"
-                                                        loading="lazy"
-                                                        alt="Home page Camsol"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                            <div class="work_block is-c-2-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5bc21dd81402bcf5f7_work-4.avif"
-                                                        loading="lazy"
-                                                        alt="Home page of Rohan Patne"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                            <div class="work_block is-c-2-3">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5b630dd52ec4372fd5_work-5.avif"
-                                                        loading="lazy"
-                                                        alt="Screenshot of Param Renewables"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="work-col-wrap is-big">
-                                            <div class="work_block is-c-3-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5b53dfea6e8efc79e2_work-7.avif"
-                                                        loading="lazy"
-                                                        alt="Infiwin Screenshot"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                            <div class="work_block is-c-3-2">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5bea4aef476e133d99_work-8.avif"
-                                                        loading="lazy"
-                                                        alt="Screenshot of Intrici"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="work-col-wrap is-s">
-                                            <div class="work_block is-col-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5b4237adb1afe22417_work-9.avif"
-                                                        loading="lazy"
-                                                        alt="Screenshot of Sood Charity Foundation"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                            <div class="work_block is-col-1">
-                                                <div class="work_b-overlay"></div>
-                                                <div class="work_img-wrap">
-                                                    <img
-                                                        src="67f115e64d4efc2ac4e1a9e3/67f8cc5b5b8bccbcaf86f7c5_work-10.avif"
-                                                        loading="lazy"
-                                                        alt="Home page of Maqina 360"
-                                                        class="image-main">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </section>
-            </div>
 
             <!-- Timeline Section -->
-            <div id="sec-timeline" class="section-timeline-3">
-                <div class="sticky-sec h-timeline">
-                    <div class="section-3">
-                        <div class="padding-global">
-                            <div class="container-large">
-                                <div class="service_padding-2">
-                                    <div class="content-wrap-4 is-h-timeline">
-                                        <div class="content-top is-h-service researcch">
-                                            <div class="hide w-embed">
-                                                <style>
-                                                    .heading-large {
-                                                        -webkit-background-clip: text;
-                                                        -webkit-text-stroke: 2px transparent;
-                                                    }
-                                                </style>
-                                            </div>
-                                            <div class="timeline-up">
-                                                <div data-w-id="f3fc9015-f9fa-7a58-edf2-c2d4e69e30bc" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero-tag-wrap">
-                                                    <div class="hero_tag-bar">
-                                                        <div class="tag_inner is-2">
-                                                            <div class="tag-text">4</div>
-                                                        </div>
-                                                        <div class="tag-text">
-                                                            How we
-                                                            work
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <h2 words-slide-from-right text-split class="heading-style-h2 vh">
-                                                    Smooth
-                                                    Journey from Idea to Launch.
-                                                </h2>
-                                            </div>
-                                        </div>
-                                        <div class="content-bottom is-h-timeline">
-                                            <div data-w-id="d59dff16-65c3-c66f-1c33-065c82efd068" class="timeline__left-2">
-                                                <div
-                                                    data-poster-url="https://cdn.prod.website-files.com/6589245ce820a6b1591725fa/659051418823871013f5f50c_2-poster-00001.jpg"
-                                                    data-video-urls="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab9_2-poster-00001.jpg,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab9_2-transcode.mp4,https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab9_2-transcode.webm"
-                                                    data-autoplay="true"
-                                                    data-loop="true"
-                                                    data-wf-ignore="true"
-                                                    class="contact-bg-video _2 hide w-background-video w-background-video-atom">
-                                                    <video
-                                                        id="d59dff16-65c3-c66f-1c33-065c82efd069-video"
-                                                        autoplay
-                                                        loop
-                                                        style="background-image:url(" 6589245ce820a6b1591725fa/659051418823871013f5f50c_2-poster-00001.jpg")"
-                                                        muted
-                                                        playsinline
-                                                        data-wf-ignore="true"
-                                                        data-object-fit="cover">
-                                                        <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab9_2-poster-00001.jpg" data-wf-ignore="true">
-                                                        <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab9_2-transcode.mp4" data-wf-ignore="true">
-                                                        <source src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aab9_2-transcode.webm" data-wf-ignore="true">
-                                                    </video>
-                                                </div>
-                                            </div>
-                                            <div class="timeline__right">
-                                                <div class="timeline__down">
-                                                    <div data-w-id="d59dff16-65c3-c66f-1c33-065c82efd06c" class="timeline__content-wrap-3">
-                                                        <div data-w-id="d59dff16-65c3-c66f-1c33-065c82efd06d" class="timeline__content-3">
-                                                            <div class="f__title-wrap-3">
-                                                                <div class="timeline_heading">Research</div>
-                                                            </div>
-                                                            <div class="timeline__divider opacity-0"></div>
-                                                            <div class="f__subtitle-wrap">
-                                                                <p class="timeline_para-2">
-                                                                    We take the time to
-                                                                    understand your goals, your industry, and
-                                                                    your product inside out.
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                        <div data-w-id="d59dff16-65c3-c66f-1c33-065c82efd075" class="timeline__content-3">
-                                                            <div class="f__title-wrap-3">
-                                                                <div class="timeline_heading">Wireframe</div>
-                                                            </div>
-                                                            <div class="timeline__divider"></div>
-                                                            <div class="f__subtitle-wrap">
-                                                                <p class="timeline_para-2 _1">
-                                                                    From bold, modern
-                                                                    layouts to intuitive user flows, our
-                                                                    designers bring your brand to life with
-                                                                    designs that resonate. You’ll be part of the
-                                                                    process every step of the
-                                                                    way.
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                        <div data-w-id="d59dff16-65c3-c66f-1c33-065c82efd07d" class="timeline__content-3">
-                                                            <div class="f__title-wrap-3">
-                                                                <div class="timeline_heading">
-                                                                    Design and
-                                                                    Prototype
-                                                                </div>
-                                                            </div>
-                                                            <div class="timeline__divider"></div>
-                                                            <div class="f__subtitle-wrap">
-                                                                <p class="timeline_para-2">
-                                                                    Once the design is
-                                                                    finalized, our development team transforms
-                                                                    it into a fully functional app. To elevate
-                                                                    the user experience, we integrate smooth,
-                                                                    responsive animations that guide users
-                                                                    effortlessly as they navigate through the
-                                                                    app.
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                        <div data-w-id="d59dff16-65c3-c66f-1c33-065c82efd085" class="timeline__content-3">
-                                                            <div class="f__title-wrap-3">
-                                                                <div class="timeline_heading">Development</div>
-                                                            </div>
-                                                            <div class="timeline__divider"></div>
-                                                            <div class="f__subtitle-wrap">
-                                                                <p class="timeline_para-2">
-                                                                    Your feedback shapes
-                                                                    the process—we fine-tune the design to align
-                                                                    with your vision.
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                        <div data-w-id="d59dff16-65c3-c66f-1c33-065c82efd08d" class="timeline__content-3">
-                                                            <div class="f__title-wrap-3">
-                                                                <div class="timeline_heading">
-                                                                    Post Development
-                                                                    Support
-                                                                </div>
-                                                            </div>
-                                                            <div class="timeline__divider"></div>
-                                                            <div class="f__subtitle-wrap">
-                                                                <p class="timeline_para-2">
-                                                                    We support the
-                                                                    ongoing evolution of your product by
-                                                                    addressing feedback, making improvements,
-                                                                    and ensuring it continues to perform
-                                                                    smoothly over
-                                                                    time.
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div data-w-id="d59dff16-65c3-c66f-1c33-065c82efd095" class="timeline__line-2">
-                                                        <div class="t__gradient-2"></div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
 
             <!-- Our Work Section -->
             <section id="our-work" class="section_our-work">
@@ -1688,167 +1244,11 @@
                                             </div>
                                         </div>
                                         <h2 words-slide-from-right text-split class="heading-style-h2">
-                                            Crafted with purpose, driven by
-                                            results — this is our work.
+                                            Get a Look on our Awesome <br> Web Projects
                                         </h2>
                                     </div>
                                 </div>
                                 <div class="div-block-123 mt-5">
-                                    <div class="our-work-wrap">
-                                        <div class="div-block-113">
-                                            <div data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51b50" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="portfolio-main-wrap">
-                                                <div data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51b51" class="portfolio-imge-wrap">
-                                                    <div class="images-wrap-p small _1">
-                                                        <img
-                                                            sizes="(max-width: 505px) 100vw, 505px"
-                                                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp 505w"
-                                                            alt="Holiday Inn Screenshot"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp"
-                                                            loading="eager"
-                                                            class="portfolio-image">
-                                                        <img
-                                                            loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabf_Frame%2036613%20%281%29.webp"
-                                                            alt="Holiday Inn Screenshot"
-                                                            class="portfolio-image">
-                                                    </div>
-                                                    <div class="images-wrap-p _2">
-                                                        <img
-                                                            sizes="(max-width: 505px) 100vw, 505px"
-                                                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabe_Frame%2036616.webp 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabe_Frame%2036616.webp 505w"
-                                                            alt="Holiday Inn Screenshot"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabe_Frame%2036616.webp"
-                                                            loading="eager"
-                                                            class="portfolio-image">
-                                                        <img
-                                                            loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaba_Frame%2036612%20%281%29.svg"
-                                                            alt="Holiday Inn Screenshot"
-                                                            class="portfolio-image">
-                                                        <img
-                                                            sizes="(max-width: 505px) 100vw, 505px"
-                                                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabc_Frame%2036617.webp 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabc_Frame%2036617.webp 505w"
-                                                            alt="Holiday Inn Screenshot"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabc_Frame%2036617.webp"
-                                                            loading="eager"
-                                                            class="portfolio-image">
-                                                    </div>
-                                                    <div class="images-wrap-p small _3">
-                                                        <img
-                                                            sizes="(max-width: 505px) 100vw, 505px"
-                                                            srcset="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp 500w, 67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp 505w"
-                                                            alt="Holiday Inn Screenshot"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabb_Frame%2036614%20%281%29.webp"
-                                                            loading="eager"
-                                                            class="portfolio-image">
-                                                        <img
-                                                            loading="eager"
-                                                            src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aabf_Frame%2036613%20%281%29.webp"
-                                                            alt="Holiday Inn Screenshot"
-                                                            class="portfolio-image">
-                                                    </div>
-                                                    <div class="visit-website-wrap _1">
-                                                        <div class="div-block-186">
-                                                            <div class="text-block-41">
-                                                                visit
-                                                                website
-                                                                <br>
-                                                            </div>
-                                                            <div class="div-block-187">
-                                                                <img
-                                                                    loading="lazy"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacf_Keyboard%20arrow%20left.svg"
-                                                                    alt
-                                                                    class="image-35">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="visit-website-ddesk">
-                                                        <div class="div-block-350">
-                                                            <div adiuo="playBtn" class="copy-me-button">
-                                                                <div data-w-id="c59eb5ee-e7b1-9729-56b4-4709237f8643" class="button-9">
-                                                                    <div class="button-stroke">
-                                                                        <div class="button-inside">
-                                                                            <div class="text-and-icon">
-                                                                                <div class="text-flip-wrap">
-                                                                                    <div class="test-button">
-                                                                                        Learn
-                                                                                        More
-                                                                                    </div>
-                                                                                    <div class="test-button">
-                                                                                        Learn
-                                                                                        More
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="icon-wrapper">
-                                                                                    <img src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aad1_weui_arrow-filled2.svg" loading="lazy" alt>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="inside-glow-dv"></div>
-                                                                        </div>
-                                                                        <div style="-webkit-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(100%, 100%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="line-move"></div>
-                                                                    </div>
-                                                                    <div class="particles-wrapper">
-                                                                        <div
-                                                                            class="particles"
-                                                                            data-w-id="c59eb5ee-e7b1-9729-56b4-4709237f8650"
-                                                                            data-animation-type="lottie"
-                                                                            data-src="https://cdn.prod.website-files.com/642285a18b18e9995a3974c1/64228c6a7b96bd08f5c80d62_Particles.json"
-                                                                            data-loop="1"
-                                                                            data-direction="1"
-                                                                            data-autoplay="1"
-                                                                            data-is-ix2-target="0"
-                                                                            data-renderer="svg"
-                                                                            data-default-duration="20"
-                                                                            data-duration="4"></div>
-                                                                        <div class="bg-glow"></div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="ui-ux-design-wrap">
-                                                <div class="left-ui-ux-wrap">
-                                                    <div class="div-block-117">
-                                                        <div words-slide-from-right text-split class="text-block-32">
-                                                            Holiday
-                                                            Inn
-                                                        </div>
-                                                    </div>
-                                                    <div data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51b6f" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="apple-grid">
-                                                        <div class="apple1">
-                                                            <div class="text-block-33 texttt _1">
-                                                                <span class="text-span-9">
-                                                                    UI/UX
-                                                                    Design
-                                                                </span>
-                                                                <br>
-                                                            </div>
-                                                        </div>
-                                                        <div class="apple1">
-                                                            <div class="text-block-33 texttt _1">Development
-                                                                <br>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="right-ui-ux-wrap">
-                                                    <div class="div-block-116 _3">
-                                                        <p data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51b7e" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="par-main-2">
-                                                            We designed an interactive
-                                                            website and App for Holiday Inn, featuring a
-                                                            specially crafted wedding timeline and a
-                                                            uniquely designed menu to enhance user
-                                                            engagement and elevate the digital
-                                                            experience.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
                                     <div class="steathy-fit-wrap">
                                         <div class="steathy-fit">
                                             <div data-w-id="eea16183-0710-7b7c-69e7-46cfd6d51b82" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="steathy-fit-div">
@@ -1857,47 +1257,47 @@
                                                         <div class="images-wrap-steathyfit _1">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1abd_Frame%2036612%20%282%29.svg"
-                                                                alt="Stealthy Fit Screenshot"
+                                                                src="img/s4.jpg"
+                                                                alt="SrankBazzar"
                                                                 class="steathy-imag">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac1_Frame%2036611.svg"
-                                                                alt="Stealthy Fit Screenshot"
+                                                                src="img/s5.jpg"
+                                                                alt="Srankbazaar"
                                                                 class="steathy-imag">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1abd_Frame%2036612%20%282%29.svg"
-                                                                alt="Stealthy Fit Screenshot"
+                                                                src="img/s3.jpg"
+                                                                alt="Srankbazaar"
                                                                 class="steathy-imag">
                                                         </div>
                                                         <div class="images-wrap-steathyfit _2 _2nd">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac0_Frame%2036613%20%282%29.webp"
-                                                                alt="Stealthy Fit Screenshot"
+                                                                src="img/s1.jpg"
+                                                                alt="Srankbazaar"
                                                                 class="steathy-imag">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac3_Frame%2036605.webp"
-                                                                alt="Stealthy Fit Screenshot"
+                                                                src="img/s2.jpg"
+                                                                alt="Srankbazaar"
                                                                 class="steathy-imag">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac2_Frame%2036608.webp"
-                                                                alt="Stealthy Fit Screenshot"
+                                                                src="img/s3.jpg"
+                                                                alt="Srankbazaar"
                                                                 class="steathy-imag">
                                                         </div>
                                                         <div class="images-wrap-steathyfit _3 _3rs">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac4_Frame%2036612%20%281%29.webp"
-                                                                alt="Stealthy Fit Screenshot"
+                                                                src="img/s3.jpg"
+                                                                alt="Srankbazaar"
                                                                 class="steathy-imag">
                                                             <img
                                                                 loading="eager"
-                                                                src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac3_Frame%2036605.webp"
-                                                                alt="Stealthy Fit Screenshot"
+                                                                src="img/S6.jpg"
+                                                                alt="Srankbazaar"
                                                                 class="steathy-imag">
                                                         </div>
                                                         <div class="visit-website-ddesk">
@@ -1909,12 +1309,10 @@
                                                                                 <div class="text-and-icon">
                                                                                     <div class="text-flip-wrap">
                                                                                         <div class="test-button">
-                                                                                            Learn
-                                                                                            More
+                                                                                            Contact Now
                                                                                         </div>
                                                                                         <div class="test-button">
-                                                                                            Learn
-                                                                                            More
+                                                                                        Contact Now
                                                                                         </div>
                                                                                     </div>
                                                                                     <div class="icon-wrapper">
@@ -1947,41 +1345,15 @@
                                                     </div>
                                                 </div>
                                             </div>
+
+                                            
+
                                             <div class="ui-ux-design-wrap _2">
                                                 <div class="left-ui-ux-wrap _2">
                                                     <div class="div-block-117">
                                                         <div words-slide-from-right text-split class="text-block-32">
-                                                            Steathy
-                                                            Fit
+                                                            SrankBazaar
                                                         </div>
-                                                    </div>
-                                                    <div data-w-id="0a62be18-9e12-a85a-e00c-05028c51bc4c" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="apple-grid">
-                                                        <div class="apple1">
-                                                            <div class="text-block-33 texttt _1">
-                                                                <span class="text-span-9">
-                                                                    3D
-                                                                    Animation
-                                                                </span>
-                                                                <br>
-                                                            </div>
-                                                        </div>
-                                                        <div class="apple1">
-                                                            <div class="text-block-33 texttt _1">Ecommerce
-                                                                <br>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="right-ui-ux-wrap _2">
-                                                    <div class="div-block-116">
-                                                        <p data-w-id="0a62be18-9e12-a85a-e00c-05028c51bc5b" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="par-main-2">
-                                                            We created stunning 3D
-                                                            animations for their brand and designed an
-                                                            intuitive UI/UX for their website, App and
-                                                            eCommerce platform, delivering a seamless and
-                                                            visually engaging
-                                                            experience.
-                                                        </p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -1994,46 +1366,46 @@
                                                             <div class="images-wrap-gensol _1">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac5_Group%20427318588.webp"
+                                                                    src="img/y4.jpg"
                                                                     alt="Gensol Screenshot"
                                                                     class="gensol-image">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aacd_timeline.webp"
+                                                                    src="img/y5.jpg"
                                                                     alt="Sentra  World Screenshot"
                                                                     class="gensol-image">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac7_Group%20427318590.webp"
+                                                                    src="img/y6.jpg"
                                                                     alt="Gensol Screenshot"
                                                                     class="gensol-image">
                                                             </div>
                                                             <div class="images-wrap-gensol _2">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac5_Group%20427318588.webp"
+                                                                    src="img/y1.jpg"
                                                                     alt="Gensol Screenshot"
                                                                     class="gensol-image">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac6_Group%20427318589.webp"
+                                                                    src="img/y2.jpg"
                                                                     alt="Gensol Screenshot"
                                                                     class="gensol-image">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac7_Group%20427318590.webp"
+                                                                    src="img/y3.jpg"
                                                                     alt="Gensol Screenshot"
                                                                     class="gensol-image">
                                                             </div>
                                                             <div class="images-wrap-gensol _3">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac8_Group%20427318589%20%281%29.webp"
+                                                                    src="img/y3.jpg"
                                                                     alt="Scorpius Trakers Screenshot"
                                                                     class="gensol-image">
                                                                 <img
                                                                     loading="eager"
-                                                                    src="67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aac8_Group%20427318589%20%281%29.webp"
+                                                                    src="img/y7.jpg"
                                                                     alt="Scorpius Trakers Screenshot"
                                                                     class="gensol-image">
                                                                 <img
@@ -2052,11 +1424,9 @@
                                                                                 <div class="text-and-icon">
                                                                                     <div class="text-flip-wrap">
                                                                                         <div class="test-button">
-                                                                                            Learn
-                                                                                            More
+                                                                                            Contact Now
                                                                                         </div>
-                                                                                        <div class="test-button"> Learn
-                                                                                            More
+                                                                                        <div class="test-button"> Contact Now
                                                                                         </div>
                                                                                     </div>
                                                                                     <div class="icon-wrapper">
@@ -2091,38 +1461,10 @@
                                             </div>
                                             <div class="ui-ux-design-wrap _2">
                                                 <div class="left-ui-ux-wrap _2">
-                                                    <div class="div-block-117">
+                                                    <div class="div-block-100">
                                                         <div words-slide-from-right text-split class="text-block-32">
-                                                            Gensol
-                                                            Engineering
+                                                            SrankYatra
                                                         </div>
-                                                    </div>
-                                                    <div data-w-id="9772ce2f-3c90-438a-8b91-986503219948" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="apple-grid">
-                                                        <div class="apple1">
-                                                            <div class="text-block-33 texttt _1">
-                                                                <span class="text-span-9">
-                                                                    UI/UX
-                                                                    Design
-                                                                </span>
-                                                                <br>
-                                                            </div>
-                                                        </div>
-                                                        <div class="apple1">
-                                                            <div class="text-block-33 texttt _1">Development
-                                                                <br>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="right-ui-ux-wrap _2">
-                                                    <div class="div-block-116">
-                                                        <p data-w-id="9772ce2f-3c90-438a-8b91-986503219957" style="opacity:0;-webkit-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 25px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="par-main-2">
-                                                            We designed and developed a
-                                                            corporate website and an intuitive app with a
-                                                            refined UI/UX, aligning with their brand’s
-                                                            professional and innovative
-                                                            identity
-                                                        </p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -2542,8 +1884,7 @@
                                             <div class="c-faq-q">
                                                 <div class="c-faq-q-text">
                                                     <div class="heading-style-h4-2 is-light">
-                                                        What does
-                                                        Metaminds Studio specialize in?
+                                                    What services does SrankTech offer?
                                                     </div>
                                                     <p class="faq_num _01">
                                                         <br>
@@ -2568,18 +1909,117 @@
                                             <div class="c-faq-a">
                                                 <div class="c-faq-a-text">
                                                     <p class="faq-a-text">
-                                                        Metaminds Studio is a Flutter
-                                                        app development agency based in India, catering to
-                                                        remote global clients. We build high-quality,
-                                                        scalable, and interactive mobile applications with
-                                                        a focus on smooth user
-                                                        experiences.
+                                                    SrankTech specializes in developing custom mobile applications (Android and iOS) and web applications tailored to your business needs. From UI/UX design to backend development and deployment, we provide end-to-end digital solutions.
                                                         <br>
                                                     </p>
                                                 </div>
                                             </div>
                                         </div>
-                                      
+                                        <div data-click="faq" class="c-faq-item">
+                                            <div class="c-faq-q">
+                                                <div class="c-faq-q-text">
+                                                    <div class="heading-style-h4-2 is-light">
+                                                    What industries does SrankTech work with?
+                                                    </div>
+                                                    <p class="faq_num _01">
+                                                        <br>
+                                                    </p>
+                                                </div>
+                                                <div class="div-block-361">
+                                                    <div
+                                                        data-is-ix2-target="1"
+                                                        class="faq_icon"
+                                                        data-w-id="182bb3b1-92c6-ceb1-0946-2053a0517e2d"
+                                                        data-animation-type="lottie"
+                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
+                                                        data-loop="0"
+                                                        data-direction="1"
+                                                        data-autoplay="0"
+                                                        data-renderer="svg"
+                                                        data-default-duration="0"
+                                                        data-duration="2.5"
+                                                        data-ix2-initial-state="0"></div>
+                                                </div>
+                                            </div>
+                                            <div class="c-faq-a">
+                                                <div class="c-faq-a-text">
+                                                    <p class="faq-a-text">
+                                                    We serve a wide range of industries including e-commerce, education, healthcare, logistics, fintech, and more. Whether you're a startup or an established enterprise, we can build scalable solutions for your business.
+                                                        <br>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div data-click="faq" class="c-faq-item">
+                                            <div class="c-faq-q">
+                                                <div class="c-faq-q-text">
+                                                    <div class="heading-style-h4-2 is-light">
+                                                    How long does it take to develop a mobile or web application?
+                                                    </div>
+                                                    <p class="faq_num _01">
+                                                        <br>
+                                                    </p>
+                                                </div>
+                                                <div class="div-block-361">
+                                                    <div
+                                                        data-is-ix2-target="1"
+                                                        class="faq_icon"
+                                                        data-w-id="182bb3b1-92c6-ceb1-0946-2053a0517e2d"
+                                                        data-animation-type="lottie"
+                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
+                                                        data-loop="0"
+                                                        data-direction="1"
+                                                        data-autoplay="0"
+                                                        data-renderer="svg"
+                                                        data-default-duration="0"
+                                                        data-duration="2.5"
+                                                        data-ix2-initial-state="0"></div>
+                                                </div>
+                                            </div>
+                                            <div class="c-faq-a">
+                                                <div class="c-faq-a-text">
+                                                    <p class="faq-a-text">
+                                                    The development timeline depends on the complexity and features of your app. On average, a basic app can take 4–6 weeks, while more advanced applications may require 2–3 months or longer. We provide detailed timelines after a project assessment.
+                                                        <br>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div data-click="faq" class="c-faq-item">
+                                            <div class="c-faq-q">
+                                                <div class="c-faq-q-text">
+                                                    <div class="heading-style-h4-2 is-light">
+                                                    Does SrankTech provide ongoing support after the app is launched?
+                                                    </div>
+                                                    <p class="faq_num _01">
+                                                        <br>
+                                                    </p>
+                                                </div>
+                                                <div class="div-block-361">
+                                                    <div
+                                                        data-is-ix2-target="1"
+                                                        class="faq_icon"
+                                                        data-w-id="182bb3b1-92c6-ceb1-0946-2053a0517e2d"
+                                                        data-animation-type="lottie"
+                                                        data-src="https://cdn.prod.website-files.com/67f115e64d4efc2ac4e1a9e3/67f115e64d4efc2ac4e1aaea_lottieflow-dropdown-07-2-373782-easey.json"
+                                                        data-loop="0"
+                                                        data-direction="1"
+                                                        data-autoplay="0"
+                                                        data-renderer="svg"
+                                                        data-default-duration="0"
+                                                        data-duration="2.5"
+                                                        data-ix2-initial-state="0"></div>
+                                                </div>
+                                            </div>
+                                            <div class="c-faq-a">
+                                                <div class="c-faq-a-text">
+                                                    <p class="faq-a-text">
+                                                    Yes! We offer post-launch support, maintenance, and updates to ensure your app remains secure, functional, and aligned with user needs. We also provide performance monitoring and optimization services.
+                                                        <br>
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

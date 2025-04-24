@@ -6,12 +6,12 @@
       <!-- Brand & Contact -->
       <div class="col-lg-4 col-md-6 mb-4">
         <div class="mb-3 d-flex align-items-center">
-          <img src="img/logo.png" alt="SrAnkTech Logo" height="40" class="me-2">
-          <h5 class="mb-0">SrAnkTech</h5>
+          <img src="img/logo.png" alt="Sranktech" height="40" class="me-2">
+          <h5 class="mb-0">Sranktech</h5>
         </div>
         <p class="small">
-          Office 22-23, 1st Floor, Samrin Heritage, <br>
-          SrAnkTech Studio, opp. Sarovar Darshan, <br>
+          D-80 Red FM Road <br>
+          Noida , Uttarpradesh <br>
           Thane, Maharashtra 400601
         </p>
         <p class="mb-1">
@@ -28,11 +28,6 @@
             <li><a href="index.html" class="text-white text-decoration-none">Home</a></li>
             <li><a href="about-us.html" class="text-white text-decoration-none">About Us</a></li>
             <li><a href="careers.html" class="text-white text-decoration-none">Careers</a></li>
-          </ul>
-          <ul class="list-unstyled">
-            <li><a href="https://website.sranktech.com" target="_blank" class="text-white text-decoration-none">Website</a></li>
-            <li><a href="#" class="text-white text-decoration-none">Privacy Policy</a></li>
-            <li><a href="#" class="text-white text-decoration-none">Refund Policy</a></li>
           </ul>
         </div>
       </div>
